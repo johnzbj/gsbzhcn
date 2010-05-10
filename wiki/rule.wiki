@@ -1,0 +1,7 @@
+= 翻译规范 =
+
+  * 文本多为INI格式，翻译时，先将原文复制一行，然后将原文注释掉，再复制的一行中，进行翻译。
+例如：
+
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
