@@ -4,12 +4,12 @@
   # 先将原文复制一行
   # 然后将原文用"#"注释掉
   # 在复制的一行中，进行翻译。
-  *例如*:
-   原文：
+  例如:
+   _原文_：
 {{{
 CHALLENGES_MAIN_MENU			= "Main Menu"
 }}}
-   翻译后:
+   _翻译后_:
 {{{
 #CHALLENGES_MAIN_MENU			= "Main Menu"
 CHALLENGES_MAIN_MENU			= "主菜单"
