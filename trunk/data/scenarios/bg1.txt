@@ -1,0 +1,22 @@
+[config]
+gui_id = 3
+backdrop = "bg1.jpg"
+icon = "bg1_icon.jpg"
+name = "scenario1"
+guiname = "Defending Sirius"
+mapsizex = 2048
+mapsizey = 2048
+player_deployment = 10,10,710,2038
+ai_deployment = 1348,10,2038,2038
+starfield = 0
+fleetcostlimit = 20000
+pilotlimit = 50
+enemyrace = alliance
+shader = "data/shaders/default_noeffect.fx"
+description = "No spatial anomalies"
+size = "small"
+unlocked_after = tutorial1
+
+[variables]
+
+

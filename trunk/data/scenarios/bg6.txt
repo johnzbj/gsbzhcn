@@ -1,0 +1,21 @@
+[config]
+gui_id = 8
+backdrop = "bg6.jpg"
+icon = "bg6_icon.jpg"
+name = "scenario6"
+guiname = "The Chaos Nebula"
+mapsizex = 4096
+mapsizey = 4096
+player_deployment = 10,100,910,3996
+ai_deployment = 3100,100,4056,3996
+starfield = 1
+fleetcostlimit = 50000
+pilotlimit = 90
+enemyrace = rebel
+shader = "data/shaders/default_noeffect.fx"
+description = "Engine speed reduced by 15%"
+size = "large"
+unlocked_after = "scenario5"
+
+[variables]
+ENGINE_SPEED_MULTIPLIER,0.75

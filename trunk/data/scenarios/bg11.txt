@@ -1,0 +1,22 @@
+[config]
+gui_id = 13
+backdrop = "bg11.jpg"
+icon = "bg11_icon.jpg"
+name = "scenario11"
+guiname = "Battle above Edyai IX"
+mapsizex = 2048
+mapsizey = 2048
+player_deployment = 10,10,710,2038
+ai_deployment = 1348,10,2038,2038
+starfield = 0
+fleetcostlimit = 25000
+pilotlimit = 80
+enemyrace = rebel
+shader = 
+description = "No spatial anomalies"
+size = "small"
+unlocked_after = "scenario10"
+
+[variables]
+CRUISERS_INOPERABLE
+ENGINES_REQUIRED

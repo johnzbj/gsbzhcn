@@ -1,0 +1,24 @@
+[config]
+gui_id = 6
+backdrop = "bg4.jpg"
+icon = "bg4_icon.jpg"
+name = "scenario4"
+guiname = "The Emerald Nebula"
+mapsizex = 2048
+mapsizey = 2048
+player_deployment = 10,10,710,2038
+ai_deployment = 1348,10,2038,2038
+starfield = 1
+fleetcostlimit = 30000
+pilotlimit = 100
+enemyrace = alliance
+shader = "data/shaders/default_noeffect.fx"
+description = "Weapon ranges reduced by 25%"
+size = "small"
+unlocked_after = "scenario3"
+
+[variables]
+WEAPON_RANGE_MULTIPLIER,0.75
+ENGINES_REQUIRED
+SHIELDS_INOPERABLE
+

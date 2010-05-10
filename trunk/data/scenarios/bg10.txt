@@ -1,0 +1,20 @@
+[config]
+gui_id = 12
+backdrop = "bg10.jpg"
+icon = "bg10_icon.jpg"
+name = "scenario10"
+guiname = "Lucifer's Nebula"
+mapsizex = 4000
+mapsizey = 4000
+player_deployment = 10,200,1200,3800
+ai_deployment = 2800,200,3950,3800
+starfield = 1
+fleetcostlimit = 45000
+pilotlimit = 300
+enemyrace = rebel
+shader = "data/shaders/default_noeffect.fx"
+description = "No spatial anomalies"
+size = "large"
+unlocked_after = "scenario9"
+
+[variables]

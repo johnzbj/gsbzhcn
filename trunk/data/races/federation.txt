@@ -1,0 +1,86 @@
+[config]
+name = "federation"
+guiname = "Federation"
+logo = "federation.jpg"
+debrisstartuv = 32
+debrisenduv = 64
+escapepodid = 2
+shield = "normal_shield.dds"
+description = "The galactic commerce federation may not have the largest space fleet, but it remains the dominant economic force in the galaxy. Their free-market philosophy extends right up to individual spaceship captains, who are billed for every shot fired, and credited for every verified kill. Technically, the commerce federation has no navy, and it's collection of armored spaceships merely form part of it's 'contract enforcement department'.
+repairbotid = 1
+contrailid = 1
+music = federation_battle.ogg
+shieldcollapseuv = 1
+defaultnames = gratuitous
+guiid = 0
+lockable = 0
+unlockcost = 0
+
+[turrets]
+turret_auto_v1 = fed_turret_auto_v1.dds,turrets_federation.dds,0
+turret_auto_v2 = fed_turret_auto_v2.dds,turrets_federation.dds,1
+turret_auto_v3 = fed_turret_auto_v3.dds,turrets_federation.dds,2
+turret_auto_v4 = fed_turret_auto_v4.dds,turrets_federation.dds,3
+turret_auto_v5 = fed_turret_auto_v5.dds,turrets_federation.dds,4
+turret_auto_v6 = fed_turret_auto_v6.dds,turrets_federation.dds,5
+turret_bull_v1 = fed_turret_bull_v1.dds,turrets_federation.dds,6
+turret_bull_v2 = fed_turret_bull_v2.dds,turrets_federation.dds,7
+turret_bull_v3 = fed_turret_bull_v3.dds,turrets_federation.dds,8
+turret_bull_v4 = fed_turret_bull_v4.dds,turrets_federation.dds,9
+turret_las_v1 = fed_turret_las_v1.dds,turrets_federation.dds,10
+turret_las_v2 = fed_turret_las_v2.dds,turrets_federation.dds,11
+turret_las_v3 = fed_turret_las_v3.dds,turrets_federation.dds,12
+turret_las_v4 = fed_turret_las_v4.dds,turrets_federation.dds,13
+turret_las_v5 = fed_turret_las_v5.dds,turrets_federation.dds,14
+turret_miss_v1 = fed_turret_miss_v1.dds,turrets_federation.dds,15
+turret_miss_v2 = fed_turret_miss_v2.dds,turrets_federation.dds,16
+turret_miss_v3 = fed_turret_miss_v3.dds,turrets_federation.dds,17
+turret_miss_v4 = fed_turret_miss_v4.dds,turrets_federation.dds,18
+turret_miss_v5 = fed_turret_miss_v5.dds,turrets_federation.dds,19
+turret_pd_v1 = federation_turret_pd_v1.dds,turrets_federation.dds,22
+turret_pd_v2 = federation_turret_pd_v2.dds,turrets_federation.dds,23
+tractor_turret_v1 = tractor_turret_v1.dds,turrets_federation.dds,27
+tractor_turret_v2 = tractor_turret_v2.dds,turrets_federation.dds,29
+turret_plasma_v1 = plasma_turret_v1.dds,turrets_federation.dds,24
+turret_plasma_v2 = plasma_turret_v2.dds,turrets_federation.dds,25
+turret_plasma_v3 = plasma_turret_v3.dds,turrets_federation.dds,26
+turret_plasma_v4 = plasma_turret_v3.dds,turrets_federation.dds,26
+turret_ecm_v1 = fed_turret_ecm_v1.dds,turrets_federation.dds,31
+
+[victory_messages]
+0 = "A thoroughly profitable victory! Your market worth will rise appropriately on the federation stock market."
+1 = "Excellent work! I'm sure that your military genius will lead to substantial profits for your department!"
+2 = "Not bad at all. Personally I bet my money on the opposition, but hey, it's just business right?"
+3 = "An excellent victory. And this is just the start. Think victory hats, victory mouse-mats, the works!"
+
+[defeat_messages]
+1 = "Many federation lives lost, and worse still, a huge financial loss. Those spaceships aren't cheap you know...."
+2 = "This is a disaster. How is a military defeat like this going to look on our profit projections?"
+3 = "In retrospect, I'm not sure going with the lowest bidder for those spaceship hulls was such a smart move."
+4 = "Yes your fleet was pulverized, but the good news is we made a killing on the TV rights to the battle."
+
+[crew]
+0 = "Hank"
+1 = "Preston"
+2 = "Shane"
+3 = "Travis"
+4 = "Damian"
+5 = "Brandon"
+6 = "Bart"
+7 = "Tyler"
+8 = "Ryan"
+9 = "Mike"
+10 = "Matt"
+11 = "Ethan"
+12 = "Dave"
+13 = "Zack"
+14 = "Caleb"
+15 = "Kevin"
+16 = "Milo"
+17 = "Tappman"
+18 = "Nately"
+19 = "Snowden"
+20 = "Appleby"
+21 = "McWatt"
+22 = "Orr"
+23 = "Towser"

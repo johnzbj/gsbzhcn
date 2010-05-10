@@ -1,0 +1,20 @@
+[config]
+gui_id = 7
+backdrop = "bg5.jpg"
+icon = "bg5_icon.jpg"
+name = "scenario5"
+guiname = "Conquering Chiarn Prime"
+mapsizex = 3200
+mapsizey = 3200
+player_deployment = 10,50,780,3150
+ai_deployment = 2500,50,3150,3150
+starfield = 0
+fleetcostlimit = 40000
+pilotlimit = 70
+enemyrace = rebel
+shader = "data/shaders/default_noeffect.fx"
+description = "No spatial anomalies"
+size = "medium"
+unlocked_after = "scenario4"
+
+[variables]

@@ -1,0 +1,26 @@
+[config]
+gui_id = 9
+backdrop = "bg7.jpg"
+icon = "bg7_icon.jpg"
+name = "scenario7"
+guiname = "The Multari Gas Giant"
+mapsizex = 4096
+mapsizey = 4096
+player_deployment = 10,100,1000,3996
+ai_deployment = 3000,100,4056,3996
+starfield = 0
+fleetcostlimit = 40000
+pilotlimit = 150
+enemyrace = empire
+shader = "data/shaders/default_noeffect.fx"
+description = "No spatial anomalies"
+size = "large"
+unlocked_after = "scenario6"
+lightningintensity = 0.54
+lightninginterval = 2200
+
+[variables]
+REPAIR_INOPERABLE
+ENGINES_REQUIRED
+CLOAK_INOPERABLE
+

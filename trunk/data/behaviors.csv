@@ -1,0 +1,14 @@
+token,name,guiname,description,slider1valid?,slider2valid?,target,slider1guiname,slider2guiname,slid1type,slid2type,slider1min,slider1max,slider2min,slider2max,default1,default2
+#,ATTACK_FIGHTERS,Attack Fighters,"Engage enemy fighters with the given priority and ideal range. To avoid engaging these ships, delete this behavior.",1,1,0,Priority,Move to attack at this range,PERCENTAGE,FLOAT,0.01,1,100,2000,0.5,200
+#,ATTACK_FRIGATES,Attack Frigates,"Engage enemy frigates with the given priority and ideal range. To avoid engaging these ships, delete this behavior.",1,1,0,Priority,Move to attack at this range,PERCENTAGE,FLOAT,0.01,1,100,2000,0.5,600
+#,ATTACK_CRUISERS,Attack Cruisers,"Engage enemy cruisers with the given priority and ideal range. To avoid engaging these ships, delete this behavior.",1,1,0,Priority,Move to attack at this range,PERCENTAGE,FLOAT,0.01,1,100,2000,0.5,900
+#,CO_OPERATIVE,Co-operative,Concentrate fire on ships selected as targets by your fellow ships,0,0,0,,,,,,,,,,
+#,VULTURE,Vulture,Concentrate fire on enemy ships that are already badly damaged in an effort to finish them off,0,0,0,,,,,,,,,,
+#,CAUTIOUS,Cautious,Retreat from the front line if you are taking too much damage,1,0,0,Retreat At Damage,,PERCENTAGE,,0.01,1,,,0.25,
+#,RESCUER,Rescuer,"Concentrate fire on enemy ships who are attacking our fellow ships, to save them from defeat",0,0,0,,,,,,,,,,
+#,PROTECTIVE,Protector,Concentrate fire on enemy ships that are attacking a specific named ship,0,0,1,,,,,,,,,,
+#,ESCORT,Escort,Stay within a certain distance from a named friendly ship. Incompatible with the formation or keep moving orders. (Shortcut to add order is shift+E),1,0,1,Range,,FLOAT,,100,600,,,100,
+#,FORMATION,Formation,"Maintain set position, where possible from named friendly ship. Incompatible with the escort or keep moving orders. (Shortcut to add order is shift+F)",0,0,1,,,,,,,,,,
+#,RETALIATE,Retaliate,Return fire against anyone attacking your ship,0,0,0,,,,,,,,,,
+#,KEEPMOVING,Keep Moving,Continually move to a new location within range of your target so as not to be a sitting duck. This is incompatible with the escort or Formation orders.,0,0,0,,,,,,,,,,
+#,STICKTOGETHER,Stick Together,Keep the members of this squadron in close proximity to the squad leader,1,0,0,Seperation,,FLOAT,,12,48,,,14,
