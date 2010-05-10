@@ -1,14 +1,16 @@
 = 翻译规范 =
 
-  * 文本多为INI格式，翻译时，先将原文复制一行，然后将原文注释掉，再复制的一行中，进行翻译。例如:
-原文：
+ * INI格式的文本，翻译时
+  # 先将原文复制一行
+  # 然后将原文用"#"注释掉
+  # 在复制的一行中，进行翻译。
+  *例如*:
+   原文：
 {{{
 CHALLENGES_MAIN_MENU			= "Main Menu"
 }}}
-翻译后:
+   翻译后:
 {{{
 #CHALLENGES_MAIN_MENU			= "Main Menu"
 CHALLENGES_MAIN_MENU			= "主菜单"
 }}}
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
