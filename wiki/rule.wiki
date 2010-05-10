@@ -1,8 +1,8 @@
 = 翻译规范 =
 
- * INI格式的文本，翻译时
+ * *INI格式*的文本，翻译时
   # 先将原文复制一行
-  # 然后将原文用"#"注释掉
+  # 然后将原文用"#"注释掉（注意不要打成全角的＃）
   # 在复制的一行中，进行翻译。
   例如:
    _原文_：
@@ -14,3 +14,5 @@ CHALLENGES_MAIN_MENU			= "Main Menu"
 #CHALLENGES_MAIN_MENU			= "Main Menu"
 CHALLENGES_MAIN_MENU			= "主菜单"
 }}}
+
+ * *CSV格式*的文本，翻译时，直接翻译引号中的文本即可
