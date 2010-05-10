@@ -1,0 +1,76 @@
+[config]
+name = "empire"
+guiname = "Empire"
+logo = "empire.jpg"
+debrisstartuv = 96
+debrisenduv = 128
+escapepodid = 0
+shield = "imperial_shield.dds"
+description = "Founded at least 30,000 years ago, the Empire is so shrouded in history and myth that its exact name and its origins are long forgotten. The empire are a technologically obsessed species, relying on high tech shields in preference to armored spaceships. The current emperor took power over 1,100 years ago, and despite coming from a species whose lifespan rarely exceeds 100, the official line is that he merely 'under the weather' which is why he is no longer seen in public."
+repairbotid = 2
+contrailid = 2
+music = empire_battle.ogg
+shieldcollapseuv = 2
+defaultnames = roman
+guiid = 3
+lockable = 1
+unlockcost = 10000
+unlock_texture = "Imperial Centurion Cruiser.dds"
+
+[turrets]
+turret_auto_v1 = empire_turret_auto.dds,turrets_empire.dds,0
+turret_auto_v2 = empire_turret_auto.dds,turrets_empire.dds,0
+turret_auto_v3 = empire_turret_auto.dds,turrets_empire.dds,0
+turret_auto_v4 = empire_turret_auto.dds,turrets_empire.dds,0
+turret_auto_v5 = empire_turret_auto.dds,turrets_empire.dds,0
+turret_auto_v6 = empire_turret_auto.dds,turrets_empire.dds,0
+turret_bull_v1 = empire_turret_gun1.dds,turrets_empire.dds,8
+turret_bull_v2 = empire_turret_gun2.dds,turrets_empire.dds,9
+turret_bull_v3 = empire_turret_gun3.dds,turrets_empire.dds,10
+turret_bull_v4 = empire_turret_gun4.dds,turrets_empire.dds,11
+turret_las_v1 = empire_turret_energy1.dds,turrets_empire.dds,1
+turret_las_v2 = empire_turret_energy2.dds,turrets_empire.dds,2
+turret_las_v3 = empire_turret_energy3.dds,turrets_empire.dds,3
+turret_las_v4 = empire_turret_energy4.dds,turrets_empire.dds,4
+turret_las_v5 = empire_turret_energy5.dds,turrets_empire.dds,5
+turret_miss_v1 = empire_turret_missile.dds,turrets_empire.dds,13
+turret_miss_v2 = empire_turret_missile.dds,turrets_empire.dds,13
+turret_miss_v3 = empire_turret_missile.dds,turrets_empire.dds,13
+turret_miss_v4 = empire_turret_missile.dds,turrets_empire.dds,13
+turret_miss_v5 = empire_turret_missile.dds,turrets_empire.dds,13
+turret_pd_v1 = empire_turret_auto.dds,turrets_empire.dds,0
+turret_pd_v2 = empire_turret_auto.dds,turrets_empire.dds,0
+tractor_turret_v1 = tractor_turret_v1.dds,turrets_empire.dds,27
+tractor_turret_v2 = tractor_turret_v2.dds,turrets_empire.dds,29
+turret_plasma_v1 = plasma_turret_v1.dds,turrets_empire.dds,24
+turret_plasma_v2 = plasma_turret_v2.dds,turrets_empire.dds,25
+turret_plasma_v3 = plasma_turret_v3.dds,turrets_empire.dds,26
+turret_ecm_v1 = empire_turret_energy1.dds,turrets_empire.dds,1
+
+[victory_messages]
+0 = "A fantastic victory in the name of the empire! Glory be to the emperor!, and some to you as well I suppose..."
+1 = "Excellent work. Once more the mighty power of the imperial fleet is clearly demonstrated throughout the galaxy!"
+2 = "Good work, the emperor himself is most pleased with your victory, minuscule though it may be in the grand scheme..."
+
+[defeat_messages]
+1 = "Disaster, we are defeated and the name of the emperor is besmirched. This is a disaster. Also, you will be executed immediately."
+2 = "Look at what you have done. Lesser space empires will now be looking down on us. Your death will be a minor consolation."
+3 = "You will find your next mission comparatively simple. It's to find an airlock, and then find the 'open doors' button. Proceed."
+
+[crew]
+0 = "Julius"
+1 = "Aulus"
+2 = "Appius"
+3 = "Gaius"
+4 = "Decimus"
+5 = "Lucius"
+6 = "Marcus"
+7 = "Manius"
+8 = "Numerius"
+9 = "Publius"
+10 = "Quintus"
+11 = "Servius"
+12 = "Sextus"
+13 = "Spurius"
+14 = "Titus"
+15 = "Tiberius"

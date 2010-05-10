@@ -1,0 +1,36 @@
+[config]
+gui_id = 15
+backdrop = "survival2.jpg"
+icon = "survival2_icon.jpg"
+name = "survival2"
+guiname = "The Orion Ambush"
+mapsizex = 2600
+mapsizey = 2600
+player_deployment = 800,400,1800,2200
+ai_deployment = 10,10,2590,2590
+starfield = 1
+fleetcostlimit = 15000
+pilotlimit = 60
+enemyrace = alliance
+shader = ""
+description = "No spatial anomalies"
+size = "medium"
+unlocked_after = "scenario1"
+type = "SURVIVAL"
+
+[variables]
+ENGINES_REQUIRED
+FIGHTERS_INOPERABLE
+
+[waves]
+0 = wave1_0.txt,3000,
+1 = wave1_1.txt,3000,
+2 = wave1_2.txt,2000,
+3 = wave1_3.txt,3000,
+4 = wave1_4.txt,2400,
+5 = wave1_5.txt,5000,
+6 = wave1_6.txt,7800,
+7 = wave1_7.txt,7800,
+
+
+

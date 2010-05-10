@@ -1,0 +1,21 @@
+[config]
+gui_id = 1
+backdrop = "bg1.jpg"
+icon = "bg1_icon.jpg"
+name = "tutorial1"
+guiname = "Tutorial (Adding Ships)"
+mapsizex = 2048
+mapsizey = 2048
+player_deployment = 10,10,710,2038
+ai_deployment = 1348,10,2038,2038
+starfield = 0
+fleetcostlimit = 10000
+pilotlimit = 30
+enemyrace = alliance
+shader = "data/shaders/default_noeffect.fx"
+description = "No spatial anomalies"
+size = "small"
+unlocked_after = 
+type = TUTORIAL
+
+[variables]

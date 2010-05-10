@@ -1,0 +1,20 @@
+[config]
+gui_id = 10
+backdrop = "bg8.jpg"
+icon = "bg8_icon.jpg"
+name = "scenario8"
+guiname = "Defend Caspian IV"
+mapsizex = 3800
+mapsizey = 3800
+player_deployment = 10,100,1000,3700
+ai_deployment = 2850,100,3750,3700
+starfield = 0
+fleetcostlimit = 80000
+pilotlimit = 300
+enemyrace = rebel
+shader = "data/shaders/default_noeffect.fx"
+description = "No spatial anomalies"
+size = "medium"
+unlocked_after = "scenario7"
+
+[variables]

@@ -1,0 +1,78 @@
+[config]
+name = "rebel"
+guiname = "Rebels"
+logo = "rebels.jpg"
+debrisstartuv = 0
+debrisenduv = 32
+escapepodid = 3
+shield = "circle_shield.dds"
+description = "The rebels are a collection of species that once formed part of the galactic empire, but broke away due to the harsh demands of the empire for ever greater sacrifices in terms of military commitment. The rebels reasoned that the only way to ever be free of a lifetime of military service for the glory of the empire was to dedicate their lives to fighting against them. As a result, today's modern rebel alliance contains the majority of the irony-resistant species in the galaxy."
+repairbotid = 3
+contrailid = 3
+music = rebellion_battle.ogg
+shieldcollapseuv = 3
+defaultnames = warships
+guiid = 1
+lockable = 1
+unlockcost = 4000
+unlock_texture = "Rebel Valkyrie Cruiser.dds"
+
+[turrets]
+turret_auto_v1 = rebel_turret_auto_v1.dds,turrets_rebel.dds,0
+turret_auto_v2 = rebel_turret_auto_v2.dds,turrets_rebel.dds,1
+turret_auto_v3 = rebel_turret_auto_v3.dds,turrets_rebel.dds,2
+turret_auto_v4 = rebel_turret_auto_v4.dds,turrets_rebel.dds,3
+turret_auto_v5 = rebel_turret_auto_v5.dds,turrets_rebel.dds,4
+turret_auto_v6 = rebel_turret_auto_v6.dds,turrets_rebel.dds,5
+turret_bull_v1 = rebel_turret_bull_v1.dds,turrets_rebel.dds,6
+turret_bull_v2 = rebel_turret_bull_v2.dds,turrets_rebel.dds,7
+turret_bull_v3 = rebel_turret_bull_v3.dds,turrets_rebel.dds,8
+turret_bull_v4 = rebel_turret_bull_v4.dds,turrets_rebel.dds,9
+turret_las_v1 = rebel_turret_las_v1.dds,turrets_rebel.dds,10
+turret_las_v2 = rebel_turret_las_v2.dds,turrets_rebel.dds,11
+turret_las_v3 = rebel_turret_las_v3.dds,turrets_rebel.dds,12
+turret_las_v4 = rebel_turret_las_v4.dds,turrets_rebel.dds,13
+turret_las_v5 = rebel_turret_las_v5.dds,turrets_rebel.dds,14
+turret_miss_v1 = rebel_turret_miss_v1.dds,turrets_rebel.dds,16
+turret_miss_v2 = rebel_turret_miss_v2.dds,turrets_rebel.dds,17
+turret_miss_v3 = rebel_turret_miss_v3.dds,turrets_rebel.dds,18
+turret_miss_v4 = rebel_turret_miss_v4.dds,turrets_rebel.dds,19
+turret_miss_v5 = rebel_turret_miss_v4.dds,turrets_rebel.dds,19
+turret_pd_v1 = rebel_turret_pd_v1.dds,turrets_rebel.dds,20
+turret_pd_v2 = rebel_turret_pd_v2.dds,turrets_rebel.dds,21
+tractor_turret_v1 = tractor_turret_v1.dds,turrets_rebel.dds,27
+tractor_turret_v2 = tractor_turret_v2.dds,turrets_rebel.dds,29
+turret_plasma_v1 = plasma_turret_v1.dds,turrets_rebel.dds,24
+turret_plasma_v2 = plasma_turret_v2.dds,turrets_rebel.dds,25
+turret_plasma_v3 = plasma_turret_v3.dds,turrets_rebel.dds,26
+turret_ecm_v1 = rebel_turret_las_v1.dds,turrets_rebel.dds,10
+
+[victory_messages]
+0 = "Today was a victory for the underdog, the little guy, the man in the street, the common man, and also I guess for you."
+1 = "Another fantastic victory comrade! That will teach them the power of the ordinary man in the space-battleship."
+2 = "Excellent, by blasting our enemies to atoms we have truly shown them that we will not partake in their bloodthirsty wars."
+
+[defeat_messages]
+1 = "The rebel creed is to reward success rather than to punish failure. We will leave that to you. Here is a laser pistol with one charge. Don't make it too messy."
+2 = "This glorious revolutionary struggle was going so well until you came along. Remind us again why we gave you a whole fleet to command..."
+3 = "Disaster! We would have achieved a more decisive victory for the revolution if we had just held a jumble sale and sold raffle tickets."
+
+[crew]
+0 = "Jack"
+1 = "Connor"
+2 = "Kyle"
+3 = "Luke"
+4 = "Owen"
+5 = "Cole"
+6 = "Diego"
+7 = "Blake"
+8 = "Ben"
+9 = "Hayden"
+10 = "Carter"
+11 = "Cody"
+12 = "Jesse"
+13 = "Colin"
+14 = "Wallace"
+15 = "Derek"
+16 = "Wesley"
+17 = "Bill"

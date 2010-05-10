@@ -1,0 +1,32 @@
+[config]
+gui_id = 14
+backdrop = "survival1.jpg"
+icon = "survival1_icon.jpg"
+name = "survival1"
+guiname = "Encounter At Andromeda"
+mapsizex = 2048
+mapsizey = 2048
+player_deployment = 10,10,710,2038
+ai_deployment = 10,10,2038,2038
+starfield = 1
+fleetcostlimit = 20000
+pilotlimit = 60
+enemyrace = empire
+shader = "data/shaders/survival1.fx"
+description = "No spatial anomalies"
+size = "small"
+unlocked_after = "scenario1"
+type = "SURVIVAL"
+
+[variables]
+
+[waves]
+0 = wave1_0.txt,800,
+1 = wave1_1.txt,1200
+2 = wave1_2.txt,1200
+3 = wave1_3.txt,1400
+4 = wave1_4.txt,2500
+5 = wave1_5.txt,2900
+
+
+

@@ -1,0 +1,23 @@
+[config]
+gui_id = 4
+backdrop = bg2.jpg
+icon = bg2_icon.jpg
+name = scenario2
+guiname = The Lagoon Nebula
+mapsizex = 2048.0000
+mapsizey = 2048.0000
+starfield = 1
+fleetcostlimit = 25000
+pilotlimit = 60
+enemyrace = rebel
+shader = data/shaders/yellowboost.fx
+description = Shields at 50% effectiveness
+size = small
+unlocked_after = scenario1
+type = SKIRMISH
+player_deployment = 10,10,710,2038
+ai_deployment = 1348,10,2038,2038
+
+[variables]
+SHIELD_STRENGTH_MULTIPLIER,0.50
+FIGHTERS_INOPERABLE

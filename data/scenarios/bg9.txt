@@ -1,0 +1,54 @@
+[config]
+gui_id = 11
+backdrop = bg9.jpg
+icon = bg9_icon.jpg
+name = scenario9
+guiname = Gravity Well
+mapsizex = 4096.0000
+mapsizey = 4096.0000
+starfield = 0
+fleetcostlimit = 45000
+pilotlimit = 250
+enemyrace = empire
+shader = data/shaders/redden.fx
+description = Weapon ranges reduced by 20%
+size = large
+unlocked_after = scenario8
+type = SKIRMISH
+player_deployment = 10,100,1200,3996
+ai_deployment = 2990,100,4056,3996
+
+
+[variables]
+WEAPON_RANGE_MULTIPLIER,0.80
+_sl_cruiser_armour III,10
+_sl_cruiser_armour V,0
+_sl_cruiser_beamlaser,20
+_sl_cruiser crew III,20
+_sl_cruiser_ecm beam,6
+_sl_cruiser_ecm shock,9
+_sl_cruiser fastmissile,12
+_sl_cruiser heavy plasma,6
+_sl_cruiser_laser,12
+_sl_cruiser light plasma,13
+_sl_cruiser missile,12
+_sl_cruiser missile multiple,10
+_sl_cruiser_nanorepair,10
+_sl_cruiser plasma,10
+_sl_cruiser_repair,6
+_sl_cruiser_repair_armor1,13
+_sl_cruiser_repair_armor2,13
+_sl_cruiser shield fastrecharge,15
+_sl_cruiser shield multiphasic,0
+_sl_fighter torpedo,60
+_sl_fighter_engine III,34
+_sl_frigate_auto_pointdefence,3
+_sl_frigate ecm shock missile v2,8
+_sl_frigate ecm shock missile,8
+_sl_frigate fastmissile,20
+_sl_frigate missile,20
+_sl_frigate plasma,11
+_sl_frigate_pointdefence II,3
+_sl_frigate_pointdefence,6
+_sl_csr_tribe_howitzer,12
+
