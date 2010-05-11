@@ -15,7 +15,8 @@ CHALLENGES_MAIN_MENU			= "Main Menu"
 #CHALLENGES_MAIN_MENU			= "Main Menu"
 CHALLENGES_MAIN_MENU			= "主菜单"
 }}}
-  _注:大多数的txt文件，内部其实也是INI格式_
+  _注1:大多数的txt文件，内部其实也是INI格式_
+  _注2:一些config文件，只要翻译guiname就可以了
  * *CSV格式*的文本，翻译时，直接翻译引号中的文本即可
 
 == 标点符号 ==
