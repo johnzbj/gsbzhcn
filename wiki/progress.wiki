@@ -6,3 +6,6 @@
  # 认领的文件名
  # 预计完成的时间
  # 自己的ID
+
+文本可从这里下载：http://code.google.com/p/gsbzhcn/source/browse/#svn/trunk
+或者使用SVN导出项目文件，SVN使用方法请自行google之。
