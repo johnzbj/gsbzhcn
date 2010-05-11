@@ -1,12 +1,14 @@
 [config]
 name = "federation"
-guiname = "Federation"
+#guiname = "Federation"
+guiname = "联邦"
 logo = "federation.jpg"
 debrisstartuv = 32
 debrisenduv = 64
 escapepodid = 2
 shield = "normal_shield.dds"
-description = "The galactic commerce federation may not have the largest space fleet, but it remains the dominant economic force in the galaxy. Their free-market philosophy extends right up to individual spaceship captains, who are billed for every shot fired, and credited for every verified kill. Technically, the commerce federation has no navy, and it's collection of armored spaceships merely form part of it's 'contract enforcement department'.
+#description = "The galactic commerce federation may not have the largest space fleet, but it remains the dominant economic force in the galaxy. Their free-market philosophy extends right up to individual spaceship captains, who are billed for every shot fired, and credited for every verified kill. Technically, the commerce federation has no navy, and it's collection of armored spaceships merely form part of it's 'contract enforcement department'.
+description = "银河贸易联邦也许没有最大的太空舰队，但是它仍然是银河系中最重要的经济力量。他们的自由贸易理论延伸至每一位独立的船长，每一次开火，每一次击毁都会被付费。从技术上说，贸易联邦并没有军队，聚集武装飞船仅仅是执行合同的一部分。
 repairbotid = 1
 contrailid = 1
 music = federation_battle.ogg
