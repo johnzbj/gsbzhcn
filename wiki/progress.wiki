@@ -1,0 +1,8 @@
+= 翻译流程 =
+
+下载 http://code.google.com/p/gsbzhcn/source/browse/trunk/progress.xls
+
+确定要翻译的文件，然后发 mail 或 在QQ群（51602015）上，说明以下内容:
+ # 认领的文件名
+ # 预计完成的时间
+ # 自己的ID
