@@ -30,3 +30,6 @@ CHALLENGES_MAIN_MENU			= "主菜单"
    || 单引号 ||‘’||
    || 双引号 || “” ||
    || 破折号 || —— ||
+
+== 翻译风格 ==
+  请使用统一的术语，词汇表下载地址: http://gsbzhcn.googlecode.com/svn/trunk/glossary.xls
