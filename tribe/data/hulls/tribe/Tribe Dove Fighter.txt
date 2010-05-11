@@ -1,0 +1,44 @@
+[config]
+classname = fighter
+name = Tribe Dove Fighter
+guiname = Tribe Dove Fighter Hull
+sprite = Tribe Dove Fighter.dds
+damagetexture = Tribe Dove Fighter_damaged.dds
+hulktexture = tribe_hulks.dds
+hulkUVstart = 0
+hulkUVend = 3
+width = 10
+height = 10
+powerproduced = 3
+cost = 30
+racename = tribe
+unlockcost = 0
+lockable = 0
+
+[bonuses]
+0 = ARMOURBOOST,-0.5
+1 = SHIELDBOOST,-0.5
+2 = INTEGRITYBOOST,1.0
+
+[contrails]
+0 = 128,254,40,250,1.5,4
+
+[runninglights]
+
+
+[targets]
+0 = 49.00,152.00,0,1,24.00,98.50,75.00,190.50,
+1 = 159.50,113.50,0,1,128.00,67.00,185.00,155.00,
+2 = 225.50,166.00,0,1,199.00,130.50,258.00,194.50,
+
+[slots]
+0 = 128.00,86.00,TURRET,(154.00-57.00),(102.00-57.00),
+1 = 128.00,200.00,STANDARD,
+2 = 128.00,144.50,STANDARD,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+

@@ -1,0 +1,24 @@
+[config]
+name = _tribe harmony cruiser 
+guiname = Tribe Harmony Cruiser 
+hull = Tribe Harmony Cruiser hull 
+
+[modules]
+0 = cruiser_automated point_defence,
+1 = cruiser heavy plasma,
+2 = csr_tribe_howitzer,
+3 = csr_tribe_howitzer,
+4 = cruiser reinforced power II,
+5 = cruiser heavy plasma,
+6 = cruiser crew III,
+7 = cruiser shield multiphasic,
+8 = crsr_tribe_enhanced_repair,
+9 = cruiser_engine V,
+10 = cruiser_engine V,
+11 = cruiser_ecm shield,
+12 = cruiser reinforced power II,
+13 = csr_tribe_autocannon,
+14 = csr_tribe_autocannon,
+15 = cruiser_pdscanner2,
+16 = cruiser_engine V,
+17 = crsr_tribe_enhanced_repair,

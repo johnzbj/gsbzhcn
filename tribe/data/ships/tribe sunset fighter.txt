@@ -1,0 +1,9 @@
+[config]
+name = _tribe sunset fighter 
+guiname = Tribe Sunset Fighter 
+hull = Tribe Sunset Fighter 
+
+[modules]
+0 = fighter_laser,
+1 = fighter_engine II,
+2 = fighter power II,

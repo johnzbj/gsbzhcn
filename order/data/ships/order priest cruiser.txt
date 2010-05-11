@@ -1,0 +1,24 @@
+[config]
+name = _order priest cruiser 
+guiname = Order Priest Cruiser 
+hull = order_priest_cruiser 
+
+[modules]
+0 = cruiser_limpet_launcher,
+1 = cruiser_repair_armor2,
+2 = cruiser_radiation_gun,
+3 = cruiser_quantumblaster,
+4 = cruiser power,
+5 = cruiser_firefly_rocket,
+6 = cruiser_armour III,
+7 = cruiser_carrier,
+8 = cruiser shield multiphasic,
+9 = cruiser_engine III,
+10 = cruiser shield multiphasic,
+11 = cruiser_engine III,
+12 = cruiser power,
+13 = cruiser_ecm beam,
+14 = cruiser_automated point_defence,
+15 = cruiser_engine III,
+16 = cruiser crew II,
+17 = cruiser_armour III,

@@ -1,0 +1,24 @@
+[config]
+name = _swarm ra cruiser 
+guiname = Swarm Ra Cruiser 
+hull = Swarm Ra Cruiser hull 
+
+[modules]
+0 = swarm disruptor beam,
+1 = cruiser power III,
+2 = cruiser heavy plasma,
+3 = cruiser_engine V,
+4 = cruiser_quantumblaster,
+5 = cruiser power III,
+6 = cruiser_armour III,
+7 = cruiser tractor,
+8 = cruiser heavy plasma,
+9 = cruiser_quantumblaster,
+10 = cruiser shield fastrecharge,
+11 = cruiser_smart_bomb,
+12 = cruiser shield fastrecharge,
+13 = cruiser_ecm shock,
+14 = cruiser crew,
+15 = cruiser_engine V,
+16 = cruiser_engine V,
+17 = cruiser crew,

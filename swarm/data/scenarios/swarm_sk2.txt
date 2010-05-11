@@ -1,0 +1,22 @@
+[config]
+gui_id = 21
+backdrop = "swarm_backdrop2.jpg"
+icon = "swarm_backdrop2_icon.jpg"
+name = "swarm_sk2"
+guiname = "The Draconis Frontier"
+mapsizex = 3300
+mapsizey = 3300
+player_deployment = 10,500,1300,2700
+ai_deployment = 2300,100,3200,3200
+starfield = 1
+fleetcostlimit = 21000
+pilotlimit = 200
+enemyrace = swarm
+shader = "swarm/data/shaders/draconis.fx"
+description = "No spatial anomalies"
+size = "medium"
+unlocked_after = ""
+
+[variables]
+ENGINES_REQUIRED
+

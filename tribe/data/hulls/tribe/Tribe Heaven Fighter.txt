@@ -1,0 +1,47 @@
+[config]
+classname = fighter
+name = Tribe Heaven Fighter
+guiname = Tribe Heaven Fighter Hull
+sprite = Tribe Heaven Fighter.dds
+damagetexture = Tribe Heaven Fighter_damaged.dds
+hulktexture = tribe_hulks.dds
+hulkUVstart = 4
+hulkUVend = 7
+width = 13
+height = 13
+powerproduced = 1
+cost = 44
+racename = tribe
+
+[bonuses]
+0 = ARMOURBOOST,-0.5
+1 = SHIELDBOOST,-0.5
+2 = INTEGRITYBOOST,1.0
+
+[runninglights]
+0 = 191.50,217.50,100,2,0
+1 = 67.50,217.50,100,2,1
+
+[contrails]
+0 = 96,243,40,200,1.5,4
+1 = 149,243,40,200,1.5,4
+
+[targets]
+0 = 57.75,133.00,0,1,32.50,86.50,83.00,179.50,
+1 = 122.00,53.25,0,1,87.00,14.50,157.00,92.00,
+2 = 179.00,145.75,0,1,142.00,102.00,216.00,189.50,
+
+[slots]
+0 = 128.00,44.00,STANDARD,
+1 = 128.00,95.00,TURRET,(97.00-39.00),(156.00-39.00),
+2 = 183.50,170.50,STANDARD,
+3 = 128.00,209.00,STANDARD,
+4 = 73.00,170.50,STANDARD,
+5 = 128.00,156.50,STANDARD,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+

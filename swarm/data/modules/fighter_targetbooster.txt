@@ -1,0 +1,27 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_TargetBoosterModule"
+category = "OTHER"
+size = "FIGHTER"
+name = "fighter_targetbooster"
+guiname = "Micro Target Booster"
+description = "A triumph of miniaturisation, this target-boosting podule is lightweight and cheap yet improves targeting for your fighter weaponry."
+weight = 0.65
+hitpoints = 3
+targetboost = 0.10
+cost = 8
+icon = module_micro_targetbooster.dds
+crew_required = 0
+powerconsumed = 1.1
+restricted = "swarm"
+slot_type = STANDARD
+stack_effectiveness = 0.6
+uisortpos = 4141
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = targetboost,DECIMAL
+4 = powerconsumed,DECIMAL

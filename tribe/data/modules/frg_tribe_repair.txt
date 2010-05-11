@@ -1,0 +1,32 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_RepairModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "frg_tribe_repair"
+guiname = "Tribal Frigate Repair System"
+description = "The rumours are true. Those clever engineers in the tribe have managed to squeeze an auto-repair system into one of those tiny frigate hulls. Nifty huh?"
+weight = 35
+hitpoints = 59
+cost = 88
+icon = module_tribe_frigate_repair.dds
+crew_required = 6
+peace_interval = 150
+repair_rate = 0.14
+restricted = "tribe"
+powerconsumed = 5.1
+slot_type = STANDARD
+stack_effectiveness = 0.9
+maxrepairsupplies = 450
+uisortpos = 4122
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = repair_rate,DECIMAL
+6 = maxrepairsupplies,INTEGER
+

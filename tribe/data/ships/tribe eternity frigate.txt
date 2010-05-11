@@ -1,0 +1,17 @@
+[config]
+name = _tribe eternity frigate 
+guiname = Tribe Eternity Frigate 
+hull = Tribe Eternity Frigate 
+
+[modules]
+0 = frg_tribe_cannon,
+1 = frg_tribe_cannon,
+2 = frigate fastmissile,
+3 = frg_tribe_repair,
+4 = frigate power II,
+5 = frigate_engine,
+6 = frigate_armour III,
+7 = frigate crew micro,
+8 = frigate crew,
+9 = frigate_engine,
+10 = frg_tribe_cannon,

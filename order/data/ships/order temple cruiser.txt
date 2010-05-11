@@ -1,0 +1,24 @@
+[config]
+name = _order temple cruiser 
+guiname = Order Temple Cruiser 
+hull = order_temple_cruiser 
+
+[modules]
+0 = cruiser_nuclearmissile,
+1 = cruiser_targetpainter,
+2 = cruiser_firefly_rocket,
+3 = cruiser_defence laser,
+4 = cruiser_armour II,
+5 = cruiser megatonmissile,
+6 = cruiser power,
+7 = cruiser shield fastrecharge,
+8 = cruiser droidbay,
+9 = cruiser_engine VI,
+10 = cruiser_engine VI,
+11 = cruiser shield fastrecharge,
+12 = cruiser shield fastrecharge,
+13 = cruiser droidbay,
+14 = cruiser missile multiple,
+15 = cruiser power,
+16 = cruiser_nanorepair,
+17 = cruiser_engine VI,

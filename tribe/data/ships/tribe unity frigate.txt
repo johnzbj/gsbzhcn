@@ -1,0 +1,16 @@
+[config]
+name = _tribe unity frigate 
+guiname = Tribe Unity Frigate 
+hull = Tribe Unity Frigate hull 
+
+[modules]
+0 = frigate_ion_cannon,
+1 = frigate crew micro,
+2 = frigate crew,
+3 = frigate_engine II,
+4 = frigate_engine II,
+5 = frigate_armour III,
+6 = frigate shield II,
+7 = frigate power II,
+8 = frigate plasma,
+9 = frigate plasma,

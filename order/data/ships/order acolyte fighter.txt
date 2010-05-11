@@ -1,0 +1,10 @@
+[config]
+name = _order acolyte fighter 
+guiname = Order Acolyte Fighter 
+hull = order_acolyte_fighter 
+
+[modules]
+0 = 
+1 = fighter_rocket,
+2 = fighter_engine III,
+3 = fighter_armour III,

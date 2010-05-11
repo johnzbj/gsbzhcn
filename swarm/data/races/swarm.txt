@@ -1,0 +1,104 @@
+[config]
+name = "swarm"
+guiname = "Swarm"
+logo = "swarm.jpg"
+debrisstartuv = 196
+debrisenduv = 228
+escapepodid = 1
+shield = "swarm_shield.dds"
+description = "The Swarm are coming. There is no defense. Fighting against them is like holding back the tide. Their ships may break apart with ease but there seems no limit to their numbers. The swarm do not retreat, as they have nowhere to go. Space-dwelling nomads for the last million years, these homicidal birdlike aliens have no plan B, only plan A, which is your destruction. The best defense is to stay hidden. Do not anger the swarm, and never call them 'the flock'. Boy, they hate that."
+repairbotid = 0
+contrailid = 3
+music = federation_battle.ogg
+shieldcollapseuv = 0
+defaultnames = swarmnames
+guiid = 7
+lockable = 0
+unlockcost = 0
+unlock_texture = "Swarm Horus Frigate.dds"
+
+[turrets]
+turret_auto_v1 = swarm_turret_auto_v1.dds,turrets_swarm.dds,0
+turret_auto_v2 = swarm_turret_auto_v2.dds,turrets_swarm.dds,1
+turret_auto_v3 = swarm_turret_auto_v3.dds,turrets_swarm.dds,2
+turret_auto_v4 = swarm_turret_auto_v4.dds,turrets_swarm.dds,3
+turret_auto_v5 = swarm_turret_auto_v5.dds,turrets_swarm.dds,4
+turret_auto_v6 = swarm_turret_auto_v6.dds,turrets_swarm.dds,5
+turret_bull_v1 = swarm_turret_bull_v1.dds,turrets_swarm.dds,6
+turret_bull_v2 = swarm_turret_bull_v2.dds,turrets_swarm.dds,7
+turret_bull_v3 = swarm_turret_bull_v3.dds,turrets_swarm.dds,8
+turret_bull_v4 = swarm_turret_bull_v4.dds,turrets_swarm.dds,9
+turret_las_v1 = swarm_turret_las_v1.dds,turrets_swarm.dds,10
+turret_las_v2 = swarm_turret_las_v2.dds,turrets_swarm.dds,11
+turret_las_v3 = swarm_turret_las_v3.dds,turrets_swarm.dds,12
+turret_las_v4 = swarm_turret_las_v4.dds,turrets_swarm.dds,13
+turret_las_v5 = swarm_turret_las_v5.dds,turrets_swarm.dds,14
+turret_miss_v1 = swarm_turret_miss_v1.dds,turrets_swarm.dds,15
+turret_miss_v2 = swarm_turret_miss_v2.dds,turrets_swarm.dds,16
+turret_miss_v3 = swarm_turret_miss_v3.dds,turrets_swarm.dds,17
+turret_miss_v4 = swarm_turret_miss_v4.dds,turrets_swarm.dds,18
+turret_miss_v5 = swarm_turret_miss_v5.dds,turrets_swarm.dds,19
+turret_pd_v1 = swarm_turret_pd_v1.dds,turrets_swarm.dds,22
+turret_pd_v2 = swarm_turret_pd_v2.dds,turrets_swarm.dds,23
+tractor_turret_v1 = swarm_turret_pd_v1.dds,turrets_swarm.dds,22
+tractor_turret_v2 = swarm_turret_pd_v2.dds,turrets_swarm.dds,23
+turret_plasma_v1 = swarm_plasma_1.dds,turrets_swarm.dds,24
+turret_plasma_v2 = swarm_plasma_2.dds,turrets_swarm.dds,25
+turret_plasma_v3 = swarm_plasma_3.dds,turrets_swarm.dds,26
+turret_plasma_v4 = swarm_plasma_3.dds,turrets_swarm.dds,26
+turret_ecm_v1 = swarm_plasma_3.dds,turrets_swarm.dds,26
+
+
+[victory_messages]
+0 = "This victory is yet another sand-pebble on the pyramid of galactic conquest."
+1 = "Behold the mighty power of the swarm, as we blast away everything in our path like the mighty tide crushing rocks into sand."
+2 = "Our enemies cannot withstand the might of the swarm. It is our destiny to conquer all."
+3 = "Let this lesson be observed. He who stands before the swarm, stands no more."
+
+[defeat_messages]
+1 = "Defeat for the swarm is meaningless. We shall be back, and in greater numbers.."
+2 = "A temporary setback for our mighty space fleet, Ultimately, victory is assured. Our destiny is clear."
+3 = "Our enemies have earned a brief respite before their ultimate, inevitable destruction at our claws."
+4 = "This was but the first wave. The enemy may have prevailed this day, but this galaxy shall yield to our power."
+
+[crew]
+0 = "Abasi"
+1 = "Akila"
+2 = "Amsu"
+3 = "Babu"
+4 = "Bes"
+5 = "Cheops"
+6 = "Chuma"
+7 = "Femi"
+8 = "Garaj"
+9 = "Haji"
+10 = "Hapu"
+11 = "Hehet"
+12 = "Hondo"
+13 = "Ishaq!
+14 = "Keket"
+15 = "Lapis"
+16 = "Khalid"
+17 = "Lateef"
+18 = "Mandisa"
+19 = "Mempbis"
+20 = "Mosi"
+21 = "Moswen"
+22 = "Naeem""
+23 = "Nizsm"
+24 = "Olabisi"
+25 = "Panyah"
+26 = "Rashida"
+27 = "Rehema"
+28 = "Sanura"
+29 = "Selk"
+30 = "Sharifa"
+31 = "Sudi"
+32 = "Tarik"
+33 = "Tau"
+34 = "Thabit"
+35 = "Umi"
+36 = "Yahya"
+37 = "Zahra"
+38 = "Ziyad"
+39 = "Zuberi"

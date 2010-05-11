@@ -1,0 +1,31 @@
+[config]
+gui_id = 19
+backdrop = "order_backdrop1.jpg"
+icon = "order_backdrop1_icon.jpg"
+name = "order_sk2"
+guiname = "The Veil Nebula"
+mapsizex = 3000
+mapsizey = 3000
+player_deployment = 10,100,1000,2990
+ai_deployment = 10,10,2990,2990
+starfield = 1
+fleetcostlimit = 30000
+pilotlimit = 110
+enemyrace = order
+shader = "data/shaders/default_noeffect.fx"
+description = "No spatial anomalies"
+size = "medium"
+unlocked_after = ""
+type = "SURVIVAL"
+
+[variables]
+ENGINES_REQUIRED
+WEAPON_RANGE_MULTIPLIER,0.80
+
+[waves]
+0 = wave1_0.txt,800,
+1 = wave1_1.txt,1200
+2 = wave1_2.txt,1200
+3 = wave1_3.txt,1400
+4 = wave1_4.txt,2500
+5 = wave1_5.txt,2900

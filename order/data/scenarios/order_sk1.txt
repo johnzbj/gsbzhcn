@@ -1,0 +1,33 @@
+[config]
+gui_id = 18
+backdrop = "order_backdrop2.jpg"
+icon = "order_backdrop2_icon.jpg"
+name = "order_sk1"
+guiname = "The Rockwall Nebula"
+mapsizex = 4096
+mapsizey = 4096
+player_deployment = 10,100,1000,3996
+ai_deployment = 3000,100,4056,3996
+starfield = 1
+fleetcostlimit = 40000
+pilotlimit = 150
+enemyrace = order
+shader = "order/data/shaders/rockwall.fx"
+description = "No spatial anomalies"
+size = "large"
+unlocked_after = ""
+asteroidcount = 2000
+asteroidtopx = 0.45
+asteroidbottomx = 0.51
+
+[variables]
+ENGINES_REQUIRED
+CLOAK_INOPERABLE
+_sl_cruiser_beamlaser,20
+_sl_cruiser_ecm beam,20
+_sl_cruiser heavy plasma,20
+_sl_cruiser_laser,19
+_sl_cruiser missile multiple,25
+_sl_cruiser_protonbeam,30
+_sl_cruiser shield reflective,10
+

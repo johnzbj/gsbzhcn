@@ -1,0 +1,46 @@
+[config]
+classname = fighter
+name = Swarm Seth Fighter
+guiname = Swarm Seth Fighter Hull
+sprite = Swarm Seth Fighter.dds
+damagetexture = Swarm Seth Fighter_damaged.dds
+hulktexture = swarm_hulks.dds
+hulkUVstart = 8
+hulkUVend = 11
+width = 12
+height = 12
+powerproduced = 3
+cost = 35
+racename = swarm
+
+[bonuses]
+0 = INTEGRITYBOOST,-0.05
+1 = ARMOURBOOST,-0.05
+2 = SHIELDBOOST,-0.05
+3 = COSTBOOST,-0.20
+4 = SPEEDBOOST,0.15
+
+[runninglights]
+0 = 48.00,95.50,240.00,1.56,0
+1 = 208.00,95.50,240.00,1.56,1
+
+[contrails]
+0 = 47,138,40,300,1.5,4
+1 = 209,138,40,300,1.5,4
+
+[targets]
+0 = 88.00,102.00,0,1,53.50,75.00,114.00,123.50,
+1 = 144.50,31.50,1,1,113.50,6.50,171.50,91.00,SHIP_EMMITER_THIN,
+
+[slots]
+0 = 111.00,95.00,TURRET,
+1 = 145.00,95.00,TURRET,
+2 = 128.00,130.00,STANDARD,
+3 = 128.50,27.50,STANDARD,
+
+[explosions]
+0 = 0.00,128.00,128.00,EXP_STARTBREAKUP
+1 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED_LOD
+2 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED
+3 = 0.00,128.00,128.00,EXP_BLASTGLARE
+

@@ -1,0 +1,24 @@
+[config]
+gui_id = 16
+backdrop = "tribe_scenario1.jpg"
+icon = "tribe_scenario1_icon.jpg"
+name = "tribe_scenario1"
+guiname = "Battle of NGC 2770"
+mapsizex = 3000
+mapsizey = 3000
+player_deployment = 100,100,1000,3900
+ai_deployment = 2000,100,2900,2900
+starfield = 1
+fleetcostlimit = 30000
+pilotlimit = 100
+enemyrace = tribe
+shader = ""
+description = "No spatial anomalies"
+size = "medium"
+
+[variables]
+ENGINES_REQUIRED
+
+
+
+

@@ -1,0 +1,16 @@
+[config]
+name = _swarm horus frigate 
+guiname = Swarm Horus Frigate 
+hull = Swarm Horus Frigate hull 
+
+[modules]
+0 = frigate_beamlaser,
+1 = frigate power II,
+2 = frigate crew swarm,
+3 = frigate_engine II,
+4 = frigate_engine II,
+5 = frigate power,
+6 = frigate turboshield,
+7 = frigate_armour IV,
+8 = frigate_ion_cannon,
+9 = frigate_ion_cannon,

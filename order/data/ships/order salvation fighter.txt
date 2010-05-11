@@ -1,0 +1,11 @@
+[config]
+name = _order salvation fighter 
+guiname = Order Salvation Fighter 
+hull = order_salvation_fighter 
+
+[modules]
+0 = fighter_engine,
+1 = fighter_armour IV,
+2 = fighter_armour V,
+3 = fighter_engine,
+4 = fighter torpedo,

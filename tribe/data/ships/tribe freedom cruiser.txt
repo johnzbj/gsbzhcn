@@ -1,0 +1,24 @@
+[config]
+name = _tribe freedom cruiser 
+guiname = Tribe Freedom Cruiser 
+hull = Tribe Freedom Cruiser hull 
+
+[modules]
+0 = cruiser_laser,
+1 = cruiser_laser,
+2 = cruiser_pointdefenceII,
+3 = cruiser megatonmissile,
+4 = cruiser shield fastrecharge,
+5 = cruiser_laser,
+6 = cruiser reinforced power II,
+7 = cruiser reinforced power II,
+8 = crsr_tribe_enhanced_repair,
+9 = cruiser powered armor,
+10 = cruiser_engine III,
+11 = cruiser_engine III,
+12 = cruiser crew II,
+13 = cruiser_quantumblaster,
+14 = cruiser_quantumblaster,
+15 = cruiser_ecm shield,
+16 = cruiser_targetboosterI,
+17 = crsr_tribe_enhanced_repair,

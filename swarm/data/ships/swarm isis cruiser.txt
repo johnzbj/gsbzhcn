@@ -1,0 +1,24 @@
+[config]
+name = _swarm isis cruiser 
+guiname = Swarm Isis Cruiser 
+hull = Swarm Isis Cruiser hull 
+
+[modules]
+0 = cruiser_protonbeam,
+1 = cruiser_ecm shock,
+2 = cruiser missile multiple,
+3 = cruiser missile multiple,
+4 = cruiser_engine III,
+5 = cruiser_protonbeam,
+6 = cruiser crew,
+7 = cruiser power III,
+8 = cruiser reinforced power II,
+9 = cruiser crew,
+10 = cruiser shield fastrecharge,
+11 = cruiser_armour IV,
+12 = cruiser_smart_bomb,
+13 = cruiser_ecm shock,
+14 = swarm disruptor beam,
+15 = cruiser_armour IV,
+16 = cruiser_engine III,
+17 = cruiser_engine III,

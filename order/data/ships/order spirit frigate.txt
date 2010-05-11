@@ -1,0 +1,15 @@
+[config]
+name = _order spirit frigate 
+guiname = Order Spirit Frigate 
+hull = order_spirit_frigate 
+
+[modules]
+0 = frigate_engine III,
+1 = frigate_engine III,
+2 = frigate power,
+3 = frigate_armour III,
+4 = frigate crew II,
+5 = frigate shield II,
+6 = frigate missile,
+7 = frigate ecm shock missile v2,
+8 = frigate ecm shock missile,

@@ -1,0 +1,69 @@
+[config]
+classname = frigate
+name = order_spirit_frigate
+guiname = Order Spirit Frigate
+sprite = Order_Spirit_Frigate.dds
+damagetexture = Order_Spirit_Frigate_damaged.dds
+hulktexture = Order_Spirit_Frigate_hulk.dds
+width = 72
+height = 72
+powerproduced = 8
+cost = 100
+racename = order
+
+[bonuses]
+0 = POWERBOOST,0.21
+1 = SPEEDBOOST,-0.02
+2 = INTEGRITYBOOST,-0.14
+
+[runninglights]
+0 = 20.00,72.00,400.00,2.49,1
+1 = 14.50,131.00,400.00,2.49,1
+
+[engineglows]
+0 = 85.00,251.50,10.99,10.55,order_engineglow.dds,engine_debris_order,0,1.00
+
+[tractorbeams]
+0 = 269,91,269,205,58,90
+
+[pulseglows]
+0 = 144,176,128,600,Order_Spirit_Frigate_order_glow.dds
+
+[targets]
+0 = 211.00,67.00,0,1,186.50,38.00,230.50,87.50,(damage_sprite_sparks-211.00-66.00),(damage_sprite_smoke-216.00-69.00),
+1 = 59.00,100.00,1,1,41.50,83.00,80.00,126.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-60.00-103.00),
+2 = 144.50,112.75,0,1,136.50,104.00,152.50,121.50,
+3 = 13.00,103.50,0,1,3.00,88.00,25.50,116.50,(damage_sprite_sparks-12.00-103.00),
+4 = 74.00,32.00,0,1,59.50,15.00,85.00,47.50,
+5 = 150.00,150.50,1,1,125.50,131.00,179.50,168.50,SHIP_EMMITER_THIN,(damage_sprite_sparks-149.00-152.00),
+6 = 96.25,92.50,0,1,82.50,77.00,110.00,108.00,
+7 = 87.50,147.00,0,1,69.50,130.00,106.50,168.50,(damage_sprite_sparks-89.00-148.00),
+8 = 43.50,181.00,0,1,31.50,161.00,57.50,201.00,(damage_sprite_smoke-43.00-182.00),
+9 = 121.75,202.75,0,1,112.50,192.00,131.00,213.50,
+10 = 115.00,38.00,0,1,97.50,14.50,132.50,53.50,(damage_sprite_sparks-114.00-36.00),
+
+[slots]
+0 = 171.00,52.50,STANDARD,
+1 = 85.00,225.00,STANDARD,
+2 = 138.00,173.50,STANDARD,
+3 = 85.00,136.50,STANDARD,
+4 = 85.00,166.50,STANDARD,
+5 = 52.00,106.00,STANDARD,
+6 = 216.00,71.00,TURRET,(215.00-95.50),(215.50-116.00),
+7 = 103.50,36.50,TURRET,(103.00-36.00),(84.00-35.00),
+8 = 126.50,137.00,TURRET,
+
+[explosions]
+0 = 0.00,200.00,53.00,EXP_FRIGATE
+1 = 210.00,0.00,0.00,EXP_STARTBREAKUP
+2 = 270.00,86.00,144.50,EXP_FRIGATEDEBRIS
+3 = 200.00,138.50,171.00,EXP_FRIGATEBREAKUP
+4 = 200.00,138.00,173.50,EXP_PLUMES
+5 = 200.00,138.50,173.00,EXP_BLASTGLARE
+
+[hulks]
+0 = 5,133,43,273,
+1 = 45,128,353,496,(emit-117-202-hulk_emmiter),(emit-169-293-hulk_emmiter),(emit-297-301-hulk_emmiter),(emit-85-365-hulk_emmiter),(emit-312-311-hulk_smoke_emmiter),(emit-128-208-hulk_smoke_emmiter),
+2 = 101,13,447,126,(emit-231-72-hulk_emmiter),(emit-151-66-hulk_smoke_emmiter),
+3 = 363,132,504,323,(emit-435-151-hulk_emmiter),
+

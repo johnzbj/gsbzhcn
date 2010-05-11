@@ -1,0 +1,44 @@
+[config]
+classname = fighter
+name = Swarm Amun Fighter
+guiname = Swarm Amun Fighter Hull
+sprite = Swarm Amun Fighter.dds
+damagetexture = Swarm Amun Fighter_damaged.dds
+hulktexture = swarm_hulks.dds
+hulkUVstart = 0
+hulkUVend = 3
+width = 11
+height = 11
+powerproduced = 3
+cost = 44
+racename = swarm
+
+[bonuses]
+0 = INTEGRITYBOOST,-0.05
+1 = ARMOURBOOST,-0.05
+2 = SHIELDBOOST,-0.05
+3 = COSTBOOST,-0.20
+4 = SPEEDBOOST,0.15
+
+[runninglights]
+
+[contrails]
+0 = 82,210,40,200,1.5,4
+1 = 174,210,40,200,1.5,4
+
+[targets]
+0 = 119.50,40.50,1,1,90.00,9.00,148.00,66.50,SHIP_EMMITER_SMALL,
+1 = 150.50,170.50,1,1,128.50,132.00,172.50,197.00,SHIP_EMMITER_SMALL,
+
+[slots]
+0 = 128,137.00,STANDARD,
+1 = 128.00,41.00,TURRET,
+2 = 82.00,175.00,STANDARD,
+3 = 174.50,175.00,STANDARD,
+
+[explosions]
+0 = 0.00,128.00,128.00,EXP_STARTBREAKUP
+1 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED_LOD
+2 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED
+3 = 0.00,128.00,128.00,EXP_BLASTGLARE
+

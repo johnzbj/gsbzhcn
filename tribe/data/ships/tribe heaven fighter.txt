@@ -1,0 +1,12 @@
+[config]
+name = _tribe heaven fighter 
+guiname = Tribe Heaven Fighter 
+hull = Tribe Heaven Fighter 
+
+[modules]
+0 = fighter_armour V,
+1 = fighter_rocket,
+2 = fighter_armour V,
+3 = fighter_engine III,
+4 = fighter_armour V,
+5 = fighter power II,

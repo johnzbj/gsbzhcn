@@ -1,0 +1,17 @@
+[config]
+name = _swarm anubis frigate 
+guiname = Swarm Anubis Frigate 
+hull = Swarm Anubis Frigate 
+
+[modules]
+0 = frigate crew,
+1 = frigate_beamlaser,
+2 = frigate plasma,
+3 = frigate turboshield,
+4 = frigate power,
+5 = frigate crew,
+6 = frigate power II,
+7 = frigate_armour III,
+8 = frigate_engine III,
+9 = frigate_engine III,
+10 = frigate_beamlaser,

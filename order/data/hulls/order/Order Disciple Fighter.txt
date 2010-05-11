@@ -1,0 +1,42 @@
+[config]
+classname = fighter
+name = order_disciple_fighter
+guiname = Order Disciple Fighter
+sprite = Order_Disciple_Fighter.dds
+damagetexture = Order_Disciple_Fighter_damaged.dds
+hulktexture = order_hulks.dds
+hulkUVstart = 4
+hulkUVend = 7
+width = 14
+height = 14
+powerproduced = 3.31
+cost = 48
+racename = order
+
+[bonuses]
+0 = SPEEDBOOST,-0.10
+1 = INTEGRITYBOOST,0.22
+
+[runninglights]
+0 = 37.50,248.00,170.00,2.00,1
+1 = 218.00,250.00,170.00,2.00,1
+
+[contrails]
+0 = 96,203,40,500,1.5,4
+
+[targets]
+0 = 47.25,97.25,1,1,18.50,51.00,76.00,143.50,SHIP_EMMITER_SMALL,
+1 = 142.50,111.00,1,1,119.00,64.50,166.00,157.50,SHIP_EMMITER_THIN,
+
+[slots]
+0 = 96.50,98.00,STANDARD,
+1 = 171.50,105.00,TURRET,
+2 = 96.50,44.50,STANDARD,
+3 = 95.50,173.50,STANDARD,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+

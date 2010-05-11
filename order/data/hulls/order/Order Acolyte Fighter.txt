@@ -1,0 +1,42 @@
+[config]
+classname = fighter
+name = order_acolyte_fighter
+guiname = Order Acolyte Fighter
+sprite = Order_Acolyte_Fighter.dds
+damagetexture = Order_Acolyte_fighter_damaged.dds
+hulktexture = order_hulks.dds
+hulkUVstart = 0
+hulkUVend = 3
+width = 11
+height = 11
+powerproduced = 4.1
+cost = 33
+racename = order
+
+[bonuses]
+0 = SPEEDBOOST,0.1
+1 = INTEGRITYBOOST,-0.20
+2 = ARMOURBOOST,-0.20
+
+[runninglights]
+0 = 6.50,109.50,170.00,2.00,1
+
+[contrails]
+0 = 166,213,40,500,1.5,4
+
+[targets]
+0 = 31.50,136.00,1,1,2.50,90.00,67.00,194.50,SHIP_EMMITER_SMALL,
+1 = 225.50,134.00,1,1,193.00,93.50,254.50,186.50,SHIP_EMMITER_SMALL,
+
+[slots]
+0 = 222.00,138.00,TURRET,
+1 = 106.00,143.00,TURRET,
+2 = 31.00,141.50,STANDARD,
+3 = 165.50,166.50,STANDARD,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+

@@ -1,0 +1,10 @@
+[config]
+name = _order disciple fighter 
+guiname = Order Disciple Fighter 
+hull = order_disciple_fighter 
+
+[modules]
+0 = fighter_armour IV,
+1 = fighter_laser,
+2 = fighter power,
+3 = fighter_engine II,

@@ -1,0 +1,22 @@
+[config]
+name = _swarm bastet cruiser 
+guiname = Swarm Bastet Cruiser 
+hull = Swarm Bastet Cruiser hull 
+
+[modules]
+0 = cruiser_carrier,
+1 = cruiser crew,
+2 = cruiser shield multiphasic,
+3 = cruiser_armour V,
+4 = swarm disruptor beam,
+5 = swarm disruptor beam,
+6 = cruiser power,
+7 = cruiser light plasma,
+8 = cruiser light plasma,
+9 = cruiser_engine IV,
+10 = cruiser_armour V,
+11 = cruiser_engine IV,
+12 = cruiser power,
+13 = cruiser_engine IV,
+14 = cruiser_repair_armor1,
+15 = cruiser crew,

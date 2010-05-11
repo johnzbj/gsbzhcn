@@ -1,0 +1,21 @@
+[config]
+name = _tribe utopia cruiser 
+guiname = Tribe Utopia Cruiser 
+hull = Tribe Utopia Cruiser hull 
+
+[modules]
+0 = csr_tribe_howitzer,
+1 = csr_tribe_howitzer,
+2 = csr_tribe_howitzer,
+3 = csr_tribe_howitzer,
+4 = cruiser_carrier_reinforced,
+5 = crsr_tribe_enhanced_repair,
+6 = cruiser light plasma,
+7 = cruiser crew II,
+8 = cruiser_engine III,
+9 = cruiser_engine III,
+10 = cruiser_engine III,
+11 = cruiser power III,
+12 = cruiser shield multiphasic,
+13 = csr_tribe_autocannon,
+14 = csr_tribe_autocannon,

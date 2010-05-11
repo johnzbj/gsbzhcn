@@ -1,0 +1,79 @@
+[config]
+name = "tribe"
+guiname = "Tribe"
+logo = "tribe.jpg"
+debrisstartuv = 32
+debrisenduv = 48
+escapepodid = 1
+shield = "alliance_shield.dds"
+description = ""The term 'smug-space-hippies' is too often thrown around to describe the tribe these days. What is true, is that they are a varied and inclusive collection of species, united in their belief that other galactic factions are far too focused on warfare, destruction and negative thoughts. The tribe dream of a future where different species all just get along, and reluctantly conclude that the only way this is going to become a reality is by the regrettable destruction of the backwards, unenlightened life forms that have not joined the tribe.""
+repairbotid = 0
+contrailid = 3
+music = federation_battle.ogg
+shieldcollapseuv = 0
+defaultnames = gratuitous
+guiid = 4
+lockable = 0
+unlockcost = 0
+unlock_texture = "Tribe Paradise Cruiser.dds"
+
+[turrets]
+turret_auto_v1 = tribe_turret_auto_1.dds,turrets_tribe.dds,0
+turret_auto_v2 = tribe_turret_auto_2.dds,turrets_tribe.dds,1
+turret_auto_v3 = tribe_turret_auto_3.dds,turrets_tribe.dds,2
+turret_auto_v4 = tribe_turret_auto_4.dds,turrets_tribe.dds,3
+turret_auto_v5 = tribe_turret_auto_5.dds,turrets_tribe.dds,4
+turret_auto_v6 = tribe_turret_auto_6.dds,turrets_tribe.dds,5
+turret_bull_v1 = tribe_turret_gun_1.dds,turrets_tribe.dds,6
+turret_bull_v2 = tribe_turret_gun_2.dds,turrets_tribe.dds,7
+turret_bull_v3 = tribe_turret_gun_3.dds,turrets_tribe.dds,8
+turret_bull_v4 = tribe_turret_gun_4.dds,turrets_tribe.dds,9
+turret_las_v1 = tribe_turret_las_1.dds,turrets_tribe.dds,12
+turret_las_v2 = tribe_turret_las_2.dds,turrets_tribe.dds,13
+turret_las_v3 = tribe_turret_las_3.dds,turrets_tribe.dds,14
+turret_las_v4 = tribe_turret_las_4.dds,turrets_tribe.dds,15
+turret_las_v5 = tribe_turret_las_5.dds,turrets_tribe.dds,16
+turret_miss_v1 = tribe_turret_miss_1.dds,turrets_tribe.dds,18
+turret_miss_v2 = tribe_turret_miss_2.dds,turrets_tribe.dds,19
+turret_miss_v3 = tribe_turret_miss_3.dds,turrets_tribe.dds,20
+turret_miss_v4 = tribe_turret_miss_4.dds,turrets_tribe.dds,21
+turret_miss_v5 = tribe_turret_miss_5.dds,turrets_tribe.dds,22
+turret_pd_v1 = federation_turret_pd_v1.dds,turrets_federation.dds,10
+turret_pd_v2 = federation_turret_pd_v2.dds,turrets_federation.dds,10
+tractor_turret_v1 = tractor_turret_v1.dds,turrets_tribe.dds,27
+tractor_turret_v2 = tractor_turret_v2.dds,turrets_tribe.dds,29
+turret_plasma_v1 = plasma_turret_v1.dds,turrets_tribe.dds,24
+turret_plasma_v2 = plasma_turret_v2.dds,turrets_tribe.dds,25
+turret_plasma_v3 = plasma_turret_v3.dds,turrets_tribe.dds,26
+turret_plasma_v4 = plasma_turret_v4.dds,turrets_tribe.dds,26
+turret_ecm_v1 = tribe_turret_las_6.dds,turrets_tribe.dds,17
+
+[victory_messages]
+0 = "Clap your Antennae! victory is ours. Award yourself another decorative insignia on your thorax!"
+1 = "Well slap my exoskeleton, if it isn't another glorious victory for the alliance. Nice work!"
+2 = "Aha we are triumphant! More proof that six legs will always trump two, even in battle. Oh yes..."
+3 = "before you know it you'll be collecting your six ceremonial platinum leg-bands."
+
+[defeat_messages]
+1 = "Hang your Antennae in shame! Your fleet is in ruins and you have bought disgrace upon the alliance!"
+2 = "What have you done? How can you let some feeble bipedal species get the better of you like this?"
+3 = "Gah! failure! This is no way to earn promotion. Return to your space-hive in disgrace!"
+4 = "Any more embarrassing defeats like that and you will demoted to shoveling out the space-hives."
+
+[crew]
+0 = "Zarg"
+1 = "Vlurg"
+2 = "Zork"
+3 = "Zorgon"
+4 = "Flark"
+5 = "Flurk"
+6 = "Oolak"
+7 = "Xark"
+8 = "Xoolan"
+9 = "Zoodak"
+10 = "Zarvop"
+11 = "Voopak"
+12 = "Vaxark"
+13 = "Xiloop"
+14 = "Xoomak"
+15 = "Zeldarp"
