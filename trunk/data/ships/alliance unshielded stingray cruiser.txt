@@ -1,0 +1,23 @@
+[config]
+name = _alliance unshielded stingray cruiser 
+guiname = Alliance Unshielded Stingray Cruiser 
+hull = Alliance Stingray Cruiser hull 
+
+[modules]
+0 = cruiser_laser,
+1 = cruiser_armour III,
+2 = cruiser_armour III,
+3 = cruiser_engine VI,
+4 = cruiser_engine VI,
+5 = cruiser_engine,
+6 = cruiser power,
+7 = cruiser power,
+8 = cruiser missile,
+9 = cruiser missile,
+10 = cruiser_repair_armor1,
+11 = cruiser_targetboosterI,
+12 = cruiser_targetpainter,
+13 = cruiser_ecm shock,
+14 = cruiser_ecm shield,
+15 = cruiser crew II,
+16 = cruiser_repair_armor1,

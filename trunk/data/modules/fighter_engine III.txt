@@ -1,0 +1,28 @@
+[config]
+category = "ENGINES"
+classname = "SIM_EngineModule"
+cost = 19
+crew_required = 0
+description = "When it comes to dodging enemy turbo-lasers, you can't do much better than equip your fighters with this state of the art turbo-charged reaction-drive engine system."
+guiname = "Fighter Engine III"
+hitpoints = 7
+icon = module_engine_3.dds
+lockable = 0
+name = "fighter_engine III"
+powerconsumed = 3.9
+size = "FIGHTER"
+slot_type = STANDARD
+thrust = 20
+unlockcost = 0
+weight = 3.0
+stack_effectiveness = 0.72
+uisortpos = 3020
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = thrust,DECIMAL
+
+

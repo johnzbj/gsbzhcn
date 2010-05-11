@@ -1,0 +1,19 @@
+[config]
+name = _alliance surv cobra 
+guiname = Alliance surv cobra 
+hull = Alliance Cobra Frigate hull 
+
+[modules]
+0 = frigate ecm shock missile v2,
+1 = frigate power II,
+2 = frigate disruptor bomb,
+3 = frigate disruptor bomb,
+4 = frigate crew,
+5 = frigate crew,
+6 = frigate_engine II,
+7 = frigate_engine II,
+8 = frigate_ion_cannon,
+9 = frigate_ion_cannon,
+10 = frigate_armour IV,
+11 = frigate_armour IV,
+12 = frigate power II,

@@ -1,0 +1,26 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_EngineModule"
+category = "ENGINES"
+size = "FRIGATE"
+name = "frigate_engine"
+guiname = "Frigate Engine"
+description = "When you spend all your cash on guns and shields, you might have to economize on speed with this cheap but cheerful thrustmeister frigate engine. It gets you from A to B."
+weight = 25
+hitpoints = 30
+thrust = 40
+cost = 50
+icon = module_engine_2.dds
+crew_required = 8
+powerconsumed = 1
+slot_type = STANDARD
+uisortpos = 3000
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = thrust,DECIMAL

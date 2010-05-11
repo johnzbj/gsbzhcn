@@ -1,0 +1,18 @@
+[config]
+name = _imperial weapons platform 
+guiname = imperial weapons platform 
+hull = Imperial Weapons Platform hull 
+
+[modules]
+0 = frigate_rapidfire_laser,
+1 = frigate power,
+2 = frigate antifighter missile,
+3 = frigate_pulselaser,
+4 = frigate_rapidfire_laser,
+5 = frigate shield II,
+6 = frigate_armour II,
+7 = frigate crew II,
+8 = frigate_armour II,
+9 = frigate power II,
+10 = frigate_ion_cannon,
+11 = frigate_ion_cannon,

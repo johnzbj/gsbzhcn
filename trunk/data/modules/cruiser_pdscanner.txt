@@ -1,0 +1,27 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PDScannerModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "cruiser_pdscanner"
+guiname = "Point Defense Scanner I"
+description = "Point-defense lasers can shoot down incoming missiles, but they need a PD Scanner onboard to have any chance of correctly identifying a real incoming missile from it's decoys."
+weight = 82
+hitpoints = 66
+scanner_accuracy = 0.66
+cost = 201
+icon = module_pdscanner_v1.dds
+crew_required = 5
+powerconsumed = 7
+slot_type = STANDARD
+stack_effectiveness = 0.6
+uisortpos = 2170
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = scanner_accuracy,DECIMAL
+4 = crew_required,INTEGER
+5 = powerconsumed,DECIMAL

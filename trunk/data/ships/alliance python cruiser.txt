@@ -1,0 +1,24 @@
+[config]
+name = _alliance python cruiser 
+guiname = alliance python cruiser 
+hull = Alliance Python Cruiser hull 
+
+[modules]
+0 = cruiser_nanorepair,
+1 = cruiser_engine III,
+2 = cruiser crew II,
+3 = cruiser_engine II,
+4 = cruiser_engine VI,
+5 = cruiser_defence laser,
+6 = cruiser_defence laser,
+7 = cruiser shield fastrecharge,
+8 = cruiser shield fastrecharge,
+9 = cruiser_pointdefence,
+10 = cruiser_pointdefence,
+11 = cruiser power II,
+12 = cruiser_alliance_beamlaser,
+13 = cruiser_alliance_beamlaser,
+14 = cruiser power II,
+15 = cruiser_armour IV,
+16 = cruiser_armour IV,
+17 = cruiser heavy plasma,

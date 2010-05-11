@@ -1,0 +1,27 @@
+[config]
+unlockcost = 355
+lockable = 1
+classname = "SIM_ECMShieldModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "cruiser_ecm shield"
+guiname = "EMP Shield"
+description = "Lets be honest, nobody likes having their ship disabled by an EMP Cannon, and this handy collection of radars and gadgets defends you against this annoying possibility."
+weight = 44
+hitpoints = 55
+cost = 80
+icon = module_ecm_v2.dds
+crew_required = 4
+powerconsumed = 9
+ecm_strength = 66
+slot_type = STANDARD
+stack_effectiveness = 0.7
+uisortpos = 2200
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = ecm_strength,DECIMAL

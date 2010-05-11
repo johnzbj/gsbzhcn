@@ -1,0 +1,66 @@
+[config]
+classname = frigate
+name = Federation Fox Frigate
+guiname = Federation Fox Frigate Hull
+sprite = Federation Fox Frigate.dds
+damagetexture = Federation Fox Frigate_damaged.dds
+hulktexture = Federation Fox Frigate_hulk.dds
+width = 90
+height = 90
+powerproduced = 9
+cost = 135
+racename = federation
+
+[bonuses]
+0 = INTEGRITYBOOST,0.1
+1 = SHIELDBOOST,0.17
+
+[runninglights]
+0 = 81.00,59.00,240.00,2.00,1
+1 = 78.00,251.00,240.00,2.00,1
+2 = 172.00,59.00,240.00,2.00,0
+3 = 178.00,251.00,240.00,2.00,0
+
+[engineglows]
+0 = 78,273,14,20,"engineglow.dds","engine_debris",0,1.0
+1 = 178,273,14,20,"engineglow.dds","engine_debris",0,1.0
+
+[targets]
+0 = 114.50,27.50,0,1,109.00,20.00,120.00,35.00,
+1 = 142.50,27.00,1,1,133.00,16.00,152.00,38.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-142.50-27.00),(damage_sprite_sparks-142.00-28.00),(damage_sprite_smoke-142.00-30.00),
+2 = 108.00,100.00,0,1,95.00,90.00,121.00,110.00,(damage_sprite_sparks-108.00-100.00),(damage_sprite_sparks-104.00-98.00),(damage_sprite_sparks-104.00-98.00),(damage_sprite_smoke-112.00-97.00),(damage_sprite_smoke-105.00-101.00),
+3 = 151.00,73.00,0,1,145.00,65.00,157.00,81.00,
+4 = 140.50,127.00,0,1,133.00,115.00,148.00,139.00,(damage_sprite_sparks-140.50-127.00),(damage_sprite_sparks-143.00-126.00),(damage_sprite_smoke-140.00-135.00),(damage_sprite_smoke-141.00-124.00),
+5 = 94.50,206.50,1,1,86.00,185.00,103.00,228.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-94.50-206.50),(damage_sprite_sparks-95.00-198.00),(damage_sprite_sparks-94.00-211.00),(damage_sprite_sparks-94.00-217.00),(damage_sprite_smoke-94.00-209.00),
+6 = 154.00,114.00,1,1,148.00,105.00,160.00,123.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-154.00-114.00),
+7 = 113.25,128.25,0,1,109.00,122.50,117.50,134.00,
+8 = 111.00,70.50,0,1,100.00,58.00,122.00,83.00,(damage_sprite_sparks-111.00-70.50),(damage_sprite_sparks-115.00-70.00),(damage_sprite_sparks-110.00-68.00),(damage_sprite_smoke-113.00-70.00),
+9 = 149.00,199.50,1,1,141.00,177.00,157.00,222.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-149.00-199.50),(damage_sprite_sparks-150.00-192.00),(damage_sprite_sparks-150.00-202.00),(damage_sprite_sparks-152.00-210.00),(damage_sprite_smoke-150.00-205.00),(damage_sprite_sparks-150.00-188.00),
+10 = 113.25,203.25,0,1,107.00,192.00,119.50,214.50,
+
+[slots]
+0 = 128.00,179.00,TURRET,(98.00-180.00),(158.00-180.00),
+1 = 128.00,79.00,TURRET,
+2 = 128.00,126.00,TURRET,(107.00-113.00),(149.00-113.00),
+3 = 78.50,232.00,STANDARD,
+4 = 78.00,192.00,STANDARD,
+5 = 178.00,192.00,STANDARD,
+6 = 178.00,232.00,STANDARD,
+7 = 128.00,40.00,STANDARD,
+8 = 99.00,131.00,STANDARD,
+9 = 157.00,131.00,STANDARD,
+10 = 128.00,14.00,TURRET,(111.00-25.00),(145.00-25.00),
+
+[explosions]
+0 = 0,128,64,EXP_FRIGATE
+1 = 210,0,0,EXP_STARTBREAKUP
+2 = 270,128,128,EXP_FRIGATEDEBRIS
+3 = 200,128,157,EXP_FRIGATEBREAKUP
+4 = 200,128,157,EXP_PLUMES
+5 = 200,128,157,EXP_BLASTGLARE
+
+[hulks]
+0 = 153,1,354,165,(emit-284-61-hulk_emmiter),(emit-226-141-hulk_emmiter),
+1 = 127,174,317,512,(emit-210-202-hulk_emmiter),(emit-188-418-hulk_emmiter),(emit-281-270-hulk_emmiter),(emit-283-249-hulk_smoke_emmiter),
+2 = 318,302,383,512,
+

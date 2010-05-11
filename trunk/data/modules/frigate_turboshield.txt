@@ -1,0 +1,31 @@
+[config]
+unlockcost = 2500
+lockable = 1
+classname = "SIM_ShieldModule"
+category = "DEFENSES"
+size = "FRIGATE"
+name = "frigate turboshield"
+guiname = "Turbo Shields"
+description = "These aren't just ordinary shields. These are high powered, sleek-designed turbo shields. For the frigate captain who has everything. (except turbo-shields). Because you're worth it."
+weight = 32
+hitpoints = 33
+recharge_rate = 0.006
+cost = 84
+icon = module_shield_turbo.dds
+crew_required = 6
+powerconsumed = 6.8
+shieldpoints = 77
+resistance = 7
+slot_type = STANDARD
+stack_effectiveness = 0.9
+uisortpos = 2090
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = shieldpoints,DECIMAL
+5 = crew_required,INTEGER
+6 = resistance,DECIMAL
+7 = recharge_rate,DECIMAL_MULT,1000

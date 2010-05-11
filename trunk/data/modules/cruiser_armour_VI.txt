@@ -1,0 +1,26 @@
+[config]
+unlockcost = 2590
+lockable = 1
+classname = "SIM_ArmourModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "cruiser_armour VI"
+guiname = "Cruiser Minimal Armor"
+description = "The bare minimum of defense for a starship. When you are on a tight budget, this may be the armor for you."
+weight = 66
+hitpoints = 0
+maxdamageabsorbable = 45
+cost = 89
+icon = module_armour_v6.dds
+crew_required = 0
+powerconsumed = 0
+slot_type = STANDARD
+stack_effectiveness = 0.97
+uisortpos = 2050
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+

@@ -1,0 +1,26 @@
+[config]
+name = _imperial  praetorian cruiser 
+guiname = Imperial  Praetorian Cruiser 
+hull = Imperial Praetorian Cruiser hull 
+
+[modules]
+0 = cruiser_repair,
+1 = cruiser_engine II,
+2 = cruiser_engine II,
+3 = cruiser_engine,
+4 = cruiser_engine,
+5 = cruiser_laser,
+6 = cruiser_beamlaser,
+7 = cruiser power II,
+8 = cruiser_pointdefence,
+9 = cruiser shield II,
+10 = cruiser shield II,
+11 = cruiser power III,
+12 = cruiser_pulselaser,
+13 = cruiser_armour II,
+14 = cruiser_pdscanner2,
+15 = cruiser_beamlaser,
+16 = cruiser_armour III,
+17 = cruiser crew III,
+18 = cruiser_armour II,
+19 = cruiser shield II,

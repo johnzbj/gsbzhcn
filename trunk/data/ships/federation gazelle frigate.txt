@@ -1,0 +1,16 @@
+[config]
+name = _federation gazelle frigate 
+guiname = Federation Gazelle Frigate 
+hull = Federation Gazelle Frigate 
+
+[modules]
+0 = frigate_pointdefence,
+1 = frigate_armour III,
+2 = frigate_armour III,
+3 = frigate missile,
+4 = frigate fastmissile,
+5 = frigate shield II,
+6 = frigate shield II,
+7 = frigate crew II,
+8 = frigate power II,
+9 = frigate_engine III,

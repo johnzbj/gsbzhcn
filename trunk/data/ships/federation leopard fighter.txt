@@ -1,0 +1,10 @@
+[config]
+name = _federation leopard fighter 
+guiname = Federation Leopard Fighter 
+hull = Federation Leopard Fighter 
+
+[modules]
+0 = fighter_rocket,
+1 = fighter torpedo,
+2 = fighter_engine,
+3 = fighter_engine,

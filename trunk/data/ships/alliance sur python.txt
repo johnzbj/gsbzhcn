@@ -1,0 +1,24 @@
+[config]
+name = _alliance sur python 
+guiname = Alliance Sur Python 
+hull = Alliance Python Cruiser hull 
+
+[modules]
+0 = cruiser_alliance_beamlaser,
+1 = cruiser_engine III,
+2 = cruiser_engine III,
+3 = cruiser crew II,
+4 = cruiser shield multiphasic,
+5 = cruiser_pointdefence,
+6 = cruiser_defence laser,
+7 = cruiser power III,
+8 = cruiser power III,
+9 = cruiser_alliance_beamlaser,
+10 = cruiser_alliance_beamlaser,
+11 = cruiser_ecm beam,
+12 = cruiser_alliance_beamlaser,
+13 = cruiser_alliance_beamlaser,
+14 = cruiser_armour II,
+15 = cruiser_ecm shield,
+16 = cruiser_armour II,
+17 = cruiser_alliance_beamlaser,

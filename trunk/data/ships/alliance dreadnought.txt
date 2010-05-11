@@ -1,0 +1,24 @@
+[config]
+name = _alliance dreadnought 
+guiname = Alliance Dreadnought 
+hull = Alliance Python Cruiser hull 
+
+[modules]
+0 = cruiser heavy plasma,
+1 = cruiser_engine III,
+2 = cruiser crew II,
+3 = cruiser_engine III,
+4 = cruiser power II,
+5 = cruiser_defence laser,
+6 = cruiser_defence laser,
+7 = cruiser shield fastrecharge,
+8 = cruiser shield fastrecharge,
+9 = cruiser_quantumblaster,
+10 = cruiser_quantumblaster,
+11 = cruiser_targetboosterII,
+12 = cruiser_alliance_beamlaser,
+13 = cruiser_alliance_beamlaser,
+14 = cruiser power III,
+15 = cruiser_armour III,
+16 = cruiser_armour III,
+17 = cruiser heavy plasma,

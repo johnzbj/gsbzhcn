@@ -1,0 +1,31 @@
+[config]
+category = "DEFENSES"
+classname = "SIM_ShieldModule"
+cost = 160
+crew_required = 10
+description = "Multi-phasic shields use a different generation system which makes for very high strength, but low resistance, meaning they can be damaged by almost all incoming fire."
+guiname = "Multiphasic Shields"
+hitpoints = 115
+icon = module_shield_multiphasic.dds
+lockable = 1
+name = "cruiser shield multiphasic"
+powerconsumed = 12
+recharge_rate = 0.007
+resistance = 9
+shieldpoints = 275
+size = "CRUISER"
+slot_type = STANDARD
+stack_effectiveness = 0.9
+unlockcost = 2900
+weight = 94
+uisortpos = 2110
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = shieldpoints,DECIMAL
+5 = crew_required,INTEGER
+6 = resistance,DECIMAL
+7 = recharge_rate,DECIMAL_MULT,1000

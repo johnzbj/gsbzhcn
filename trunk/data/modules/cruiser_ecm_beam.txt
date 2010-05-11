@@ -1,0 +1,36 @@
+[config]
+beam_duration = 220
+beam_texture = "ecm_beam.dds"
+beam_width = 2
+category = "DEFENSES"
+classname = "SIM_ECMBeamModule"
+cost = 132
+crew_required = 8
+description = "People firing missiles at your ship think they are so clever, but you can show them whose smarter by scrambling their guidance systems with this anti-missile beam gizmo."
+fire_interval = 1300
+guiname = "Guidance Scrambler Beam"
+hitpoints = 105
+icon = turret
+lockable = 0
+max_range = 380
+name = "cruiser_ecm beam"
+powerconsumed = 12
+size = "CRUISER"
+slot_type = TURRET
+sound = data/sounds/ecmbeam.ogg
+soundvolume = 0.4
+tracking_speed = 2.2
+turret_sprite = "tractor_turret_v1"
+turretsize = 10.0
+uisortpos = 2160
+unlockcost = 0
+weight = 130
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = max_range,DECIMAL
+5 = fire_interval,INTEGER
+6 = crew_required,INTEGER

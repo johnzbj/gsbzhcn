@@ -1,0 +1,9 @@
+[config]
+name = _imperial phalanx fighter 
+guiname = imperial phalanx fighter 
+hull = Imperial Phalanx Fighter 
+
+[modules]
+0 = fighter_laser,
+1 = fighter power III,
+2 = fighter_engine II,

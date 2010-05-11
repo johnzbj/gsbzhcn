@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_CrewModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "frigate crew II"
+guiname = "Crew Module II"
+description = "For frigates whose crew complements extend beyond the size of hockey teams, this larger crew podule ensures room enough for everyone from ships cook to ships captain."
+weight = 37
+cost = 40
+hitpoints = 12
+icon = module_crew2.dds
+crew_required = 0
+powerconsumed = 1
+crewsupply = 78
+slot_type = STANDARD
+uisortpos = 4020
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crewsupply,INTEGER
+4 = powerconsumed,DECIMAL

@@ -1,0 +1,28 @@
+[config]
+category = "ENGINES"
+classname = "SIM_EngineModule"
+cost = 15
+crew_required = 0
+description = "With cruisers the size of shopping centers trying to blast them into dust, your fighter pilots will appreciate the maneuverability afforded by this enhanced engine podule."
+guiname = "Fighter Engine II"
+hitpoints = 6
+icon = module_engine_2.dds
+lockable = 0
+name = "fighter_engine II"
+powerconsumed = 2
+size = "FIGHTER"
+slot_type = STANDARD
+thrust = 17
+unlockcost = 0
+weight = 2.5
+stack_effectiveness = 0.72
+uisortpos = 3010
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = thrust,DECIMAL
+
+

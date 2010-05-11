@@ -1,0 +1,23 @@
+[config]
+name = _iw flagship 
+guiname = iw flagship 
+hull = Imperial Legion Cruiser hull 
+
+[modules]
+0 = cruiser_beamlaser,
+1 = cruiser_engine V,
+2 = cruiser_engine V,
+3 = cruiser micro crew,
+4 = cruiser crew_reinforced,
+5 = cruiser power III,
+6 = cruiser_automated point_defence,
+7 = crusier_camoflage,
+8 = cruiser_nanorepair,
+9 = cruiser power III,
+10 = cruiser_nanorepair,
+11 = cruiser shield fastrecharge,
+12 = cruiser shield fastrecharge,
+13 = cruiser_beamlaser,
+14 = cruiser_pointdefence,
+15 = cruiser_nanorepair,
+16 = cruiser_pdscanner2,

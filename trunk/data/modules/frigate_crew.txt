@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_CrewModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "frigate crew"
+guiname = "Crew Module"
+description = "A standard frigate-sized crew podule where your crewmembers can rest their heads or other appropriate body sections in between glorious battles to the death."
+weight = 25
+cost = 30
+hitpoints = 10
+icon = module_crew.dds
+crew_required = 0
+powerconsumed = 0.2
+crewsupply = 54
+slot_type = STANDARD
+uisortpos = 4010
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crewsupply,INTEGER
+4 = powerconsumed,DECIMAL

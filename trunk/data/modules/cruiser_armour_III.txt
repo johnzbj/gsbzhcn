@@ -1,0 +1,26 @@
+[config]
+unlockcost = 1200
+lockable = 1
+classname = "SIM_ArmourModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "cruiser_armour III"
+guiname = "Cruiser Armour III"
+description = "The ultimate in armored defense, these plates of super-strength neutronium are reinforced with active energy dampers and other technology we don't talk about in public."
+weight = 120
+hitpoints = 0
+maxdamageabsorbable = 121
+cost = 243
+icon = module_armour_v3.dds
+crew_required = 0
+powerconsumed = 0
+slot_type = STANDARD
+stack_effectiveness = 0.97
+uisortpos = 2020
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+

@@ -1,0 +1,10 @@
+[config]
+name = _federation falcon fighter 
+guiname = Federation Falcon Fighter 
+hull = Federation Falcon Fighter 
+
+[modules]
+0 = fighter_armour,
+1 = fighter_laser,
+2 = fighter power II,
+3 = fighter_engine II,

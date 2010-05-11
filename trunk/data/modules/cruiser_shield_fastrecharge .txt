@@ -1,0 +1,31 @@
+[config]
+category = "DEFENSES"
+classname = "SIM_ShieldModule"
+cost = 195
+crew_required = 15
+description = "Shield generator makers always boast about shield strength and power consumption, but the smartest guys in the room know it's all about that vital recharge speed."
+guiname = "Fast Recharge Shields"
+hitpoints = 110
+icon = module_shield_v7.dds
+lockable = 1
+name = "cruiser shield fastrecharge"
+powerconsumed = 14.4
+recharge_rate = 0.008
+resistance = 24
+shieldpoints = 262
+size = "CRUISER"
+slot_type = STANDARD
+stack_effectiveness = 0.9
+unlockcost = 420
+weight = 123
+uisortpos = 2100
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = shieldpoints,DECIMAL
+5 = crew_required,INTEGER
+6 = resistance,DECIMAL
+7 = recharge_rate,DECIMAL_MULT,1000

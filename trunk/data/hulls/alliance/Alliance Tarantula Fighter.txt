@@ -1,0 +1,44 @@
+[config]
+classname = fighter
+name = Alliance Tarantula Fighter
+guiname = Alliance Tarantula Fighter Hull
+sprite = Alliance Tarantula Fighter.dds
+damagetexture = Alliance Tarantula Fighter_damaged.dds
+hulktexture = alliance_hulks.dds
+hulkUVstart = 8
+hulkUVend = 11
+width = 9
+height = 9
+powerproduced = 2.2
+cost = 34
+racename = alliance
+unlockcost = 4600
+lockable = 1
+
+[bonuses]
+0 = ARMOURBOOST,0.1
+1 = SPEEDBOOST,0.07
+
+[runninglights]
+0 = 52,145,100,3,1
+1 = 203,145,100,3,0
+
+[contrails]
+0 = 128,221,40,400,1.5,4
+
+[targets]
+0 = 139.00,52.00,1,1,116.00,28.00,162.00,76.00,SHIP_EMMITER_SMALL,
+1 = 146.00,118.00,0,0,
+2 = 103.00,131.50,1,1,85.00,104.00,121.00,159.00,SHIP_EMMITER_SMALL,
+
+[slots]
+0 = 128.00,159.00,STANDARD,
+1 = 128.00,96.00,STANDARD,
+2 = 128.00,51.00,TURRET,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+

@@ -1,0 +1,26 @@
+[config]
+unlockcost = 300
+lockable = 1
+classname = "SIM_ArmourModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "cruiser powered armor"
+guiname = "Powered Armour"
+description = "By passing beams of charged protons through the nano-structure of these armor plates, engineers can provide high strength without huge weight, although they do need power."
+weight = 79
+hitpoints = 0
+maxdamageabsorbable = 117
+cost = 207
+icon = module_armour_v7.dds
+crew_required = 0
+powerconsumed = 3
+slot_type = STANDARD
+stack_effectiveness = 0.97
+uisortpos = 2060
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+4 = powerconsumed,DECIMAL

@@ -1,0 +1,21 @@
+[config]
+name = _federation  panther cruiser 
+guiname = Federation  Panther Cruiser 
+hull = Federation Panther Cruiser hull 
+
+[modules]
+0 = cruiser_beamlaser,
+1 = crusier_camoflage,
+2 = cruiser_nanorepair,
+3 = cruiser_nanorepair,
+4 = cruiser powered armor,
+5 = cruiser powered armor,
+6 = cruiser crew II,
+7 = cruiser_pointdefence,
+8 = cruiser_engine IV,
+9 = cruiser_engine,
+10 = cruiser_engine,
+11 = cruiser power II,
+12 = cruiser power,
+13 = cruiser_beamlaser,
+14 = cruiser_beamlaser,

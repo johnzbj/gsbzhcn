@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser power III"
+guiname = "Power Generator III"
+description = "Those big laser beams aren't powered by monkeys on exercise bikes. When galactic conquest is your aim, you will appreciate the sheer power of the mighty MK III power system."
+weight = 155
+hitpoints = 125
+cost = 229
+icon = module_powergen_v9.dds
+crew_required = 46
+powerconsumed = 0
+powerproduced = 66
+slot_type = STANDARD
+uisortpos = 4100
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL
+4 = crew_required,INTEGER

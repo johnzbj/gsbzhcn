@@ -1,0 +1,89 @@
+[config]
+classname = cruiser
+name = Rebel Valhalla Cruiser
+guiname = Rebel Valhalla Cruiser
+sprite = Rebel Valhalla Cruiser.dds
+damagetexture = Rebel Valhalla Cruiser_damaged.dds
+hulktexture = Rebel Valhalla Cruiser_hulk.dds
+width = 200
+height = 200
+powerproduced = 8
+cost = 140
+racename = rebel
+
+[bonuses]
+0 = SPEEDBOOST,0.09
+1 = SHIELDBOOST,0.07
+
+[runninglights]
+0 = 51,161,170,2,1
+1 = 54,110,170,2,1
+2 = 201,160,170,2,0
+3 = 202,110,170,2,0
+4 = 128,250,170,2,3
+5 = 116,4,170,2,1
+6 = 140,4,170,2,0
+
+[engineglows]
+0 = 87,272,16,40,"engineglow.dds","engine_debris",0,1.0
+1 = 169,272,16,40,"engineglow.dds","engine_debris",0,1.0
+
+[targets]
+0 = 105.00,66.00,1,1,92.00,53.00,118.00,79.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-105.00-66.00),(damage_sprite_sparks-103.00-63.00),(damage_sprite_sparks-107.00-65.00),(damage_sprite_sparks-101.00-69.00),(damage_sprite_sparks-104.00-69.00),(damage_sprite_sparks-106.00-71.00),
+1 = 150.50,52.50,1,1,137.00,33.00,164.00,72.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-150.50-52.50),(damage_sprite_sparks-147.00-46.00),(damage_sprite_sparks-150.00-52.00),(damage_sprite_sparks-149.00-58.00),(damage_sprite_sparks-152.00-62.00),(damage_sprite_sparks-154.00-58.00),(damage_sprite_smoke-151.00-55.00),(damage_sprite_sparks-154.00-66.00),
+2 = 86.00,209.00,1,1,72.00,189.00,100.00,229.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-86.00-209.00),(damage_sprite_sparks-85.00-201.00),(damage_sprite_sparks-89.00-202.00),(damage_sprite_sparks-84.00-206.00),(damage_sprite_sparks-89.00-209.00),(damage_sprite_sparks-85.00-212.00),(damage_sprite_sparks-85.00-219.00),(damage_sprite_smoke-89.00-210.00),
+3 = 184.00,133.50,0,1,175.00,122.00,193.00,145.00,(damage_sprite_sparks-184.00-133.50),(damage_sprite_sparks-184.00-134.00),(damage_sprite_sparks-185.00-139.00),
+4 = 165.50,205.50,1,1,154.00,190.00,177.00,221.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-165.50-205.50),(damage_sprite_sparks-163.00-201.00),(damage_sprite_sparks-168.00-202.00),(damage_sprite_sparks-165.00-209.00),(damage_sprite_sparks-168.00-212.00),
+5 = 116.00,136.00,0,1,103.00,117.00,129.00,155.00,(damage_sprite_sparks-116.00-136.00),(damage_sprite_sparks-117.00-129.00),(damage_sprite_sparks-115.00-135.00),(damage_sprite_sparks-119.00-139.00),(damage_sprite_sparks-123.00-145.00),(damage_sprite_smoke-115.00-140.00),
+6 = 115.50,235.50,0,1,108.50,229.00,122.50,242.00,
+7 = 140.00,237.75,0,1,135.00,233.50,145.00,242.00,
+8 = 162.50,156.25,0,1,156.50,150.50,168.50,162.00,
+9 = 163.00,86.25,0,1,155.50,80.00,170.50,92.50,
+10 = 186.00,104.25,0,1,180.50,98.50,191.50,110.00,
+11 = 66.00,139.25,0,1,59.00,132.00,73.00,146.50,
+12 = 74.50,96.00,0,1,68.50,89.50,80.50,102.50,
+13 = 92.75,86.75,0,1,85.50,79.00,100.00,94.50,
+14 = 102.75,36.75,0,1,97.50,32.00,108.00,41.50,
+
+[slots]
+0 = 109.00,64.00,TURRET,(101.00-53.00),(111.00-29.00),
+1 = 147.00,64.00,TURRET,(151.00-53.00),(145.00-29.00),
+2 = 128.00,96.00,TURRET,(119.00-83.00),(137.00-83.00),
+3 = 88.00,102.00,TURRET,(88.00-102.00),(112.00-104.00),
+4 = 168.00,102.00,TURRET,(168.00-102.00),(144.00-104.00),
+5 = 86.00,239.00,STANDARD,
+6 = 170.00,239.00,STANDARD,
+7 = 86.00,207.00,STANDARD,
+8 = 170.00,207.00,STANDARD,
+9 = 128.00,210.00,STANDARD,
+10 = 113.00,174.00,STANDARD,
+11 = 143.00,174.00,STANDARD,
+12 = 52.00,139.00,STANDARD,
+13 = 204.00,139.00,STANDARD,
+14 = 84.00,142.00,TURRET,
+15 = 172.00,142.00,TURRET,
+16 = 128.00,128.00,STANDARD,
+
+[explosions]
+0 = 0,128,80,EXP_FRIGATE
+1 = 80,141,17,EXP_DESTRUCTION_PLACED
+2 = 110,105,186,EXP_DESTRUCTION_PLACED
+3 = 120,166,228,EXP_DESTRUCTION_PLACED
+4 = 134,167,106,EXP_DESTRUCTION_PLACED
+5 = 145,127,243,EXP_DESTRUCTION_PLACED
+6 = 200,47,189,EXP_FRIGATEBREAKUP
+7 = 202,128,138,EXP_PLUMES
+8 = 204,128,138,EXP_CRUISER_PLUMECENTER
+9 = 210,0,0,EXP_STARTBREAKUP
+10 = 230,49,137,EXP_DESTRUCTION_PLACED
+11 = 270,128,128,EXP_CRUISERDEBRIS
+12 = 355,138,174,EXP_DESTRUCTION_PLACED
+13 = 366,83,233,EXP_DESTRUCTION_PLACED
+14 = 400,128,138,EXP_FRIGATEBREAKUP
+15 = 400,128,138,EXP_BLASTGLARE
+16 = 400,128,138,EXP_ANGLED_DEBRIS
+
+[hulks]
+0 = 113,3,425,326,(emit-173-207-hulk_emmiter),(emit-236-257-hulk_emmiter),(emit-229-269-hulk_emmiter),(emit-308-298-hulk_emmiter),(emit-344-284-hulk_emmiter),(emit-408-285-hulk_emmiter),(emit-335-211-hulk_emmiter),(emit-306-126-hulk_emmiter),(emit-300-111-hulk_emmiter),(emit-286-56-hulk_emmiter),(emit-208-129-hulk_emmiter),(emit-165-285-hulk_emmiter),(emit-373-278-hulk_smoke_emmiter),(emit-235-279-hulk_smoke_emmiter),(emit-210-145-hulk_smoke_emmiter),
+1 = 140,328,369,509,(emit-165-411-hulk_emmiter),(emit-179-404-hulk_emmiter),(emit-174-426-hulk_emmiter),(emit-167-453-hulk_emmiter),(emit-167-474-hulk_emmiter),(emit-328-399-hulk_emmiter),(emit-333-414-hulk_emmiter),(emit-338-444-hulk_smoke_emmiter),
+

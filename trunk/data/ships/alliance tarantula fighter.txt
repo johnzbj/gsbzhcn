@@ -1,0 +1,9 @@
+[config]
+name = _alliance tarantula fighter 
+guiname = Alliance Tarantula Fighter 
+hull = Alliance Tarantula Fighter 
+
+[modules]
+0 = fighter_engine II,
+1 = fighter_armour III,
+2 = fighter torpedo,

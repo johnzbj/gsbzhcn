@@ -1,0 +1,29 @@
+[config]
+unlockcost = 600
+lockable = 1
+classname = "SIM_CarrierModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser_carrier"
+guiname = "Carrier Support Bay"
+description = "Fighter pilots always end up damaging the things, so be sure to invest in this portable fighter-repair yard to patch them up mid-battle. Ensure you order the pilots to be cautious."
+weight = 135
+hitpoints = 105
+cost = 150
+icon = module_carrier.dds
+crew_required = 42
+repair_rate = 0.05
+powerconsumed = 4.0
+slot_type = STANDARD
+stack_effectiveness = 1.0
+maxrepairsupplies = 500
+uisortpos = 4112
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = repair_rate,DECIMAL
+6 = maxrepairsupplies,INTEGER

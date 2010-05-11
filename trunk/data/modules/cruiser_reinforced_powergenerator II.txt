@@ -1,0 +1,25 @@
+[config]
+unlockcost = 1000
+lockable = 1
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser reinforced power II"
+guiname = "Reinforced Powerplant II"
+description = "Reinforced systems hold up better to enemy fire, even when shields and armor are distant memories, this system will keep churning out power until the last minute."
+weight = 134
+hitpoints = 155
+cost = 191
+icon = module_powergen_v5.dds
+crew_required = 37
+powerconsumed = 0
+powerproduced = 52
+slot_type = STANDARD
+uisortpos = 4090
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL
+4 = crew_required,INTEGER

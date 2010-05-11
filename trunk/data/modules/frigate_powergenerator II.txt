@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "frigate power II"
+guiname = "Power Generator II"
+description = "Once you start adding some basic shields and decent beam weapons, you will find the standard frigate power modules just aren't meaty enough. This is the next stage up."
+weight = 45
+hitpoints = 5
+cost = 104
+icon = module_powergen_v5.dds
+crew_required = 20
+powerconsumed = 0
+powerproduced = 18
+slot_type = STANDARD
+uisortpos = 4040
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL
+4 = crew_required,INTEGER

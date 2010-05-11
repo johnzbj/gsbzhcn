@@ -1,0 +1,21 @@
+[config]
+name = _rebel valkyrie cruiser 
+guiname = rebel valkyrie cruiser 
+hull = Rebel Valkyrie Cruiser 
+
+[modules]
+0 = cruiser_engine V,
+1 = cruiser_repair,
+2 = cruiser_engine,
+3 = cruiser heavy plasma,
+4 = cruiser heavy plasma,
+5 = cruiser tractor,
+6 = cruiser missile,
+7 = cruiser_pulselaser,
+8 = cruiser_defence laser,
+9 = cruiser_ecm shock,
+10 = cruiser shield,
+11 = cruiser_repair,
+12 = cruiser power,
+13 = cruiser power II,
+14 = cruiser crew III,

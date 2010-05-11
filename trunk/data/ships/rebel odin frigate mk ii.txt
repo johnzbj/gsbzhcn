@@ -1,0 +1,17 @@
+[config]
+name = _rebel odin frigate mk ii 
+guiname = Rebel Odin Frigate MK II 
+hull = Rebel Odin Frigate hull 
+
+[modules]
+0 = frigate tractor,
+1 = frigate crew,
+2 = frigate power II,
+3 = frigate power II,
+4 = frigate_beamlaser,
+5 = frigate_beamlaser,
+6 = frigate_engine III,
+7 = frigate_engine III,
+8 = frigate_armour IV,
+9 = frigate_armour IV,
+10 = frigate crew,

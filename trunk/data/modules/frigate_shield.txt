@@ -1,0 +1,31 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_ShieldModule"
+category = "DEFENSES"
+size = "FRIGATE"
+name = "frigate shield"
+guiname = "Shield Generator"
+description = "Ok, so this is a 'budget' shield system, but when you are only worried about laser fire from low powered pesky enemy fighters, it might be all you need."
+weight = 25
+hitpoints = 45
+recharge_rate = 0.006
+cost = 58
+icon = module_shield_v2.dds
+crew_required = 4
+powerconsumed = 4.3
+shieldpoints = 50
+resistance = 9
+slot_type = STANDARD
+stack_effectiveness = 0.9
+uisortpos = 2070
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = shieldpoints,DECIMAL
+5 = crew_required,INTEGER
+6 = resistance,DECIMAL
+7 = recharge_rate,DECIMAL_MULT,1000

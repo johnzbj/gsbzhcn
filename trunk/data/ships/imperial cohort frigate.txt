@@ -1,0 +1,19 @@
+[config]
+name = _imperial cohort frigate 
+guiname = imperial cohort frigate 
+hull = Imperial Cohort Frigate hull 
+
+[modules]
+0 = frigate crew II,
+1 = frigate disruptor bomb,
+2 = frigate_laser,
+3 = frigate_beamlaser,
+4 = frigate power II,
+5 = frigate_armour IV,
+6 = frigate_engine,
+7 = frigate shield II,
+8 = frigate crew,
+9 = frigate_engine,
+10 = frigate shield II,
+11 = frigate power II,
+12 = frigate_laser,

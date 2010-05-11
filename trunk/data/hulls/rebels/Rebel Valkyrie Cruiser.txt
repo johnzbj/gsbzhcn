@@ -1,0 +1,93 @@
+[config]
+classname = cruiser
+name = Rebel Valkyrie Cruiser
+guiname = Rebel Valkyrie Cruiser
+sprite = Rebel Valkyrie Cruiser.dds
+damagetexture = Rebel Valkyrie Cruiser_damaged.dds
+hulktexture = Rebel Valkyrie Cruiser_hulk.dds
+width = 175
+height = 175
+powerproduced = 7
+cost = 110
+racename = rebel
+
+[bonuses]
+0 = SPEEDBOOST,0.11
+1 = INTEGRITYBOOST,0.06
+
+[runninglights]
+0 = 51.00,151.00,200.00,2.00,1
+1 = 51.50,206.50,200.00,2.00,1
+2 = 109.00,27.00,200.00,2.00,1
+3 = 147.00,28.00,200.00,2.00,0
+4 = 205.00,152.00,200.00,2.00,0
+5 = 204.00,205.00,200.00,2.00,0
+6 = 94.00,168.00,400.00,2.00,3
+7 = 162.50,168.00,400.00,2.00,3
+8 = 116.00,167.00,400.00,2.00,3
+9 = 140.00,167.50,400.00,2.00,3
+
+[engineglows]
+0 = 92,274,18,40,"engineglow.dds","engine_debris",0,1.0
+1 = 128,274,18,40,"engineglow.dds","engine_debris",0,1.0
+2 = 164,274,18,40,"engineglow.dds","engine_debris",0,1.0
+
+[targets]
+0 = 191.00,183.00,1,1,183.00,171.00,199.00,195.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-191.00-183.00),(damage_sprite_sparks-192.00-188.00),(damage_sprite_sparks-190.00-190.00),(damage_sprite_sparks-187.00-179.00),
+1 = 157.75,79.50,0,1,152.00,72.00,163.50,87.00,
+2 = 92.00,229.50,0,1,85.50,220.00,98.50,239.00,
+3 = 172.50,140.00,0,1,164.00,133.50,181.00,146.50,
+4 = 123.00,154.50,0,1,110.00,142.00,136.00,167.00,(damage_sprite_sparks-123.00-154.50),(damage_sprite_sparks-117.00-157.00),(damage_sprite_sparks-124.00-157.00),(damage_sprite_sparks-127.00-150.00),(damage_sprite_smoke-126.00-154.00),
+5 = 189.00,158.00,0,1,182.50,151.50,195.50,164.50,
+6 = 73.75,150.00,0,1,67.50,145.50,80.00,154.50,
+7 = 167.50,188.75,0,1,160.00,183.50,175.00,194.00,
+8 = 70.50,198.25,0,1,63.50,192.50,77.50,204.00,
+9 = 127.00,227.50,0,1,119.00,215.00,135.00,240.00,(damage_sprite_sparks-127.00-227.50),(damage_sprite_sparks-128.00-230.00),(damage_sprite_sparks-128.00-222.00),(damage_sprite_smoke-129.00-226.00),
+10 = 130.50,32.50,1,1,120.00,20.00,141.00,45.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-130.50-32.50),(damage_sprite_sparks-130.00-33.00),(damage_sprite_sparks-129.00-33.00),(damage_sprite_sparks-130.00-33.00),(damage_sprite_sparks-128.00-31.00),(damage_sprite_sparks-132.00-35.00),(damage_sprite_sparks-133.00-39.00),(damage_sprite_smoke-131.00-34.00),
+11 = 163.00,118.00,0,1,154.00,106.00,172.00,130.00,(damage_sprite_sparks-163.00-118.00),(damage_sprite_sparks-160.00-118.00),(damage_sprite_sparks-163.00-122.00),
+12 = 93.00,97.00,0,1,87.00,91.00,99.00,103.00,
+13 = 96.50,187.75,0,1,90.50,182.50,102.50,193.00,
+14 = 93.00,119.50,1,1,83.00,108.00,103.00,131.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-93.00-119.50),(damage_sprite_sparks-92.00-123.00),
+
+[slots]
+0 = 92.00,234.00,STANDARD,
+1 = 128.00,234.00,STANDARD,
+2 = 164.00,234.00,STANDARD,
+3 = 46.00,187.00,TURRET,(48.00-180.00),(68.00-182.00),
+4 = 210.00,187.00,TURRET,(208.00-180.00),(188.00-182.00),
+5 = 128.00,6.00,STANDARD,
+6 = 128.00,32.00,TURRET,(116.00-48.00),(140.00-48.00),
+7 = 128.00,64.00,TURRET,(110.00-74.00),(146.00-74.00),
+8 = 128.00,96.00,TURRET,(105.00-105.00),(151.00-105.00),
+9 = 98.00,136.00,TURRET,
+10 = 158.00,136.00,TURRET,
+11 = 109.00,162.50,STANDARD,
+12 = 147.00,162.50,STANDARD,
+13 = 110.00,202.00,STANDARD,
+14 = 146.00,202.00,STANDARD,
+
+[explosions]
+0 = 0,128,80,EXP_FRIGATE
+1 = 14,115,81,EXP_DESTRUCTION_PLACED
+2 = 55,65,180,EXP_DESTRUCTION_PLACED
+3 = 80,143,58,EXP_DESTRUCTION_PLACED
+4 = 134,94,198,EXP_DESTRUCTION_PLACED
+5 = 200,47,189,EXP_FRIGATEBREAKUP
+6 = 202,128,180,EXP_PLUMES
+7 = 204,128,180,EXP_CRUISER_PLUMECENTER
+8 = 210,0,0,EXP_STARTBREAKUP
+9 = 230,141,113,EXP_DESTRUCTION_PLACED
+10 = 240,187,163,EXP_DESTRUCTION_PLACED
+11 = 255,157,202,EXP_DESTRUCTION_PLACED
+12 = 270,128,128,EXP_CRUISERDEBRIS
+13 = 330,86,231,EXP_DESTRUCTION_PLACED
+14 = 400,128,180,EXP_FRIGATEBREAKUP
+15 = 400,128,180,EXP_BLASTGLARE
+16 = 400,128,180,EXP_SPARKBURST
+
+[hulks]
+0 = 224,1,290,97,(emit-256-63-hulk_emmiter),(emit-259-76-hulk_emmiter),(emit-265-68-hulk_smoke_emmiter),
+1 = 149,103,432,367,(emit-191-238-hulk_emmiter),(emit-206-214-hulk_emmiter),(emit-199-317-hulk_emmiter),(emit-238-313-hulk_emmiter),(emit-252-307-hulk_emmiter),(emit-270-318-hulk_emmiter),(emit-274-296-hulk_emmiter),(emit-275-276-hulk_emmiter),(emit-272-239-hulk_emmiter),(emit-298-246-hulk_emmiter),(emit-325-239-hulk_emmiter),(emit-288-150-hulk_emmiter),(emit-224-184-hulk_emmiter),(emit-235-169-hulk_emmiter),(emit-223-141-hulk_emmiter),(emit-287-331-hulk_emmiter),(emit-413-357-hulk_emmiter),(emit-197-277-hulk_emmiter),(emit-184-250-hulk_emmiter),(emit-282-303-hulk_smoke_emmiter),(emit-234-190-hulk_smoke_emmiter),
+2 = 77,255,147,422,(emit-95-359-hulk_emmiter),
+3 = 150,369,359,512,(emit-186-462-hulk_emmiter),(emit-231-471-hulk_emmiter),(emit-254-458-hulk_emmiter),(emit-192-430-hulk_smoke_emmiter),(emit-256-447-hulk_smoke_emmiter),
+

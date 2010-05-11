@@ -1,0 +1,16 @@
+[config]
+name = _federation wolf frigate 
+guiname = federation wolf frigate 
+hull = Federation Wolf Frigate hull 
+
+[modules]
+0 = frigate_smallbeamlaser,
+1 = frigate_engine,
+2 = frigate_engine,
+3 = frigate_armour IV,
+4 = frigate_armour IV,
+5 = frigate crew,
+6 = frigate crew,
+7 = frigate power II,
+8 = frigate plasma,
+9 = frigate plasma,

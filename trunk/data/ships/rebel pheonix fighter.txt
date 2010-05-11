@@ -1,0 +1,10 @@
+[config]
+name = _rebel pheonix fighter 
+guiname = Rebel Pheonix Fighter 
+hull = Rebel Pheonix Fighter 
+
+[modules]
+0 = fighter power,
+1 = fighter_engine,
+2 = fighter torpedo,
+3 = fighter_laser,

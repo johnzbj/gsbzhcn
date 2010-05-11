@@ -1,0 +1,9 @@
+[config]
+name = _imperial javelin fighter 
+guiname = Imperial Javelin Fighter 
+hull = Imperial Javelin Fighter 
+
+[modules]
+0 = fighter_engine II,
+1 = fighter_pulse laser,
+2 = fighter power III,

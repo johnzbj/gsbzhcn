@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_CrewModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser crew II"
+guiname = "Crew Module II"
+description = "Bigger ships mean even more crew, and this larger crew podule supports enough of them to make up an entire zero-g football league (old style rules)."
+weight = 125
+cost = 120
+hitpoints = 130
+icon = module_crew2.dds
+crew_required = 0
+powerconsumed = 1
+crewsupply = 268
+slot_type = STANDARD
+uisortpos = 4020
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crewsupply,INTEGER
+4 = powerconsumed,DECIMAL

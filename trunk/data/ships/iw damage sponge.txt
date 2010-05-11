@@ -1,0 +1,21 @@
+[config]
+name = _iw damage sponge 
+guiname = iw damage sponge 
+hull = Imperial Hasta Frigate hull 
+
+[modules]
+0 = frigate_armour III,
+1 = frigate_engine,
+2 = frigate_engine,
+3 = frigate turboshield,
+4 = frigate_armour III,
+5 = frigate_armour III,
+6 = frigate turboshield,
+7 = frigate turboshield,
+8 = frigate power III,
+9 = frigate crew,
+10 = frigate_pulselaser,
+11 = frigate_rapidfire_laser,
+12 = frigate_pointdefence II,
+13 = frigate turboshield,
+14 = frigate crew,

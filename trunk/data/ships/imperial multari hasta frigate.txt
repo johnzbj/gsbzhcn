@@ -1,0 +1,21 @@
+[config]
+name = _imperial multari hasta frigate 
+guiname = imperial multari hasta frigate 
+hull = Imperial Hasta Frigate hull 
+
+[modules]
+0 = frigate_armour V,
+1 = frigate_engine II,
+2 = frigate_engine,
+3 = frigate power,
+4 = frigate_armour V,
+5 = frigate crew II,
+6 = frigate missile,
+7 = frigate power,
+8 = frigate_armour V,
+9 = frigate_armour V,
+10 = frigate_beamlaser,
+11 = frigate_smallbeamlaser,
+12 = frigate missile,
+13 = frigate_armour V,
+14 = frigate crew,

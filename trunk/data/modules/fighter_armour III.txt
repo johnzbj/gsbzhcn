@@ -1,0 +1,26 @@
+[config]
+category = "DEFENSES"
+classname = "SIM_ArmourModule"
+cost = 36
+crew_required = 0
+description = "There are still some admirals who cling to a dream that fighter pilots will make it to the end of the battle. And MK III armor is the armor of choice for those people."
+guiname = "Fighter Armour III"
+hitpoints = 0
+icon = module_armour_v3.dds
+lockable = 0
+maxdamageabsorbable = 16.25
+name = "fighter_armour III"
+powerconsumed = 0
+size = "FIGHTER"
+slot_type = STANDARD
+unlockcost = 0
+weight = 1.25
+uisortpos = 2020
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+
+

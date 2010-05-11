@@ -1,0 +1,43 @@
+[config]
+classname = fighter
+name = Rebel Icarus Fighter
+guiname = Rebel Icarus Fighter Hull
+sprite = Rebel Icarus Fighter.dds
+damagetexture = Rebel Icarus Fighter_damaged.dds
+hulktexture = rebel_hulks.dds
+hulkUVstart = 8
+hulkUVend = 11
+width = 12
+height = 12
+powerproduced = 4
+cost = 38
+racename = rebel
+
+[bonuses]
+0 = SPEEDBOOST,0.14
+
+[runninglights]
+0 = 29,115,170,2,1
+1 = 227,115,170,2,0
+
+[contrails]
+0 = 128,248,40,1000,1.5,4
+
+[targets]
+0 = 52.00,114.00,1,1,38.00,85.00,66.00,143.00,SHIP_EMMITER_SMALL,
+1 = 88.50,97.00,0,1,79.00,81.00,98.00,113.00,
+2 = 127.00,173.00,0,1,114.00,146.00,140.00,200.00,
+3 = 166.00,108.00,1,1,152.00,87.00,180.00,129.00,SHIP_EMMITER_SMALL,
+
+[slots]
+0 = 128.00,64.00,STANDARD,
+1 = 128.00,160.00,STANDARD,
+2 = 89.00,41.00,TURRET,
+3 = 167.00,41.00,TURRET,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+

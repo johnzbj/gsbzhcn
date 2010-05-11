@@ -1,0 +1,26 @@
+[config]
+name = _iw missile cruiser 
+guiname = iw missile cruiser 
+hull = Imperial Praetorian Cruiser hull 
+
+[modules]
+0 = cruiser powered armor,
+1 = cruiser_engine II,
+2 = cruiser_engine II,
+3 = cruiser_engine,
+4 = cruiser_engine,
+5 = cruiser missile multiple,
+6 = cruiser dummy missile,
+7 = cruiser crew III,
+8 = cruiser missile multiple,
+9 = cruiser shield II,
+10 = cruiser shield II,
+11 = cruiser reinforced power II,
+12 = cruiser_defence laser,
+13 = cruiser powered armor,
+14 = cruiser_repair_armor2,
+15 = cruiser fastmissile,
+16 = cruiser_ecm shield,
+17 = cruiser reinforced power II,
+18 = cruiser_engine,
+19 = cruiser shield II,

@@ -1,0 +1,31 @@
+[config]
+category = "DEFENSES"
+classname = "SIM_ShieldModule"
+cost = 164
+crew_required = 14
+description = "In large fleet engagement, someone always brings along some stupidly huge beam laser, and it you really want to ruin their fun you will be needing some of these."
+guiname = "Shield Generator II"
+hitpoints = 110
+icon = module_shield_v5.dds
+lockable = 0
+name = "cruiser shield II"
+powerconsumed = 14
+recharge_rate = 0.007
+resistance = 24
+shieldpoints = 255
+size = "CRUISER"
+slot_type = STANDARD
+stack_effectiveness = 0.9
+unlockcost = 0
+weight = 123
+uisortpos = 2090
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = shieldpoints,DECIMAL
+5 = crew_required,INTEGER
+6 = resistance,DECIMAL
+7 = recharge_rate,DECIMAL_MULT,1000

@@ -1,0 +1,21 @@
+[config]
+name = _rebel minotaur cruiser 
+guiname = Rebel Minotaur Cruiser 
+hull = Rebel Minotaur Cruiser 
+
+[modules]
+0 = cruiser_targetpainter,
+1 = cruiser_beamlaser,
+2 = cruiser crew II,
+3 = cruiser power,
+4 = cruiser dummy missile,
+5 = cruiser megatonmissile,
+6 = cruiser_ecm shock,
+7 = cruiser_armour II,
+8 = cruiser shield,
+9 = cruiser power,
+10 = cruiser_repair,
+11 = crusier_camoflage,
+12 = cruiser_engine V,
+13 = cruiser_engine V,
+14 = cruiser_engine,

@@ -1,0 +1,17 @@
+[config]
+name = _federation fox frigate 
+guiname = Federation Fox Frigate 
+hull = Federation Fox Frigate 
+
+[modules]
+0 = frigate_pulselaser,
+1 = frigate power III,
+2 = frigate_pointdefence II,
+3 = frigate_armour,
+4 = frigate_engine,
+5 = frigate_engine,
+6 = frigate crew II,
+7 = frigate_armour III,
+8 = frigate shield II,
+9 = frigate shield II,
+10 = frigate_ion_cannon,

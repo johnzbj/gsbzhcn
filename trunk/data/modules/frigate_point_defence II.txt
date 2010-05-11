@@ -1,0 +1,34 @@
+[config]
+unlockcost = 265
+lockable = 1
+beam_duration = 300
+beam_texture = "beam_blue_atlas.dds"
+beam_width = 2
+category = "DEFENSES"
+classname = "SIM_PointDefenseModule"
+cost = 70
+crew_required = 5
+description = "Early adopters may still be clinging to the old MK1 point-defense systems, but the cool space admirals have upgraded to the new iPoint system."
+fire_interval = 900
+guiname = "iPoint Defense MK II"
+hitpoints = 10
+icon = turret
+max_range = 370
+name = "frigate_pointdefence II"
+powerconsumed = 4.2
+size = "FRIGATE"
+slot_type = TURRET
+tracking_speed = 3.3
+turret_sprite = "turret_pd_v2"
+turretsize = 9
+weight = 27
+uisortpos = 2110
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = max_range,DECIMAL
+5 = fire_interval,INTEGER
+6 = crew_required,INTEGER

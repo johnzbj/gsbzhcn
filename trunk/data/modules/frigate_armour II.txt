@@ -1,0 +1,27 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_ArmourModule"
+category = "DEFENSES"
+size = "FRIGATE"
+name = "frigate_armour II"
+guiname = "Frigate Armour II"
+description = "Composite armor contains a number of different layers of exotic metals sandwiched together like some super-tough chocolate layer cake."
+weight = 34
+hitpoints = 0
+maxdamageabsorbable = 44
+cost = 63
+icon = module_armour_v9.dds
+crew_required = 0
+powerconsumed = 0
+slot_type = STANDARD
+stack_effectiveness = 0.95
+uisortpos = 2010
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+
+

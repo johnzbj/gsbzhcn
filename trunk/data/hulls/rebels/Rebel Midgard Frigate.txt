@@ -1,0 +1,60 @@
+[config]
+classname = frigate
+name = Rebel Midgard Frigate hull
+guiname = Rebel Midgard Frigate Hull
+sprite = Rebel Midgard Frigate.dds
+damagetexture = Rebel Midgard Frigate_damaged.dds
+hulktexture = Rebel Midgard Frigate_hulk.dds
+width = 110
+height = 110
+powerproduced = 10
+cost = 135
+racename = rebel
+
+[bonuses]
+0 = POWERBOOST,0.19
+1 = INTEGRITYBOOST,0.17
+
+[runninglights]
+0 = 13.00,152.00,160.00,2.00,1
+1 = 243.00,152.00,160.00,2.00,0
+
+[engineglows]
+0 = 77.00,265.00,11.00,12.89,"engineglow.dds","engine_debris",0,1.0
+1 = 179.00,265.00,11.00,12.89,"engineglow.dds","engine_debris",0,1.0
+
+[targets]
+0 = 76.50,220.50,0,1,61.00,197.50,93.00,232.00,(damage_sprite_sparks-76.00-213.00),(damage_sprite_smoke-76.00-219.00),(damage_sprite_sparks-76.00-213.00),
+1 = 108.00,133.50,0,1,93.00,110.00,128.50,152.50,(damage_sprite_sparks-104.00-138.00),(damage_sprite_sparks-109.00-134.00),(damage_sprite_sparks-108.00-126.00),
+2 = 199.50,106.50,0,1,183.50,91.00,219.50,136.00,(damage_sprite_sparks-205.00-121.00),(damage_sprite_sparks-199.00-108.00),(damage_sprite_smoke-199.00-112.00),(damage_sprite_sparks-198.00-106.00),(damage_sprite_sparks-202.00-120.00),(damage_sprite_sparks-202.00-111.00),(damage_sprite_sparks-199.00-114.00),
+3 = 177.00,59.50,0,1,163.00,36.50,202.00,79.50,(damage_sprite_sparks-174.00-63.00),(damage_sprite_sparks-183.00-57.00),(damage_sprite_sparks-174.00-56.00),(damage_sprite_sparks-180.00-64.00),
+4 = 181.00,214.00,0,1,159.50,196.00,197.50,247.00,(damage_sprite_sparks-179.00-215.00),(damage_sprite_sparks-180.00-232.00),(damage_sprite_sparks-178.00-231.00),(damage_sprite_sparks-180.00-213.00),(damage_sprite_sparks-179.00-221.00),
+5 = 50.25,66.00,0,1,35.00,47.50,65.50,84.50,(damage_sprite_sparks-51.00-67.00),(damage_sprite_sparks-48.00-69.00),(damage_sprite_sparks-53.00-66.00),
+6 = 40.50,147.50,0,1,21.50,126.50,59.50,169.00,(damage_sprite_sparks-38.00-145.00),(damage_sprite_sparks-38.00-145.00),(damage_sprite_sparks-39.00-153.00),
+7 = 103.50,54.00,0,1,82.50,28.50,124.50,76.00,(damage_sprite_sparks-105.00-53.00),(damage_sprite_smoke-108.00-50.00),(damage_sprite_sparks-101.00-55.00),(damage_sprite_sparks-110.00-51.00),(damage_sprite_sparks-105.00-55.00),
+
+[slots]
+0 = 128.00,141.50,STANDARD,
+1 = 128.00,37.50,TURRET,(101.00-55.00),(151.00-55.00),
+2 = 180.00,220.00,STANDARD,
+3 = 76.00,220.00,STANDARD,
+4 = 87.00,80.50,TURRET,
+5 = 169.00,80.50,TURRET,
+6 = 87.00,127.00,TURRET,
+7 = 169.00,128.00,TURRET,
+8 = 46.00,118.00,STANDARD,
+9 = 128.00,70.00,STANDARD,
+10 = 128.00,104.00,STANDARD,
+11 = 210.00,118.00,STANDARD,
+
+[explosions]
+0 = 0,128,64,EXP_FRIGATE
+1 = 210,0,0,EXP_STARTBREAKUP
+2 = 270,0,0,EXP_FRIGATEDEBRIS
+3 = 200,128,123,EXP_FRIGATEBREAKUP
+4 = 200,128,123,EXP_PLUMES
+5 = 200,128,123,EXP_BLASTGLARE
+
+[hulks]
+0 = 0,0,512,512,(emit-77-291-hulk_emmiter),(emit-79-307-hulk_emmiter),(emit-153-426-hulk_emmiter),(emit-357-462-hulk_emmiter),(emit-361-427-hulk_emmiter),(emit-219-268-hulk_emmiter),(emit-97-138-hulk_emmiter),(emit-107-132-hulk_emmiter),(emit-203-111-hulk_emmiter),(emit-221-102-hulk_emmiter),(emit-348-112-hulk_emmiter),(emit-360-128-hulk_emmiter),(emit-397-213-hulk_emmiter),(emit-405-240-hulk_emmiter),(emit-216-253-hulk_smoke_emmiter),(emit-211-111-hulk_smoke_emmiter),(emit-405-222-hulk_smoke_emmiter),(emit-359-443-hulk_smoke_emmiter),
+

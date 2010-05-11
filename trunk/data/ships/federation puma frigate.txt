@@ -1,0 +1,17 @@
+[config]
+name = _federation puma frigate 
+guiname = Federation Puma Frigate 
+hull = Federation Puma Frigate hull 
+
+[modules]
+0 = frigate_laser,
+1 = frigate crew,
+2 = frigate_armour IV,
+3 = frigate_rapidfire_laser,
+4 = frigate_engine,
+5 = frigate_engine,
+6 = frigate power,
+7 = frigate_rapidfire_laser,
+8 = frigate_rapidfire_laser,
+9 = frigate_armour IV,
+10 = frigate_armour IV,

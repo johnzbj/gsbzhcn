@@ -1,0 +1,20 @@
+[config]
+name = _anti-fighter cruiser 
+guiname = anti-fighter cruiser 
+hull = Alliance Alligator Cruiser hull 
+
+[modules]
+0 = cruiser tractor,
+1 = cruiser_pulselaser,
+2 = cruiser_pulselaser,
+3 = cruiser_defence laser,
+4 = cruiser_defence laser,
+5 = cruiser_engine III,
+6 = cruiser_engine III,
+7 = cruiser power,
+8 = cruiser power,
+9 = cruiser_armour II,
+10 = cruiser_armour II,
+11 = cruiser shield II,
+12 = cruiser_targetboosterII,
+13 = cruiser crew II,

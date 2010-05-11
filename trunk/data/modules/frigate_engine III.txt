@@ -1,0 +1,27 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_EngineModule"
+category = "ENGINES"
+size = "FRIGATE"
+name = "frigate_engine III"
+guiname = "Frigate Engine III"
+description = "So you want the power and tonnage of a frigate, with the zippy speed of a fighter? Look no further. With this high speed engine, your frigate will be leader of the pack."
+weight = 31
+hitpoints = 40
+thrust = 70
+cost = 102
+icon = module_engine_3.dds
+crew_required = 14
+powerconsumed = 4.1
+slot_type = STANDARD
+uisortpos = 3020
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = thrust,DECIMAL
+

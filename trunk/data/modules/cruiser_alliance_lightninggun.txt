@@ -1,0 +1,50 @@
+[config]
+unlockcost = 0
+lockable = 0
+armour_penetration = 45
+beam_duration = 300
+beamwidth = 24.0
+category = "WEAPONS"
+classname = "SIM_LightningGunModule"
+color = 255,16,16
+cost = 109
+crew_required = 7
+damage = 33
+description = "They say if you can harness the power of lightning you could power peoples homes for an entire year. Or you can use it to blow up spaceships. Which option will you choose?"
+fire_interval = 2400
+guiname = "Alliance Lightning Beam"
+hitpoints = 105
+icon = turret
+min_range = 220
+max_range = 360
+name = "cruiser_alliance_lightninggun"
+optimum_range = 288
+powerconsumed = 11
+restricted = "alliance"
+shield_penetration = 56
+size = "CRUISER"
+sound = "data/sounds/lightning1.ogg"
+soundvolume = 1.0
+texture = "lightning.dds"
+tracking_speed = 1.7
+turret_sprite = turret_las_v2
+turretsize = 12.0
+weight = 66
+slot_type = TURRET
+uisortpos = 1100
+
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = max_range,DECIMAL
+5 = damage,DECIMAL
+6 = fire_interval,INTEGER
+7 = tracking_speed,DECIMAL
+8 = shield_penetration,DECIMAL
+9 = armour_penetration,DECIMAL
+10 = crew_required,INTEGER
+11 = optimum_range,DECIMAL
+12 = min_range,DECIMAL

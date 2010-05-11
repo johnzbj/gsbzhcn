@@ -1,0 +1,17 @@
+[config]
+name = _alliance surv swordfish 
+guiname = Alliance surv swordfish 
+hull = Alliance Swordfish Frigate hull 
+
+[modules]
+0 = frigate_engine,
+1 = frigate_engine,
+2 = frigate_engine,
+3 = frigate plasma,
+4 = frigate plasma,
+5 = frigate turboshield,
+6 = frigate plasma,
+7 = frigate plasma,
+8 = frigate power,
+9 = frigate crew II,
+10 = frigate crew micro,

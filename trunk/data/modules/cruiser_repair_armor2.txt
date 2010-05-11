@@ -1,0 +1,31 @@
+[config]
+unlockcost = 4000
+lockable = 1
+classname = "SIM_RepairModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser_repair_armor2"
+guiname = "Advanced Armor Repair"
+description = "Only slightly faster and lighter than the standard dedicated-armor repair system, but sometimes in battle that extra weld is what saves your galactic bacon."
+weight = 82
+hitpoints = 110
+cost = 162
+icon = module_repair_armor_2.dds
+crew_required = 20
+peace_interval = 65
+repair_rate = 0.08
+powerconsumed = 8.4
+slot_type = STANDARD
+repair_type = ARMOR
+stack_effectiveness = 0.9
+maxrepairsupplies = 410
+uisortpos = 4140
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = repair_rate,DECIMAL
+6 = maxrepairsupplies,INTEGER

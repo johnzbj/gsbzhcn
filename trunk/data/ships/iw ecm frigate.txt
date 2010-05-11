@@ -1,0 +1,19 @@
+[config]
+name = _iw ecm frigate 
+guiname = iw ecm frigate 
+hull = Imperial Cohort Frigate hull 
+
+[modules]
+0 = frigate_armour V,
+1 = frigate ecm shock missile v2,
+2 = frigate ecm shock missile,
+3 = frigate missile,
+4 = frigate_armour V,
+5 = frigate crew micro,
+6 = frigate_engine II,
+7 = frigate_engine II,
+8 = frigate crew II,
+9 = frigate_engine II,
+10 = frigate power III,
+11 = frigate turboshield,
+12 = frigate tractor,

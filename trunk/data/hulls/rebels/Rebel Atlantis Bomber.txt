@@ -1,0 +1,46 @@
+[config]
+classname = fighter
+name = Rebel Atlantis Bomber
+guiname = Rebel Atlantis Bomber Hull
+sprite = Rebel Atlantis Bomber.dds
+damagetexture = Rebel Atlantis Bomber_damaged.dds
+hulktexture = rebel_hulks.dds
+hulkUVstart = 4
+hulkUVend = 7
+width = 14
+height = 14
+powerproduced = 4
+cost = 55
+racename = rebel
+
+[bonuses]
+0 = SPEEDBOOST,0.1
+1 = ARMOURBOOST,0.09
+
+[runninglights]
+0 = 6,171,170,2,1
+1 = 250,171,170,2,0
+
+[contrails]
+0 = 76,171,40,500,1.5,4
+1 = 96,165,40,500,1.5,4
+2 = 180,171,40,500,1.5,4
+3 = 160,165,40,500,1.5,4
+
+[targets]
+0 = 66.00,113.00,1,1,45.00,96.00,87.00,130.00,SHIP_EMMITER_SMALL,
+1 = 132.50,120.00,1,1,119.00,101.00,146.00,139.00,SHIP_EMMITER_SMALL,
+2 = 193.00,121.00,0,0,
+
+[slots]
+0 = 128.00,96.00,STANDARD,
+1 = 77.00,96.00,TURRET,
+2 = 179.00,96.00,TURRET,
+3 = 128.00,128.00,STANDARD,
+4 = 128.00,160.00,STANDARD,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE

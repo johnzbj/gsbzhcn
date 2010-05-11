@@ -1,0 +1,43 @@
+[config]
+classname = fighter
+name = Rebel Pheonix Fighter
+guiname = Rebel Pheonix Fighter Hull
+sprite = Rebel Pheonix Fighter.dds
+damagetexture = Rebel Pheonix Fighter_damaged.dds
+hulktexture = rebel_hulks.dds
+hulkUVstart = 12
+hulkUVend = 15
+width = 11
+height = 11
+powerproduced = 4
+cost = 34
+racename = rebel
+
+[bonuses]
+0 = SPEEDBOOST,0.1
+
+[runninglights]
+0 = 35,101,170,2,1
+1 = 221,101,170,2,0
+
+[contrails]
+0 = 128,254,40,800,1.5,4
+
+[targets]
+0 = 73.50,101.50,1,1,52.00,78.00,95.00,125.00,SHIP_EMMITER_SMALL,
+1 = 130.00,70.00,0,0,
+2 = 163.00,99.00,0,1,142.00,81.00,184.00,117.00,
+3 = 119.00,158.00,1,0,SHIP_EMMITER_SMALL,
+
+[slots]
+0 = 128.00,45.00,STANDARD,
+1 = 128.00,160.00,STANDARD,
+2 = 82.00,25.00,TURRET,
+3 = 174.00,25.00,TURRET,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+

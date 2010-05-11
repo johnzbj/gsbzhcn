@@ -1,0 +1,26 @@
+[config]
+category = "DEFENSES"
+classname = "SIM_ArmourModule"
+cost = 30
+crew_required = 0
+description = "Yes it's true that too much armor on a fast fighter will slow it down and make it easier to hit, but have you looked at those big cruiser guns? they couldn't hit a bus at 5 meters."
+guiname = "Fighter Armour II"
+hitpoints = 0
+icon = module_armour_v2.dds
+lockable = 0
+maxdamageabsorbable = 13.75
+name = "fighter_armour II"
+powerconsumed = 0
+size = "FIGHTER"
+slot_type = STANDARD
+unlockcost = 0
+weight = 0.86
+uisortpos = 2010
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+
+

@@ -1,0 +1,20 @@
+[config]
+name = _rebel missile cruiser 
+guiname = Rebel Missile Cruiser 
+hull = Rebel Fenrir Cruiser 
+
+[modules]
+0 = cruiser dummy missile,
+1 = cruiser_targetpainter,
+2 = cruiser power II,
+3 = cruiser_engine,
+4 = cruiser_engine,
+5 = cruiser fastmissile,
+6 = cruiser fastmissile,
+7 = cruiser megatonmissile,
+8 = cruiser_armour,
+9 = cruiser_engine III,
+10 = cruiser_targetpainter,
+11 = cruiser shield,
+12 = cruiser fastmissile,
+13 = cruiser crew II,

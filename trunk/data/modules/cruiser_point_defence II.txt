@@ -1,0 +1,34 @@
+[config]
+unlockcost = 1700
+lockable = 1
+classname = "SIM_PointDefenseModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "cruiser_pointdefenceII"
+guiname = "Hi-Speed Point Defense"
+description = "All the missile-shooting fun of point defense, but with less wasted time between shots. A must-have accessory."
+weight = 103
+hitpoints = 111
+beam_duration = 240
+fire_interval = 700
+max_range = 370
+beam_width = 2
+beam_texture = "beam_orange_atlas.dds"
+cost = 144
+icon = turret
+crew_required = 8
+powerconsumed = 7.5
+turret_sprite = "turret_pd_v1"
+turretsize = 12.0
+tracking_speed = 3.2
+slot_type = TURRET
+uisortpos = 2150
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = max_range,DECIMAL
+5 = fire_interval,INTEGER
+6 = crew_required,INTEGER

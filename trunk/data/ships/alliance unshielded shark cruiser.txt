@@ -1,0 +1,22 @@
+[config]
+name = _alliance unshielded shark cruiser 
+guiname = alliance unshielded shark cruiser 
+hull = Alliance Shark Cruiser hull 
+
+[modules]
+0 = cruiser missile multiple,
+1 = cruiser missile multiple,
+2 = cruiser_repair_armor1,
+3 = cruiser_nanorepair,
+4 = cruiser_pulselaser,
+5 = cruiser_pulselaser,
+6 = cruiser plasma,
+7 = cruiser_armour IV,
+8 = cruiser crew II,
+9 = cruiser power III,
+10 = cruiser_engine II,
+11 = cruiser_engine II,
+12 = cruiser_engine II,
+13 = cruiser_targetboosterII,
+14 = cruiser_armour IV,
+15 = cruiser_armour IV,

@@ -1,0 +1,24 @@
+[config]
+name = _imperial centurion cruiser 
+guiname = Imperial Centurion Cruiser 
+hull = Imperial Centurion Cruiser hull 
+
+[modules]
+0 = cruiser_pulselaser,
+1 = cruiser_engine II,
+2 = cruiser_engine II,
+3 = cruiser_engine II,
+4 = cruiser_pointdefence,
+5 = cruiser_beamlaser,
+6 = cruiser shield II,
+7 = cruiser_pulselaser,
+8 = cruiser_laser,
+9 = cruiser_laser,
+10 = cruiser powered armor,
+11 = cruiser power III,
+12 = cruiser_engine II,
+13 = cruiser power III,
+14 = cruiser_targetboosterI,
+15 = cruiser_ecm shield,
+16 = cruiser crew II,
+17 = cruiser shield II,

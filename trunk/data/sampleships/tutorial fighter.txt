@@ -1,0 +1,11 @@
+[config]
+name = tutorial fighter 
+guiname = Tutorial Fighter 
+hull = Federation Falcon Fighter 
+cost = 111
+
+[modules]
+0 = fighter_armour,
+1 = fighter_laser,
+2 = fighter power II,
+3 = fighter_engine II,

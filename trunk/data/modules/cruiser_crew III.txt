@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_CrewModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser crew III"
+guiname = "Crew Module III"
+description = "When the ordinary crew podules just aren't big enough, the ultimate in pack-them-in technology is this bumper-sized uber-podule for the starships with substantial crew needs."
+weight = 145
+cost = 139
+hitpoints = 145
+icon = module_crew3.dds
+crew_required = 0
+powerconsumed = 2
+crewsupply = 290
+slot_type = STANDARD
+uisortpos = 4030
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crewsupply,INTEGER
+4 = powerconsumed,DECIMAL

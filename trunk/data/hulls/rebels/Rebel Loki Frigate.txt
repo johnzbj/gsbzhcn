@@ -1,0 +1,59 @@
+[config]
+classname = frigate
+name = Rebel Loki Frigate hull
+guiname = Rebel Loki Frigate Hull
+sprite = Rebel Loki Frigate.dds
+damagetexture = Rebel Loki Frigate_damaged.dds
+hulktexture = Rebel Loki Frigate_hulk.dds
+width = 70
+height = 70
+powerproduced = 7
+cost = 90
+racename = rebel
+unlockcost = 3400
+lockable = 1
+
+[bonuses]
+0 = SPEEDBOOST,0.13
+1 = INTEGRITYBOOST,0.12
+
+[runninglights]
+0 = 66,157,240,2,1
+1 = 73,161,240,2,1
+2 = 190,157,240,2,0
+3 = 183,161,240,2,0
+
+[engineglows]
+0 = 128,262,16,20,"engineglow.dds","engine_debris",0,1.0
+
+[targets]
+0 = 172.50,44.00,0,1,163.00,28.00,182.00,60.00,(damage_sprite_sparks-172.50-44.00),(damage_sprite_sparks-172.00-45.00),(damage_sprite_sparks-171.00-45.00),
+1 = 165.00,79.00,0,0,
+2 = 82.50,64.50,1,1,71.00,45.00,94.00,84.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-82.50-64.50),(damage_sprite_sparks-83.00-65.00),(damage_sprite_sparks-81.00-71.00),(damage_sprite_sparks-82.00-65.00),(damage_sprite_sparks-80.00-71.00),
+3 = 165.50,120.50,0,1,152.00,105.00,179.00,136.00,(damage_sprite_sparks-165.50-120.50),(damage_sprite_sparks-163.00-119.00),
+4 = 95.00,116.00,0,0,
+5 = 129.00,59.00,0,1,116.00,43.00,142.00,75.00,(damage_sprite_sparks-129.00-109.00),(damage_sprite_sparks-130.00-56.00),(damage_sprite_sparks-130.00-64.00),(damage_sprite_sparks-130.00-63.00),
+6 = 125.00,144.00,0,0,
+7 = 128.00,222.50,1,1,117.00,209.00,139.00,236.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-128.00-222.50),(damage_sprite_sparks-130.00-223.00),
+
+[slots]
+0 = 128.00,64.00,STANDARD,
+1 = 128.00,224.00,STANDARD,
+2 = 110.00,23.00,TURRET,(81.00-43.00),(119.00-48.00),
+3 = 146.00,23.00,TURRET,(175.00-43.00),(137.00-48.00),
+4 = 128.00,96.00,STANDARD,
+5 = 87.00,96.00,TURRET,
+6 = 169.00,96.00,TURRET,
+7 = 128.00,160.00,STANDARD,
+
+[explosions]
+0 = 0,128,64,EXP_FRIGATE
+1 = 210,0,0,EXP_STARTBREAKUP
+2 = 270,128,128,EXP_FRIGATEDEBRIS
+3 = 200,128,123,EXP_FRIGATEBREAKUP
+4 = 200,128,123,EXP_PLUMES
+5 = 200,128,123,EXP_BLASTGLARE
+
+[hulks]
+0 = 113,4,397,451,(emit-164-131-hulk_emmiter),(emit-261-126-hulk_emmiter),(emit-343-91-hulk_emmiter),(emit-327-239-hulk_emmiter),(emit-160-143-hulk_smoke_emmiter),
+

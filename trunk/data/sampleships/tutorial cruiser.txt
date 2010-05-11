@@ -1,0 +1,23 @@
+[config]
+name = tutorial cruiser 
+guiname = Tutorial Cruiser 
+hull = Federation Tiger Cruiser hull 
+cost = 2606 
+
+[modules]
+0 = cruiser powered armor,
+1 = cruiser_armour,
+2 = cruiser shield II,
+3 = cruiser shield II,
+4 = cruiser_beamlaser,
+5 = cruiser heavy plasma,
+6 = cruiser_beamlaser,
+7 = cruiser rocket,
+8 = cruiser rocket,
+9 = cruiser crew II,
+10 = cruiser reinforced power II,
+11 = cruiser reinforced power II,
+12 = cruiser_engine III,
+13 = cruiser_engine III,
+14 = cruiser_engine III,
+15 = cruiser_automated point_defence,
