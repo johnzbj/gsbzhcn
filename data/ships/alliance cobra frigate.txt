@@ -1,0 +1,19 @@
+[config]
+name = _alliance cobra frigate 
+guiname = alliance cobra frigate 
+hull = Alliance Cobra Frigate hull 
+
+[modules]
+0 = frigate_pulselaser,
+1 = frigate crew,
+2 = frigate plasma,
+3 = frigate plasma,
+4 = frigate_engine,
+5 = frigate shield II,
+6 = frigate_engine,
+7 = frigate_engine,
+8 = frigate ecm shock missile v2,
+9 = frigate power,
+10 = frigate_armour III,
+11 = frigate_armour III,
+12 = frigate crew,

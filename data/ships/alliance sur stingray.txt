@@ -1,0 +1,23 @@
+[config]
+name = _alliance sur stingray 
+guiname = Alliance Sur Stingray 
+hull = Alliance Stingray Cruiser hull 
+
+[modules]
+0 = cruiser superchargedtractor,
+1 = cruiser_armour III,
+2 = cruiser_armour III,
+3 = cruiser_engine II,
+4 = cruiser_engine II,
+5 = cruiser shield multiphasic,
+6 = cruiser shield multiphasic,
+7 = cruiser_repair,
+8 = cruiser_alliance_lightninggun,
+9 = cruiser_alliance_lightninggun,
+10 = cruiser power III,
+11 = cruiser power II,
+12 = cruiser_quantumblaster,
+13 = cruiser_quantumblaster,
+14 = cruiser_repair,
+15 = cruiser crew II,
+16 = cruiser_targetboosterI,

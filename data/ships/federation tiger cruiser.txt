@@ -1,0 +1,22 @@
+[config]
+name = _federation tiger cruiser 
+guiname = Federation Tiger Cruiser 
+hull = Federation Tiger Cruiser hull 
+
+[modules]
+0 = cruiser_pdscanner2,
+1 = cruiser power,
+2 = cruiser_armour IV,
+3 = cruiser_armour IV,
+4 = cruiser_beamlaser,
+5 = cruiser_pointdefence,
+6 = cruiser_beamlaser,
+7 = cruiser dummy missile,
+8 = cruiser megatonmissile,
+9 = cruiser crew II,
+10 = cruiser power II,
+11 = cruiser shield II,
+12 = cruiser_engine VI,
+13 = cruiser_engine VI,
+14 = cruiser_engine VI,
+15 = cruiser_federation_beamlaser,

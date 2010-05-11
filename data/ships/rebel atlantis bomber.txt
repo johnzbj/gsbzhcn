@@ -1,0 +1,11 @@
+[config]
+name = _rebel atlantis bomber 
+guiname = Rebel Atlantis bomber 
+hull = Rebel Atlantis Bomber 
+
+[modules]
+0 = fighter_armour II,
+1 = fighter_rocket,
+2 = fighter_rocket,
+3 = fighter_engine,
+4 = fighter_engine,

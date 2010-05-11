@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser power"
+guiname = "Basic Power Generator"
+description = "Not every ship consumes the power output of a small moon, so this compact and bijou power-podule is more than enough for the less power-hungry cruisers."
+weight = 99
+hitpoints = 105
+cost = 135
+icon = module_powergen_v7.dds
+crew_required = 28
+powerconsumed = 0
+powerproduced = 40
+slot_type = STANDARD
+uisortpos = 4070
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL
+4 = crew_required,INTEGER

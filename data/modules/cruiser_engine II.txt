@@ -1,0 +1,27 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_EngineModule"
+category = "ENGINES"
+size = "CRUISER"
+name = "cruiser_engine II"
+guiname = "Cruiser Engine II"
+description = "A faster, yet pricier engine, but what cost can you truly place on being able to outpace your enemies and get out of a tight spot in a hurry?"
+weight = 125
+hitpoints = 127
+thrust = 102
+cost = 175
+icon = module_engine_2.dds
+crew_required = 21
+powerconsumed = 3.5
+slot_type = STANDARD
+uisortpos = 3010
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = thrust,DECIMAL
+

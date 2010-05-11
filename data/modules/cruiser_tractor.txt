@@ -1,0 +1,35 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_TractorModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser tractor"
+guiname = "Cruiser Tractor Beam"
+description = "Powerful beam emitter which makes use of highly advanced superconductors to trap objects and fix them in place. Used to neutralize enemy fighters and frigates to prevent their escape."
+weight = 99
+hitpoints = 105
+cost = 132
+icon = turret
+crew_required = 20
+beamweight = 16
+beampower = 4000
+powerusage = 1
+powerrecharge = 0.65
+range = 400
+powerconsumed = 13
+turretsize = 10.0
+turret_sprite = "tractor_turret_v1"
+tracking_speed = 2.2
+slot_type = TURRET
+uisortpos = 4160
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = beamweight,INTEGER
+6 = beampower,INTEGER
+7 = range,INTEGER

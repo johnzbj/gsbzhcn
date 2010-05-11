@@ -1,0 +1,16 @@
+[config]
+name = _rebel point defence frigate 
+guiname = Rebel Point Defence Frigate 
+hull = Rebel Asgard Frigate hull 
+
+[modules]
+0 = frigate shield II,
+1 = frigate_pointdefence II,
+2 = frigate shield II,
+3 = frigate_engine,
+4 = frigate_pointdefence II,
+5 = frigate_pointdefence II,
+6 = frigate crew II,
+7 = frigate power,
+8 = frigate shield II,
+9 = frigate power III,

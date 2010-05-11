@@ -1,0 +1,26 @@
+[config]
+unlockcost = 1900
+lockable = 1
+classname = "SIM_CrewModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser crew_reinforced"
+guiname = "Reinforced Crew Bay"
+description = "Your crew are your most valuable resource, or so you keep telling them. Actually stick to your word with this reinforced module that will keep them alive whole minutes longer!"
+weight = 95
+cost = 148
+hitpoints = 185
+icon = module_crew_reinforced.dds
+crew_required = 0
+powerconsumed = 1.6
+crewsupply = 250
+slot_type = STANDARD
+uisortpos = 4060
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crewsupply,INTEGER
+4 = powerconsumed,DECIMAL
+

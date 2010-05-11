@@ -1,0 +1,27 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_EngineModule"
+category = "ENGINES"
+size = "FRIGATE"
+name = "frigate_engine II"
+guiname = "Frigate Engine II"
+description = "Cruisers can reduce a frigate to atoms from super-long range, so it might pay dividends to race in closer and return fire. With this high powered engine, this won't be a problem."
+weight = 29
+hitpoints = 36
+thrust = 56
+cost = 72
+icon = module_engine_1.dds
+crew_required = 10
+powerconsumed = 2.6
+slot_type = STANDARD
+uisortpos = 3010
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = thrust,DECIMAL
+

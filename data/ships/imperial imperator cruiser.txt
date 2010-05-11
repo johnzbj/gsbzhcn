@@ -1,0 +1,22 @@
+[config]
+name = _imperial imperator cruiser 
+guiname = imperial imperator cruiser 
+hull = Imperial Imperator Cruiser hull 
+
+[modules]
+0 = cruiser_protonbeam,
+1 = cruiser_protonbeam,
+2 = cruiser_protonbeam,
+3 = cruiser power III,
+4 = cruiser power III,
+5 = cruiser_pointdefence,
+6 = cruiser_targetboosterI,
+7 = cruiser_ecm shock,
+8 = cruiser_ecm shield,
+9 = cruiser crew III,
+10 = cruiser_engine VI,
+11 = cruiser_engine VI,
+12 = cruiser shield fastrecharge,
+13 = cruiser shield fastrecharge,
+14 = cruiser_protonbeam,
+15 = cruiser_defence laser,

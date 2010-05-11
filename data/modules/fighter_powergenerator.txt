@@ -1,0 +1,24 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "FIGHTER"
+name = "fighter power"
+guiname = "Fighter Power Generator"
+description = "It's the age old question. How much power does one of these tiny one-being fighters really need? If the honest answer is 'not much' you might be ok with this budget power system."
+weight = 2.5
+hitpoints = 6
+cost = 11
+icon = module_powergen_v1.dds
+crew_required = 0
+powerconsumed = 0
+powerproduced = 3
+slot_type = STANDARD
+uisortpos = 4000
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL

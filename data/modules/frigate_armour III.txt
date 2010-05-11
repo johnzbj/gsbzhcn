@@ -1,0 +1,27 @@
+[config]
+unlockcost = 900
+lockable = 1
+classname = "SIM_ArmourModule"
+category = "DEFENSES"
+size = "FRIGATE"
+name = "frigate_armour III"
+guiname = "Frigate Armour III"
+description = "Armor so strong you could throw your spaceship down a flight of stairs and not even see a scratch, although that's not an experiment you see conducted these days."
+weight = 40
+hitpoints = 0
+maxdamageabsorbable = 62
+cost = 96
+icon = module_armour_v10.dds
+crew_required = 0
+powerconsumed = 0
+slot_type = STANDARD
+stack_effectiveness = 0.95
+uisortpos = 2020
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+
+

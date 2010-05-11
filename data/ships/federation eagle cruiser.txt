@@ -1,0 +1,24 @@
+[config]
+name = _federation eagle cruiser 
+guiname = Federation Eagle Cruiser 
+hull = Federation Eagle Cruiser hull 
+
+[modules]
+0 = cruiser_beamlaser,
+1 = cruiser fastmissile,
+2 = cruiser fastmissile,
+3 = cruiser_nanorepair,
+4 = cruiser tractor,
+5 = cruiser shield reflective,
+6 = cruiser shield reflective,
+7 = cruiser dummy missile,
+8 = cruiser_defence laser,
+9 = cruiser_defence laser,
+10 = cruiser crew III,
+11 = cruiser power,
+12 = cruiser_engine V,
+13 = cruiser_engine V,
+14 = cruiser power III,
+15 = cruiser powered armor,
+16 = cruiser powered armor,
+17 = cruiser_nanorepair,

@@ -1,0 +1,19 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_TacticalModule"
+name = "tactical"
+guiname = "Tactical Module"
+description = "If you can read this, there is a big somewhere. Oh noes."
+weight = 0
+cost = 0
+icon = module_default.dds
+crew_required = 0
+powerconsumed = 0
+hidden = 1
+slot_type = STANDARD
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL

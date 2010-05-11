@@ -1,0 +1,26 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_ArmourModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "cruiser_armour II"
+guiname = "Cruiser Armour II"
+description = "Advanced composite armor constructed from a fiendishly complex smorgasbord of exotic metals and other materials. Not cheap, but you get what you pay for."
+weight = 72
+hitpoints = 0
+maxdamageabsorbable = 101
+cost = 220
+icon = module_armour_v2.dds
+crew_required = 0
+powerconsumed = 0
+slot_type = STANDARD
+stack_effectiveness = 0.97
+uisortpos = 2010
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+

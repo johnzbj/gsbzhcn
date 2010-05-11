@@ -1,0 +1,23 @@
+[config]
+name = _iw maincruiser 
+guiname = iw maincruiser 
+hull = Imperial Legion Cruiser hull 
+
+[modules]
+0 = cruiser dummy missile,
+1 = cruiser_engine V,
+2 = cruiser_engine V,
+3 = cruiser_armour III,
+4 = cruiser_repair_armor1,
+5 = cruiser_armour III,
+6 = cruiser dummy missile,
+7 = cruiser power III,
+8 = cruiser_armour III,
+9 = cruiser_ecm shield,
+10 = cruiser crew II,
+11 = cruiser megatonmissile,
+12 = cruiser dummy missile,
+13 = cruiser_targetpainter,
+14 = cruiser_beamlaser,
+15 = cruiser_armour III,
+16 = cruiser_nanorepair,

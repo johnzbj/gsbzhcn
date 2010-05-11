@@ -1,0 +1,23 @@
+[config]
+name = _iw plasma cruiser 
+guiname = IW Plasma Cruiser 
+hull = Imperial Legion Cruiser hull 
+
+[modules]
+0 = cruiser heavy plasma,
+1 = cruiser_engine VI,
+2 = cruiser_engine VI,
+3 = cruiser_engine VI,
+4 = cruiser crew II,
+5 = cruiser power III,
+6 = cruiser heavy plasma,
+7 = cruiser_nanorepair,
+8 = cruiser shield multiphasic,
+9 = cruiser shield multiphasic,
+10 = cruiser power II,
+11 = cruiser heavy plasma,
+12 = cruiser powered armor,
+13 = cruiser_protonbeam,
+14 = cruiser_automated point_defence,
+15 = cruiser shield multiphasic,
+16 = cruiser_targetboosterI,

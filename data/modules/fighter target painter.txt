@@ -1,0 +1,33 @@
+[config]
+unlockcost = 2400
+lockable = 1
+classname = "SIM_TargetPainterModule"
+category = "WEAPONS"
+size = "FIGHTER"
+name = "fighter target painter"
+guiname = "Fighter Target Painter"
+description = "Target-tracking assistance module that fires a highly visible beam at enemy ships and ensures a missile fired at the painted target will always hit."
+fire_interval = 5000
+beam_duration = 2000
+max_range = 400
+weight = 3.1
+hitpoints = 6
+cost = 55
+icon = turret
+crew_required = 0
+powerconsumed = 0.1
+tracking_speed = 1.1
+turret_sprite = "turret_pd_v1"
+texture = target_painter_beam.dds
+turretsize = 0
+slot_type = TURRET
+uisortpos = 1040
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = max_range,DECIMAL
+5 = fire_interval,INTEGER
+6 = crew_required,INTEGER

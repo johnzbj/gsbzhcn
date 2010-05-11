@@ -1,0 +1,10 @@
+[config]
+name = _alliance scorpion fighter 
+guiname = Alliance Scorpion Fighter 
+hull = Alliance Scorpion Fighter 
+
+[modules]
+0 = fighter_armour II,
+1 = fighter torpedo,
+2 = fighter_engine II,
+3 = fighter_engine,

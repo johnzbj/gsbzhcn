@@ -1,0 +1,34 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_TractorModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "frigate tractor"
+guiname = "Frigate Tractor Beam"
+description = "Nothing to do with agriculture, this tractor is perfect for freezing enemy fighters and slowing enemy frigates. Keep em still long enough and any idiot gunner will hit them."
+weight = 25
+hitpoints = 3
+cost = 50
+icon = turret
+crew_required = 12
+beamweight = 12
+beampower = 2700
+powerusage = 1
+powerrecharge = 0.45
+range = 400
+powerconsumed = 9
+turretsize = 9.0
+turret_sprite = "tractor_turret_v1"
+slot_type = TURRET
+uisortpos = 4060
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = range,INTEGER
+6 = beamweight,INTEGER
+7 = beampower,INTEGER

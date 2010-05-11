@@ -1,0 +1,27 @@
+[config]
+category = "ENGINES"
+classname = "SIM_EngineModule"
+cost = 10
+crew_required = 0
+description = "When your ship is smaller than a space-fleas tonsils you don't need to be hurtling along at superfast speed to avoid certain death. This engine is all you need."
+guiname = "Fighter Engine"
+hitpoints = 5
+icon = module_engine_1.dds
+lockable = 0
+name = "fighter_engine"
+powerconsumed = 1
+size = "FIGHTER"
+slot_type = STANDARD
+thrust = 14
+unlockcost = 0
+weight = 2.0
+stack_effectiveness = 0.72
+uisortpos = 3000
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = thrust,DECIMAL
+

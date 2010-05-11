@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "frigate power"
+guiname = "Power Generator"
+description = "Not all frigates need to be mobile powerstations, and this small powerplant is often all you need for ships without major beam weapons or shields."
+weight = 35
+hitpoints = 4
+cost = 71
+icon = module_powergen_v4.dds
+crew_required = 14
+powerconsumed = 0
+powerproduced = 13
+slot_type = STANDARD
+uisortpos = 4030
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL
+4 = crew_required,INTEGER

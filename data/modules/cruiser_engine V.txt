@@ -1,0 +1,27 @@
+[config]
+unlockcost = 2600
+lockable = 1
+classname = "SIM_EngineModule"
+category = "ENGINES"
+size = "CRUISER"
+name = "cruiser_engine V"
+guiname = "Supercharged Engine"
+description = "A super-charged engine that delivers incredible power, but comes with an associated price-tag."
+weight = 128
+hitpoints = 140
+thrust = 130
+cost = 261
+icon = module_engine_5.dds
+crew_required = 30
+powerconsumed = 5.3
+slot_type = STANDARD
+uisortpos = 3040
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = thrust,DECIMAL
+

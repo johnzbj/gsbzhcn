@@ -1,0 +1,61 @@
+[config]
+classname = frigate
+name = Imperial Gladius Frigate hull
+guiname = Imperial Gladius Frigate Hull
+sprite = Imperial Gladius Frigate.dds
+damagetexture = Imperial Gladius Frigate_damaged.dds
+hulktexture = Imperial Gladius Frigate_hulk.dds
+width = 120
+height = 120
+powerproduced = 12
+cost = 140
+racename = empire
+
+[bonuses]
+0 = SHIELDBOOST,0.1
+1 = ARMOURBOOST,0.06
+
+[runninglights]
+0 = 12.50,82.00,400.00,3.00,2
+1 = 11.00,138.00,360.00,3.00,2
+2 = 6.50,131.00,400.00,3.00,2
+3 = 8.00,73.00,400.00,3.00,2
+
+[engineglows]
+0 = 111.00,270.00,16.00,30.00,imperialengineglow.dds,engine_debris,0,1.00
+1 = 145.00,270.00,16.00,30.00,imperialengineglow.dds,engine_debris,0,1.00
+
+[targets]
+0 = 128.00,108.50,1,1,109.00,90.00,147.00,127.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-128.00-108.50),(damage_sprite_sparks-123.00-105.00),(damage_sprite_sparks-131.00-104.00),(damage_sprite_sparks-124.00-112.00),(damage_sprite_sparks-132.00-115.00),(damage_sprite_smoke-123.00-107.00),(damage_sprite_smoke-132.00-110.00),
+1 = 167.00,104.50,1,1,151.00,90.00,183.00,119.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-167.00-104.50),(damage_sprite_sparks-162.00-113.00),(damage_sprite_sparks-173.00-114.00),(damage_sprite_sparks-174.00-107.00),
+2 = 95.00,206.00,1,1,75.00,189.00,115.00,223.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-95.00-206.00),(damage_sprite_sparks-96.00-209.00),(damage_sprite_sparks-91.00-216.00),(damage_sprite_sparks-105.00-215.00),(damage_sprite_sparks-106.00-204.00),(damage_sprite_smoke-97.00-208.00),(damage_sprite_smoke-105.00-216.00),(damage_sprite_smoke-105.00-204.00),
+3 = 25.00,107.50,1,1,9.00,87.00,41.00,128.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-25.00-107.50),(damage_sprite_sparks-19.00-110.00),(damage_sprite_sparks-21.00-115.00),(damage_sprite_sparks-29.00-114.00),(damage_sprite_sparks-31.00-107.00),(damage_sprite_smoke-25.00-114.00),(damage_sprite_smoke-31.00-104.00),
+4 = 135.00,49.00,1,0,SHIP_EMMITER_THIN,
+5 = 216.50,141.00,1,1,203.00,131.00,230.00,151.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-216.50-141.00),(damage_sprite_sparks-217.00-144.00),(damage_sprite_smoke-217.00-143.00),
+
+[slots]
+0 = 128.00,51.00,STANDARD,
+1 = 40.00,36.00,TURRET,(40.00-36.00),(28.00-54.00),(56.00-21.00),
+2 = 24.00,110.00,STANDARD,
+3 = 128.00,109.00,TURRET,
+4 = 95.00,155.00,STANDARD,
+5 = 105.00,206.00,STANDARD,
+6 = 151.00,206.00,STANDARD,
+7 = 128.00,178.00,STANDARD,
+8 = 226.00,123.00,TURRET,
+9 = 187.00,31.00,TURRET,
+10 = 157.00,84.00,STANDARD,
+11 = 157.00,134.00,STANDARD,
+
+[explosions]
+0 = 0.00,126.50,55.00,EXP_FRIGATE
+1 = 210.00,0.00,0.00,EXP_STARTBREAKUP
+2 = 270.00,128.00,128.00,EXP_FRIGATEDEBRIS
+3 = 200.00,128.00,123.00,EXP_FRIGATEBREAKUP
+4 = 200.00,128.00,123.00,EXP_PLUMES
+5 = 200.00,128.00,123.00,EXP_BLASTGLARE
+
+[hulks]
+0 = 0,12,342,505,(emit-246-214-hulk_emmiter),(emit-50-229-hulk_emmiter),(emit-194-417-hulk_emmiter),(emit-211-433-hulk_emmiter),(emit-264-221-hulk_smoke_emmiter),(emit-63-208-hulk_smoke_emmiter),(emit-211-409-hulk_smoke_emmiter),
+1 = 342,30,478,408,(emit-434-287-hulk_emmiter),
+

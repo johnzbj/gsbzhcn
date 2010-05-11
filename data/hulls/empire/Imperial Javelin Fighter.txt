@@ -1,0 +1,42 @@
+[config]
+classname = fighter
+name = Imperial Javelin Fighter
+guiname = Imperial Javelin Fighter Hull
+sprite = Imperial Javelin Fighter.dds
+damagetexture = Imperial Javelin Fighter_damaged.dds
+hulktexture = imperial_hulks.dds
+hulkUVstart = 4
+hulkUVend = 7
+width = 10
+height = 10
+powerproduced = 2.6
+cost = 39
+racename = empire
+unlockcost = 4200
+lockable = 1
+
+[bonuses]
+0 = ARMOURBOOST,0.13
+
+[runninglights]
+0 = 128,177,200,3,2
+
+[contrails]
+0 = 80,214,40,200,2.0,4
+1 = 176,214,40,200,2.0,4
+
+[targets]
+0 = 43.00,153.50,1,1,4.00,99.00,82.00,208.00,SHIP_EMMITER_SMALL,
+1 = 116.00,89.00,0,0,
+2 = 181.50,104.00,1,1,150.00,39.00,213.00,169.00,SHIP_EMMITER_SMALL,
+
+[slots]
+0 = 128.00,177.00,STANDARD,
+1 = 128.00,119.00,TURRET,(47.00-53.00),(209.00-53.00),
+2 = 128.00,40.00,STANDARD,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE

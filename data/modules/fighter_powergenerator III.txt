@@ -1,0 +1,24 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "FIGHTER"
+name = "fighter power III"
+guiname = "Power Generator III"
+description = "Proper fighters combine both speed and power. Having both is not a cheap option, but you get what you pay for. If you want decent weapons on your fighter, you need one of these."
+weight = 3.9
+hitpoints = 7
+cost = 19
+icon = module_powergen_v3.dds
+crew_required = 0
+powerconsumed = 0
+powerproduced = 5
+slot_type = STANDARD
+uisortpos = 1090
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL

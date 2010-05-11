@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser power II"
+guiname = "Power Generator II"
+description = "When the cheaper power-systems just don't cut the mustard, you need the confidence, security and raw bragging rights associated with the MK II power system."
+weight = 127
+hitpoints = 115
+cost = 174
+icon = module_powergen_v8.dds
+crew_required = 35
+powerconsumed = 0
+powerproduced = 51
+slot_type = STANDARD
+uisortpos = 4080
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL
+4 = crew_required,INTEGER

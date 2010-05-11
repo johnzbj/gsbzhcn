@@ -1,0 +1,31 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_ShieldModule"
+category = "DEFENSES"
+size = "FRIGATE"
+name = "frigate light shield"
+guiname = "Light Shields"
+description = "It's often a good idea to have at least minimal shields, else your frigate can become fighter-food, and this low-power shield module keeps the shields up and the costs down."
+weight = 20
+hitpoints = 30
+recharge_rate = 0.006
+cost = 44
+icon = module_shield_v1.dds
+crew_required = 3
+powerconsumed = 3.2
+shieldpoints = 27
+resistance = 7
+slot_type = STANDARD
+stack_effectiveness = 0.9
+uisortpos = 2060
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = shieldpoints,DECIMAL
+5 = crew_required,INTEGER
+6 = resistance,DECIMAL
+7 = recharge_rate,DECIMAL_MULT,1000

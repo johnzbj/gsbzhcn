@@ -1,0 +1,9 @@
+[config]
+name = _imperial ballista fighter 
+guiname = imperial ballista fighter 
+hull = Imperial Ballista Fighter 
+
+[modules]
+0 = fighter_engine II,
+1 = fighter power II,
+2 = fighter_laser,

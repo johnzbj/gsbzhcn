@@ -1,0 +1,34 @@
+[config]
+unlockcost = 0
+lockable = 0
+beam_duration = 300
+beam_texture = "beam_blue_atlas.dds"
+beam_width = 2
+category = "DEFENSES"
+classname = "SIM_PointDefenseModule"
+cost = 50
+crew_required = 4
+description = "Missiles are a slow but deadly threat to your frigates, but this micro-laser battery specializes in zapping them before they have a chance to do any damage."
+fire_interval = 1200
+guiname = "Frigate Point Defense System"
+hitpoints = 10
+icon = turret
+max_range = 320
+name = "frigate_pointdefence"
+powerconsumed = 4
+size = "FRIGATE"
+slot_type = TURRET
+tracking_speed = 3.0
+turret_sprite = "turret_pd_v1"
+turretsize = 9
+weight = 25
+uisortpos = 2100
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = max_range,DECIMAL
+5 = fire_interval,INTEGER
+6 = crew_required,INTEGER

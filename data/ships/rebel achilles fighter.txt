@@ -1,0 +1,10 @@
+[config]
+name = _rebel achilles fighter 
+guiname = Rebel Achilles Fighter 
+hull = Rebel Achilles Fighter 
+
+[modules]
+0 = fighter_laser,
+1 = fighter_armour IV,
+2 = fighter_engine II,
+3 = fighter power,

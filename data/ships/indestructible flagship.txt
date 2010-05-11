@@ -1,0 +1,22 @@
+[config]
+name = _indestructible flagship 
+guiname = Indestructible flagship 
+hull = Alliance Shark Cruiser hull 
+
+[modules]
+0 = cruiser heavy plasma,
+1 = cruiser heavy plasma,
+2 = cruiser shield,
+3 = cruiser shield,
+4 = cruiser_pointdefence,
+5 = cruiser_pointdefence,
+6 = cruiser_pdscanner,
+7 = cruiser_repair_armor1,
+8 = cruiser crew II,
+9 = cruiser power III,
+10 = cruiser power,
+11 = cruiser_engine II,
+12 = cruiser_engine III,
+13 = cruiser_engine III,
+14 = cruiser_armour V,
+15 = cruiser_armour V,

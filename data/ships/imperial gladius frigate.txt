@@ -1,0 +1,18 @@
+[config]
+name = _imperial gladius frigate 
+guiname = Imperial Gladius Frigate 
+hull = Imperial Gladius Frigate hull 
+
+[modules]
+0 = frigate_armour III,
+1 = frigate_ion_cannon,
+2 = frigate power III,
+3 = frigate ecm shock missile,
+4 = frigate shield II,
+5 = frigate_engine II,
+6 = frigate_engine II,
+7 = frigate_armour III,
+8 = frigate tractor,
+9 = frigate_rapidfire_laser,
+10 = frigate crew,
+11 = frigate crew II,

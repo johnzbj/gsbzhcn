@@ -1,0 +1,24 @@
+[config]
+name = _iw laser cruiser 
+guiname = iw laser cruiser 
+hull = Imperial Centurion Cruiser hull 
+
+[modules]
+0 = cruiser_protonbeam,
+1 = cruiser_engine II,
+2 = cruiser_engine II,
+3 = cruiser_engine II,
+4 = cruiser_protonbeam,
+5 = cruiser_quantumblaster,
+6 = cruiser shield reflective,
+7 = cruiser_protonbeam,
+8 = cruiser_quantumblaster,
+9 = cruiser_protonbeam,
+10 = cruiser_ecm shock,
+11 = cruiser reinforced power II,
+12 = cruiser crew III,
+13 = cruiser shield reflective,
+14 = cruiser power II,
+15 = cruiser power II,
+16 = cruiser shield reflective,
+17 = cruiser powered armor,

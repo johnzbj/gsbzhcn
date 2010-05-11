@@ -1,0 +1,26 @@
+[config]
+unlockcost = 3800
+lockable = 1
+classname = "SIM_ArmourModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "cruiser_armour IV"
+guiname = "Cruiser Lightweight Armor"
+description = "Just because it's tough, it doesn't have to be heavy. Low mass and high strength make for an expensive choice of armor."
+weight = 90
+hitpoints = 0
+maxdamageabsorbable = 117
+cost = 268
+icon = module_armour_v4.dds
+crew_required = 0
+powerconsumed = 0
+slot_type = STANDARD
+stack_effectiveness = 0.97
+uisortpos = 2030
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+

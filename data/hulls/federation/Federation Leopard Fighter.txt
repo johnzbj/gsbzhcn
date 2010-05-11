@@ -1,0 +1,44 @@
+[config]
+classname = fighter
+name = Federation Leopard Fighter
+guiname = Federation Leopard Fighter Hull
+sprite = Federation Leopard Fighter.dds
+damagetexture = Federation Leopard Fighter_damaged.dds
+hulktexture = federation_hulks.dds
+hulkUVstart = 8
+hulkUVend = 11
+width = 12
+height = 12
+powerproduced = 3
+cost = 35
+racename = federation
+
+[bonuses]
+0 = INTEGRITYBOOST,0.1
+1 = SPEEDBOOST,0.12
+
+[runninglights]
+0 = 36,228,170,2,1
+1 = 219,228,170,2,0
+
+[contrails]
+0 = 74,246,40,600,1.5,4
+1 = 182,246,40,600,1.5,4
+
+[targets]
+0 = 111.50,222.00,1,1,86.00,198.00,137.00,246.00,SHIP_EMMITER_SMALL,
+1 = 128.00,144.00,0,0,
+2 = 132.50,59.00,1,1,112.00,23.00,153.00,95.00,SHIP_EMMITER_SMALL,
+
+[slots]
+0 = 96.00,39.00,TURRET,
+1 = 160.00,39.00,TURRET,
+2 = 75.00,223.00,STANDARD,
+3 = 181.00,223.00,STANDARD,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+

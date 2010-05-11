@@ -1,0 +1,55 @@
+[config]
+classname = frigate
+name = Rebel Asgard Frigate hull
+guiname = Rebel Asgard Frigate Hull
+sprite = Rebel Asgard Frigate.dds
+damagetexture = Rebel Asgard Frigate_damaged.dds
+hulktexture = Rebel Asgard Frigate_hulk.dds
+width = 80
+height = 80
+powerproduced = 8
+cost = 100
+racename = rebel
+
+[bonuses]
+0 = SPEEDBOOST,0.1
+1 = ARMOURBOOST,0.07
+
+[runninglights]
+0 = 69,163,160,2,1
+1 = 186,163,160,2,0
+
+[engineglows]
+0 = 128,259,10,20,"engineglow.dds","engine_debris",0,1.0
+
+[targets]
+0 = 131.00,227.00,0,0,
+1 = 52.00,94.50,1,1,40.00,78.00,64.00,111.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-52.00-94.50),(damage_sprite_sparks-52.00-92.00),(damage_sprite_sparks-52.00-97.00),(damage_sprite_smoke-53.00-97.00),
+2 = 127.00,129.00,0,1,115.00,118.00,139.00,140.00,(damage_sprite_sparks-127.00-129.00),(damage_sprite_sparks-125.00-130.00),(damage_sprite_smoke-126.00-130.00),
+3 = 198.00,129.50,1,1,183.00,104.00,213.00,155.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-198.00-129.50),(damage_sprite_sparks-200.00-133.00),(damage_sprite_sparks-201.00-125.00),(damage_sprite_smoke-196.00-123.00),(damage_sprite_smoke-203.00-126.00),(damage_sprite_smoke-198.00-133.00),
+4 = 129.00,75.00,1,1,115.00,59.00,143.00,91.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-129.00-75.00),(damage_sprite_sparks-126.00-71.00),(damage_sprite_sparks-131.00-77.00),(damage_sprite_smoke-124.00-71.00),(damage_sprite_smoke-130.00-79.00),(damage_sprite_smoke-127.00-74.00),
+
+[slots]
+0 = 128.00,32.00,STANDARD,
+1 = 128.00,64.00,TURRET,(101.00-55.00),(151.00-55.00),
+2 = 128.00,96.00,STANDARD,
+3 = 128.00,224.00,STANDARD,
+4 = 90.00,76.00,TURRET,
+5 = 166.00,76.00,TURRET,
+6 = 90.00,121.00,TURRET,
+7 = 166.00,121.00,TURRET,
+8 = 128.00,128.00,STANDARD,
+9 = 128.00,163.00,TURRET,(101.00-165.00),(151.00-165.00),
+
+[explosions]
+0 = 0,128,64,EXP_FRIGATE
+1 = 210,0,0,EXP_STARTBREAKUP
+2 = 270,0,0,EXP_FRIGATEDEBRIS
+3 = 200,128,123,EXP_FRIGATEBREAKUP
+4 = 200,128,123,EXP_PLUMES
+5 = 200,128,123,EXP_BLASTGLARE
+
+[hulks]
+0 = 58,1,450,379,(emit-248-143-hulk_emmiter),(emit-261-159-hulk_emmiter),(emit-106-194-hulk_emmiter),(emit-252-260-hulk_emmiter),(emit-393-247-hulk_emmiter),(emit-407-253-hulk_emmiter),(emit-396-266-hulk_smoke_emmiter),(emit-255-148-hulk_smoke_emmiter),
+1 = 217,393,299,510,
+

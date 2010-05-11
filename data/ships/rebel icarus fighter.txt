@@ -1,0 +1,10 @@
+[config]
+name = _rebel icarus fighter 
+guiname = Rebel Icarus Fighter 
+hull = Rebel Icarus Fighter 
+
+[modules]
+0 = fighter power,
+1 = fighter_engine,
+2 = fighter_pulse laser,
+3 = fighter_armour II,

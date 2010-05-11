@@ -1,0 +1,27 @@
+[config]
+unlockcost = 2400
+lockable = 1
+classname = "SIM_EngineModule"
+category = "ENGINES"
+size = "CRUISER"
+name = "cruiser_engine VI"
+guiname = "Lightweight Cruiser Engine"
+description = "A superlightweight engine that delivers reasonable thrust and doesn't weigh as much as it's cheaper, older style variants."
+weight = 100
+hitpoints = 110
+thrust = 105
+cost = 185
+icon = module_engine_6.dds
+crew_required = 24
+powerconsumed = 3.7
+slot_type = STANDARD
+uisortpos = 3050
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = thrust,DECIMAL
+

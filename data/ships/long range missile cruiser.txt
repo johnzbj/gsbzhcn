@@ -1,0 +1,19 @@
+[config]
+name = _long range missile cruiser 
+guiname = Long Range Missile Cruiser 
+hull = Alliance Cobra Frigate hull 
+
+[modules]
+0 = frigate shield II,
+1 = frigate shield II,
+2 = frigate fastmissile,
+3 = frigate fastmissile,
+4 = frigate crew,
+5 = frigate crew,
+6 = frigate_engine,
+7 = frigate_engine,
+8 = frigate fastmissile,
+9 = frigate fastmissile,
+10 = frigate_armour II,
+11 = frigate_armour II,
+12 = frigate power,

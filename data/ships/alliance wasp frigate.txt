@@ -1,0 +1,17 @@
+[config]
+name = _alliance wasp frigate 
+guiname = alliance wasp frigate 
+hull = Alliance Wasp Frigate hull 
+
+[modules]
+0 = frigate plasma,
+1 = frigate_rapidfire_laser,
+2 = frigate_rapidfire_laser,
+3 = frigate_engine II,
+4 = frigate_engine II,
+5 = frigate power II,
+6 = frigate crew II,
+7 = frigate_superlight shield,
+8 = frigate_armour IV,
+9 = frigate_rapidfire_laser,
+10 = frigate_rapidfire_laser,

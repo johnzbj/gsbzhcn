@@ -1,0 +1,27 @@
+[config]
+unlockcost = 220
+lockable = 1
+classname = "SIM_TargetBoosterModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser_targetboosterII"
+guiname = "Target Booster II"
+description = "A ship-wide booster gizmo which increases the effective tracking speed of all of the weapons on your ship, giving them a better chance of hitting your enemies."
+weight = 79
+hitpoints = 72
+targetboost = 0.16
+cost = 155
+icon = module_target2.dds
+crew_required = 10
+powerconsumed = 12
+slot_type = STANDARD
+stack_effectiveness = 0.6
+uisortpos = 4150
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = targetboost,DECIMAL
+4 = crew_required,INTEGER
+5 = powerconsumed,DECIMAL

@@ -1,0 +1,45 @@
+[config]
+classname = frigate
+name = Imperial Weapons Platform hull
+guiname = Imperial Weapons Platform Hull
+sprite = Imperial Weapons Platform.dds
+damagetexture = Imperial Weapons Platform_damaged.dds
+width = 125
+height = 125
+powerproduced = 14
+cost = 152
+racename = empire
+
+[bonuses]
+0 = SHIELDBOOST,0.1
+
+[targets]
+0 = 241.00,191.00,0,1,226.00,176.00,256.00,206.00,(damage_sprite_sparks-241.00-191.00),(damage_sprite_sparks-243.00-190.00),
+1 = 106.00,139.50,1,1,85.00,112.00,127.00,167.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-106.00-139.50),(damage_sprite_sparks-104.00-134.00),(damage_sprite_sparks-104.00-141.00),(damage_sprite_sparks-110.00-149.00),
+2 = 139.00,21.00,1,1,123.00,3.00,155.00,39.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-139.00-21.00),(damage_sprite_sparks-134.00-18.00),(damage_sprite_sparks-142.00-24.00),(damage_sprite_sparks-141.00-18.00),
+3 = 168.00,110.50,0,1,154.00,96.00,182.00,125.00,(damage_sprite_sparks-168.00-110.50),(damage_sprite_sparks-166.00-112.00),
+4 = 56.50,183.50,1,1,39.00,168.00,74.00,199.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-56.50-183.50),(damage_sprite_sparks-56.00-187.00),
+5 = 168.00,166.50,1,1,148.00,147.00,188.00,186.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-168.00-166.50),(damage_sprite_sparks-169.00-171.00),(damage_sprite_sparks-173.00-163.00),
+
+[slots]
+0 = 114.00,45.00,TURRET,
+1 = 18.00,124.00,STANDARD,
+2 = 135.00,143.00,TURRET,
+3 = 114.00,241.00,TURRET,
+4 = 195.00,223.00,TURRET,
+5 = 238.00,83.00,STANDARD,
+6 = 238.00,202.00,STANDARD,
+7 = 147.00,20.00,STANDARD,
+8 = 144.00,177.00,TURRET,
+9 = 133.00,107.00,TURRET,
+10 = 169.00,131.00,TURRET,
+11 = 100.00,148.00,TURRET,
+
+[explosions]
+0 = 0.00,118.50,62.00,EXP_FRIGATE
+1 = 210.00,0.00,0.00,EXP_STARTBREAKUP
+2 = 270.00,136.00,143.50,EXP_FRIGATEDEBRIS
+3 = 200.00,136.50,144.00,EXP_FRIGATEBREAKUP
+4 = 200.00,137.00,143.00,EXP_PLUMES
+5 = 200.00,137.00,143.00,EXP_BLASTGLARE
+

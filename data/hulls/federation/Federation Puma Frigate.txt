@@ -1,0 +1,60 @@
+[config]
+classname = frigate
+name = Federation Puma Frigate hull
+guiname = Federation Puma Frigate Hull
+sprite = Federation Puma Frigate.dds
+damagetexture = Federation Puma Frigate_damaged.dds
+hulktexture = Federation Puma Frigate_hulk.dds
+width = 80
+height = 80
+powerproduced = 10
+cost = 120
+racename = federation
+
+[bonuses]
+0 = INTEGRITYBOOST,0.1
+1 = POWERBOOST,0.08
+
+[runninglights]
+0 = 82,144,240,2,1
+1 = 173,144,240,2,0
+
+[engineglows]
+0 = 64,263,14,20,"engineglow.dds","engine_debris",0,1.0
+1 = 191,263,14,20,"engineglow.dds","engine_debris",0,1.0
+
+[targets]
+0 = 113.50,188.00,0,1,100.00,169.00,127.00,207.00,(damage_sprite_sparks-113.50-188.00),(damage_sprite_sparks-115.00-186.00),(damage_sprite_sparks-113.00-191.00),(damage_sprite_sparks-115.00-184.00),(damage_sprite_sparks-113.00-191.00),(damage_sprite_sparks-118.00-188.00),
+1 = 149.50,79.50,0,1,134.00,63.00,165.00,96.00,(damage_sprite_sparks-149.50-79.50),(damage_sprite_sparks-148.00-81.00),(damage_sprite_sparks-148.00-81.00),
+2 = 87.50,136.00,0,1,79.50,126.50,95.50,145.50,
+3 = 145.00,189.75,0,1,133.00,172.50,157.00,207.00,
+4 = 113.00,43.50,0,1,100.00,33.00,126.00,54.00,(damage_sprite_sparks-113.00-43.50),(damage_sprite_sparks-112.00-44.00),
+5 = 130.75,19.00,0,1,120.50,10.00,141.00,28.00,
+6 = 142.50,116.00,1,1,126.00,99.00,159.00,133.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-142.50-116.00),(damage_sprite_sparks-146.00-116.00),(damage_sprite_sparks-136.00-110.00),(damage_sprite_sparks-147.00-123.00),(damage_sprite_smoke-145.00-116.00),(damage_sprite_sparks-143.00-114.00),
+7 = 191.00,168.50,0,1,176.00,152.00,206.00,185.00,(damage_sprite_sparks-191.00-168.50),(damage_sprite_sparks-192.00-173.00),(damage_sprite_sparks-193.00-172.00),
+8 = 68.25,178.50,0,1,54.50,169.00,82.00,188.00,
+
+[slots]
+0 = 128.00,32.00,TURRET,(105.00-51.00),(151.00-51.00),
+1 = 128.00,62.00,STANDARD,
+2 = 128.00,96.00,STANDARD,
+3 = 128.00,128.00,TURRET,(108.00-142.00),(148.00-142.00),
+4 = 64.00,224.00,STANDARD,
+5 = 192.00,224.00,STANDARD,
+6 = 128.00,241.00,STANDARD,
+7 = 113.00,192.00,TURRET,(92.00-189.00),(108.00-163.00),
+8 = 143.00,192.00,TURRET,(164.00-189.00),(148.00-163.00),
+9 = 64.00,173.00,STANDARD,
+10 = 192.00,173.00,STANDARD,
+
+[explosions]
+0 = 0,128,64,EXP_FRIGATE
+1 = 210,0,0,EXP_STARTBREAKUP
+2 = 270,128,128,EXP_FRIGATEDEBRIS
+3 = 200,128,157,EXP_FRIGATEBREAKUP
+4 = 200,128,157,EXP_PLUMES
+5 = 200,128,157,EXP_BLASTGLARE
+
+[hulks]
+0 = 0,0,512,512,(emit-287-228-hulk_emmiter),(emit-231-368-hulk_emmiter),(emit-227-383-hulk_emmiter),(emit-387-344-hulk_emmiter),(emit-296-163-hulk_emmiter),(emit-224-88-hulk_emmiter),(emit-236-377-hulk_smoke_emmiter),
+

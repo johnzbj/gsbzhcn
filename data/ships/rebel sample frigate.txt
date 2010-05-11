@@ -1,0 +1,14 @@
+[config]
+name = _rebel sample frigate 
+guiname = Rebel Sample Frigate 
+hull = Rebel Loki Frigate hull 
+
+[modules]
+0 = frigate crew,
+1 = frigate_engine,
+2 = frigate_rapidfire_laser,
+3 = frigate missile,
+4 = frigate power,
+5 = frigate_armour,
+6 = frigate_armour,
+7 = frigate_engine,

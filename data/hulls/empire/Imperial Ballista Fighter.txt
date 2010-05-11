@@ -1,0 +1,38 @@
+[config]
+classname = fighter
+name = Imperial Ballista Fighter
+guiname = Imperial Ballista Fighter Hull
+sprite = Imperial Ballista Fighter.dds
+damagetexture = Imperial Ballista Fighter_damaged.dds
+hulktexture = imperial_hulks.dds
+hulkUVstart = 0
+hulkUVend = 3
+width = 9
+height = 9
+powerproduced = 2.1
+cost = 32
+racename = empire
+
+[bonuses]
+0 = POWERBOOST,0.12
+
+[contrails]
+0 = 128,240,40,100,2.0,4
+
+[targets]
+0 = 62.50,205.50,1,1,29.00,168.00,96.00,243.00,SHIP_EMMITER_SMALL,
+1 = 152.50,127.00,1,1,119.00,87.00,186.00,167.00,SHIP_EMMITER_SMALL,
+2 = 193.00,215.00,0,0,
+
+[slots]
+0 = 128.00,160.00,STANDARD,
+1 = 128.00,128.00,STANDARD,
+2 = 128.00,88.00,TURRET,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+
+

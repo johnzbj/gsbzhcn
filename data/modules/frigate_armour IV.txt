@@ -1,0 +1,27 @@
+[config]
+unlockcost = 2500
+lockable = 1
+classname = "SIM_ArmourModule"
+category = "DEFENSES"
+size = "FRIGATE"
+name = "frigate_armour IV"
+guiname = "Frigate Powered Armor"
+description = "Running a low power energy field through this armor increases it's strength, but obviously it uses up power to achieve it."
+weight = 43
+hitpoints = 0
+maxdamageabsorbable = 71
+cost = 112
+icon = module_armour_v11.dds
+crew_required = 0
+powerconsumed = 2.5
+slot_type = STANDARD
+stack_effectiveness = 0.95
+uisortpos = 2030
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+4 = powerconsumed,DECIMAL
+

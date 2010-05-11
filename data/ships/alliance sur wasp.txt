@@ -1,0 +1,17 @@
+[config]
+name = _alliance sur wasp 
+guiname = alliance sur wasp 
+hull = Alliance Wasp Frigate hull 
+
+[modules]
+0 = frigate fastmissile,
+1 = frigate fastmissile,
+2 = frigate fastmissile,
+3 = frigate crew II,
+4 = frigate crew micro,
+5 = frigate_engine II,
+6 = frigate_engine II,
+7 = frigate power II,
+8 = frigate turboshield,
+9 = frigate ecm shock missile v2,
+10 = frigate ecm shock missile v2,

@@ -1,0 +1,26 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_ArmourModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "cruiser_armour"
+guiname = "Cruiser Armour"
+description = "Basic low-tech protection in the form of large, heavy steel plates welded to the side of your ship. It might not be cutting edge, but it's cheap."
+weight = 92
+hitpoints = 0
+maxdamageabsorbable = 74
+cost = 136
+icon = module_armour_v1.dds
+crew_required = 0
+powerconsumed = 0
+slot_type = STANDARD
+stack_effectiveness = 0.97
+uisortpos = 2000
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+

@@ -1,0 +1,29 @@
+[config]
+unlockcost = 650
+lockable = 1
+classname = "SIM_CarrierModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser_carrier_reinforced"
+guiname = "Carrier Bay (Reinforced)"
+description = "A more thoroughly constructed and beefier carrier support bay for patching up damaged fighters mid-battle. Be sure to give them cautious orders."
+weight = 145
+hitpoints = 155
+cost = 180
+icon = module_carrier.dds
+crew_required = 43
+repair_rate = 0.05
+powerconsumed = 4.2
+slot_type = STANDARD
+stack_effectiveness = 1.0
+maxrepairsupplies = 600
+uisortpos = 4113
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = repair_rate,DECIMAL
+6 = maxrepairsupplies,INTEGER

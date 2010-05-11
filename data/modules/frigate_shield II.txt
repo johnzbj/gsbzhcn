@@ -1,0 +1,31 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_ShieldModule"
+category = "DEFENSES"
+size = "FRIGATE"
+name = "frigate shield II"
+guiname = "Shield Generator II"
+description = "Mere shields will not defend a frigate against an angry enemy cruiser in full destruct-o-mode, but this generator will keep the crew alive long enough to get the escape podules."
+weight = 30
+hitpoints = 60
+recharge_rate = 0.007
+cost = 73
+icon = module_shield_v3.dds
+crew_required = 5
+powerconsumed = 5.3
+shieldpoints = 70
+resistance = 10
+slot_type = STANDARD
+stack_effectiveness = 0.9
+uisortpos = 2080
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = shieldpoints,DECIMAL
+5 = crew_required,INTEGER
+6 = resistance,DECIMAL
+7 = recharge_rate,DECIMAL_MULT,1000

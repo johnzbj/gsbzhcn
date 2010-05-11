@@ -1,0 +1,26 @@
+[config]
+category = "DEFENSES"
+classname = "SIM_ArmourModule"
+cost = 28
+crew_required = 0
+description = "Highly distributed armor plates specifically designed to crumble and absorb the impact of incoming fire. Lightweight, but minimal."
+guiname = "Ablative Armour"
+hitpoints = 0
+icon = module_armour_v13.dds
+lockable = 1
+maxdamageabsorbable = 8.75
+name = "fighter_armour IV"
+powerconsumed = 0
+size = "FIGHTER"
+slot_type = STANDARD
+unlockcost = 2500
+weight = 0.45
+uisortpos = 2030
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+
+

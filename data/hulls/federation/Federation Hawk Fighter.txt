@@ -1,0 +1,45 @@
+[config]
+classname = fighter
+name = Federation Hawk Fighter
+guiname = Federation Hawk Fighter Hull
+sprite = Federation Hawk Fighter.dds
+damagetexture = Federation Hawk Fighter_damaged.dds
+hulktexture = federation_hulks.dds
+hulkUVstart = 4
+hulkUVend = 7
+width = 10
+height = 10
+powerproduced = 2
+cost = 30
+racename = federation
+unlockcost = 2600
+lockable = 1
+
+[bonuses]
+0 = INTEGRITYBOOST,0.1
+
+[runninglights]
+0 = 51,252,170,2,1
+1 = 205,252,170,2,0
+
+[contrails]
+0 = 86,167,40,500,1.5,4
+1 = 170,167,40,500,1.5,4
+
+[targets]
+0 = 42.00,126.50,1,1,19.00,90.00,65.00,163.00,SHIP_EMMITER_SMALL,
+1 = 199.00,136.00,0,0,
+2 = 139.50,63.50,1,1,115.00,22.00,164.00,105.00,SHIP_EMMITER_SMALL,
+3 = 202,103,1,1,166,89,241,148,SHIP_EMMITER_SMALL,
+
+[slots]
+0 = 128.00,86.00,TURRET,
+1 = 70.00,127.00,STANDARD,
+2 = 186.00,127.00,STANDARD,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+

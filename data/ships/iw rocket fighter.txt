@@ -1,0 +1,9 @@
+[config]
+name = _iw rocket fighter 
+guiname = iw rocket fighter 
+hull = Imperial Ballista Fighter 
+
+[modules]
+0 = fighter_engine,
+1 = fighter_armour,
+2 = fighter_rocket,

@@ -1,0 +1,20 @@
+[config]
+name = _rebel fenrir cruiser 
+guiname = rebel fenrir cruiser 
+hull = Rebel Fenrir Cruiser 
+
+[modules]
+0 = cruiser power III,
+1 = cruiser heavy plasma,
+2 = cruiser_nanorepair,
+3 = cruiser_engine,
+4 = cruiser_engine,
+5 = cruiser heavy plasma,
+6 = cruiser heavy plasma,
+7 = cruiser_engine V,
+8 = cruiser_armour,
+9 = cruiser_armour,
+10 = cruiser_targetboosterI,
+11 = cruiser shield,
+12 = cruiser_pointdefence,
+13 = cruiser crew II,

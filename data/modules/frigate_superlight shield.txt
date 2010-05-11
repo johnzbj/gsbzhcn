@@ -1,0 +1,31 @@
+[config]
+unlockcost = 390
+lockable = 1
+classname = "SIM_ShieldModule"
+category = "DEFENSES"
+size = "FRIGATE"
+name = "frigate_superlight shield"
+guiname = "Super-Light Shield Generator"
+description = "Sometimes it's worth having a minimal shield defense without wasting money on a system which the big cruisers will only laugh at anyway."
+weight = 12
+hitpoints = 24
+recharge_rate = 0.006
+cost = 30
+icon = module_shield_v4.dds
+crew_required = 2
+powerconsumed = 2.3
+shieldpoints = 18
+resistance = 7
+slot_type = STANDARD
+stack_effectiveness = 0.9
+uisortpos = 2050
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = shieldpoints,DECIMAL
+5 = crew_required,INTEGER
+6 = resistance,DECIMAL
+7 = recharge_rate,DECIMAL_MULT,1000

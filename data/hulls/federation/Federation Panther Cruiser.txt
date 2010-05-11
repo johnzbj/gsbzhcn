@@ -1,0 +1,95 @@
+[config]
+classname = cruiser
+name = Federation Panther Cruiser hull
+guiname = Federation Panther Cruiser hull
+sprite = Federation Panther Cruiser.dds
+damagetexture = Federation Panther Cruiser_damaged.dds
+hulktexture = Federation Panther Cruiser_hulk.dds
+width = 160
+height = 160
+powerproduced = 8
+cost = 130
+racename = federation
+unlockcost = 5500
+lockable = 1
+
+[bonuses]
+0 = INTEGRITYBOOST,0.12
+
+[runninglights]
+0 = 60.00,92.00,120.00,2.00,1
+1 = 61.00,141.00,200.00,2.00,1
+2 = 106.00,1.50,200.00,2.00,1
+3 = 150.00,2.00,200.00,2.00,0
+4 = 196.00,93.00,120.00,2.00,0
+5 = 195.00,140.00,200.00,2.00,0
+6 = 81.50,134.50,400.00,1.07,3
+7 = 175.00,135.00,400.00,1.07,3
+8 = 111.00,82.00,400.00,1.07,3
+9 = 144.50,82.00,400.00,1.07,3
+
+[engineglows]
+0 = 91.00,274.00,16.00,40.00,engineglow.dds,engine_debris,0,1.00
+1 = 165.00,274.00,16.00,40.00,engineglow.dds,engine_debris,0,1.00
+
+[targets]
+0 = 146.75,202.00,0,1,139.00,189.50,154.50,214.50,(damage_sprite_sparks-147.00-201.00),(damage_sprite_smoke-148.00-206.00),
+1 = 167.50,86.50,0,1,157.00,73.00,178.00,100.00,(damage_sprite_sparks-167.50-86.50),(damage_sprite_sparks-165.00-85.00),(damage_sprite_sparks-170.00-86.00),(damage_sprite_sparks-170.00-92.00),
+2 = 94.50,57.00,0,1,75.50,48.00,102.00,68.50,
+3 = 80.50,81.00,1,1,70.00,72.00,91.00,90.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-80.50-81.00),(damage_sprite_sparks-82.00-82.00),
+4 = 127.50,48.00,1,1,112.00,37.00,143.00,59.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-127.50-48.00),(damage_sprite_sparks-135.00-52.00),(damage_sprite_sparks-133.00-47.00),(damage_sprite_sparks-120.00-45.00),
+5 = 196.75,112.00,0,1,191.50,107.00,202.00,117.00,
+6 = 160.00,242.50,0,1,155.00,182.50,175.00,249.50,
+7 = 107.50,193.50,0,1,102.50,186.00,112.50,201.00,
+8 = 157.50,133.50,1,1,145.00,123.00,170.00,144.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-157.50-133.50),(damage_sprite_sparks-153.00-136.00),(damage_sprite_sparks-159.00-137.00),(damage_sprite_sparks-159.00-138.00),
+9 = 159.50,114.00,0,1,152.50,102.50,170.00,120.00,(damage_sprite_sparks-168.00-108.00),
+10 = 90.00,114.50,0,1,79.00,103.00,105.00,124.00,
+11 = 107.00,91.00,0,1,93.00,82.00,121.00,100.00,(damage_sprite_sparks-107.00-91.00),(damage_sprite_sparks-103.00-90.00),(damage_sprite_sparks-117.00-91.00),(damage_sprite_smoke-107.00-90.00),
+12 = 62.25,112.25,0,1,54.50,105.00,70.00,119.50,
+13 = 117.50,135.00,1,1,107.00,123.00,128.00,147.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-117.50-135.00),(damage_sprite_sparks-116.00-136.00),(damage_sprite_sparks-119.00-140.00),(damage_sprite_smoke-119.00-138.00),(damage_sprite_sparks-121.00-138.00),
+14 = 107.50,216.00,1,1,100.00,204.00,115.00,228.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-107.50-216.00),(damage_sprite_sparks-107.00-213.00),(damage_sprite_sparks-108.00-220.00),
+15 = 132.25,194.50,0,1,127.00,189.00,137.50,200.00,
+16 = 88.50,203.00,0,1,79.50,181.00,100.50,247.50,(damage_sprite_smoke-89.00-204.00),
+17 = 136.50,138.75,0,1,130.50,133.00,142.50,144.50,
+
+[slots]
+0 = 128.00,42.00,TURRET,(83.00-60.00),(171.00-60.00),(128.00-36.00),
+1 = 128.00,77.00,TURRET,
+2 = 96.00,78.00,TURRET,
+3 = 160.00,78.00,TURRET,
+4 = 82.00,108.00,STANDARD,
+5 = 174.00,108.00,STANDARD,
+6 = 113.00,113.00,TURRET,(110.00-104.00),
+7 = 143.00,113.00,TURRET,(146.00-104.00),
+8 = 128.00,162.00,STANDARD,
+9 = 90.00,225.00,STANDARD,
+10 = 166.00,225.00,STANDARD,
+11 = 90.00,183.00,STANDARD,
+12 = 166.00,183.00,STANDARD,
+13 = 96.00,138.00,TURRET,(72.00-127.00),(92.00-127.00),
+14 = 160.00,138.00,TURRET,(184.00-127.00),(164.00-127.00),
+
+[explosions]
+0 = 0.00,128.00,80.00,EXP_FRIGATE
+1 = 22.00,109.00,53.00,EXP_DESTRUCTION_PLACED
+2 = 44.00,87.00,235.00,EXP_DESTRUCTION_PLACED
+3 = 58.00,103.00,127.00,EXP_DESTRUCTION_PLACED
+4 = 133.00,142.00,161.00,EXP_DESTRUCTION_PLACED
+5 = 200.00,155.50,95.50,EXP_FRIGATEBREAKUP
+6 = 202.00,126.50,110.00,EXP_PLUMES
+7 = 204.00,126.50,108.00,EXP_CRUISER_PLUMECENTER
+8 = 210.00,0.00,0.00,EXP_STARTBREAKUP
+9 = 270.00,128.00,128.00,EXP_CRUISERDEBRIS
+10 = 290.00,164.50,218.00,EXP_DESTRUCTION_PLACED
+11 = 310.00,125.00,158.00,EXP_DESTRUCTION_PLACED
+12 = 266.00,143.00,51.00,EXP_DESTRUCTION_PLACED
+13 = 387.00,90.00,204.00,EXP_DESTRUCTION_PLACED
+14 = 400.00,117.00,101.00,EXP_FRIGATEBREAKUP
+15 = 400.00,140.50,119.00,EXP_BLASTGLARE
+16 = 400.00,127.50,107.00,EXP_ANGLED_DEBRIS
+
+[hulks]
+0 = 155,318,357,510,(emit-269-340-hulk_emmiter),(emit-244-340-hulk_emmiter),(emit-217-437-hulk_emmiter),(emit-297-408-hulk_emmiter),(emit-305-454-hulk_smoke_emmiter),
+1 = 105,96,404,303,(emit-165-165-hulk_emmiter),(emit-205-179-hulk_emmiter),(emit-178-231-hulk_emmiter),(emit-237-279-hulk_emmiter),(emit-291-188-hulk_emmiter),(emit-338-175-hulk_emmiter),(emit-333-256-hulk_emmiter),(emit-313-276-hulk_emmiter),(emit-323-276-hulk_smoke_emmiter),(emit-234-180-hulk_smoke_emmiter),(emit-343-183-hulk_smoke_emmiter),
+2 = 203,2,303,85,
+

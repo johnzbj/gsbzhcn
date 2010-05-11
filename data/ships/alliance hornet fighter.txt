@@ -1,0 +1,9 @@
+[config]
+name = _alliance hornet fighter 
+guiname = Alliance Hornet Fighter 
+hull = Alliance Hornet Fighter 
+
+[modules]
+0 = fighter_pulse laser,
+1 = fighter_engine II,
+2 = fighter power III,

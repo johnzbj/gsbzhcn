@@ -1,0 +1,27 @@
+[config]
+unlockcost = 1900
+lockable = 1
+classname = "SIM_ArmourModule"
+category = "DEFENSES"
+size = "FRIGATE"
+name = "frigate_armour V"
+guiname = "Lightweight Powered Armor"
+description = "The advantages of a powered armor system, with minimal additional weight. Of course, this comes at a noticeable cost"
+weight = 38
+hitpoints = 0
+maxdamageabsorbable = 70
+cost = 142
+icon = module_armour_v11.dds
+crew_required = 0
+powerconsumed = 2.6
+slot_type = STANDARD
+stack_effectiveness = 0.95
+uisortpos = 2040
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = maxdamageabsorbable,DECIMAL
+4 = powerconsumed,DECIMAL
+

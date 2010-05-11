@@ -1,0 +1,24 @@
+[config]
+unlockcost = 160
+lockable = 1
+classname = "SIM_CrewModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser micro crew"
+guiname = "Micro Crew Module"
+description = "Sometimes you just need room for a handful of extra plucky starship engineers to do the cooking and cleaning. This is the crew podule for that scenario."
+weight = 59
+cost = 50
+hitpoints = 75
+icon = module_crew.dds
+crew_required = 0
+powerconsumed = 0
+crewsupply = 80
+slot_type = STANDARD
+uisortpos = 4000
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crewsupply,INTEGER

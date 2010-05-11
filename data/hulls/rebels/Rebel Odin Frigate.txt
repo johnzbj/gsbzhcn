@@ -1,0 +1,56 @@
+[config]
+classname = frigate
+name = Rebel Odin Frigate hull
+guiname = Rebel Odin Frigate Hull
+sprite = Rebel Odin Frigate.dds
+damagetexture = Rebel Odin Frigate_damaged.dds
+hulktexture = Rebel Odin Frigate_hulk.dds
+width = 90
+height = 90
+powerproduced = 9
+cost = 115
+racename = rebel
+
+[bonuses]
+0 = SPEEDBOOST,0.1
+1 = ARMOURBOOST,0.07
+
+[runninglights]
+0 = 35,174,240,2,1
+1 = 221,174,240,2,0
+
+[engineglows]
+0 = 106,255,10,20,"engineglow.dds","engine_debris",0,1.0
+1 = 150,255,10,20,"engineglow.dds","engine_debris",0,1.0
+
+[targets]
+0 = 117.00,171.50,1,1,101.00,149.00,133.00,194.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-117.00-171.50),(damage_sprite_sparks-117.00-164.00),(damage_sprite_smoke-118.00-163.00),
+1 = 165.50,71.00,1,1,152.00,53.00,179.00,89.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-165.50-71.00),(damage_sprite_sparks-165.00-72.00),(damage_sprite_smoke-165.00-71.00),
+2 = 62.00,142.00,1,1,44.00,123.00,80.00,161.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-62.00-142.00),(damage_sprite_sparks-62.00-146.00),(damage_sprite_smoke-63.00-145.00),(damage_sprite_smoke-64.00-141.00),
+3 = 187.50,122.50,1,1,169.00,100.00,206.00,145.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-187.50-122.50),(damage_sprite_sparks-188.00-126.00),(damage_sprite_smoke-188.00-126.00),
+4 = 91.50,69.50,1,1,79.00,54.00,104.00,85.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-91.50-69.50),(damage_sprite_sparks-90.00-73.00),(damage_sprite_smoke-89.00-72.00),
+
+[slots]
+0 = 128.00,128.00,TURRET,(108.00-102.00),(148.00-102.00),
+1 = 128.00,160.00,STANDARD,
+2 = 128.00,56.00,TURRET,
+3 = 128.00,96.00,STANDARD,
+4 = 33.00,109.00,TURRET,(81.00-99.00),(53.00-121.00),
+5 = 223.00,109.00,TURRET,(175.00-99.00),(203.00-121.00),
+6 = 105.00,232.00,STANDARD,
+7 = 151.00,232.00,STANDARD,
+8 = 84.00,145.00,STANDARD,
+9 = 172.00,145.00,STANDARD,
+10 = 128.00,192.00,STANDARD,
+
+[explosions]
+0 = 0,128,64,EXP_FRIGATE
+1 = 210,0,0,EXP_STARTBREAKUP
+2 = 270,128,128,EXP_FRIGATEDEBRIS
+3 = 200,128,123,EXP_FRIGATEBREAKUP
+4 = 200,128,123,EXP_PLUMES
+5 = 200,128,123,EXP_BLASTGLARE
+
+[hulks]
+0 = 49,14,462,507,(emit-126-290-hulk_smoke_emmiter),(emit-179-145-hulk_smoke_emmiter),(emit-237-326-hulk_emmiter),(emit-330-142-hulk_emmiter),(emit-376-253-hulk_emmiter),(emit-128-282-hulk_emmiter),
+

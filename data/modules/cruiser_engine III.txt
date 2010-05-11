@@ -1,0 +1,27 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_EngineModule"
+category = "ENGINES"
+size = "CRUISER"
+name = "cruiser_engine III"
+guiname = "Cruiser Engine III"
+description = "When speed is a priority and your hull-space is limited, this cutting edge piece of turbo-thrust technology is the solution to your problem."
+weight = 138
+hitpoints = 140
+thrust = 118
+cost = 200
+icon = module_engine_3.dds
+crew_required = 28
+powerconsumed = 5.1
+slot_type = STANDARD
+uisortpos = 3020
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = thrust,DECIMAL
+

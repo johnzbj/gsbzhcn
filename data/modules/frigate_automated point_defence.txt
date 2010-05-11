@@ -1,0 +1,33 @@
+[config]
+unlockcost = 205
+lockable = 1
+beam_duration = 200
+beam_texture = "beam_blue_atlas.dds"
+beam_width = 2
+category = "DEFENSES"
+classname = "SIM_PointDefenseModule"
+cost = 70
+crew_required = 1
+description = "Shooting down incoming missies is no job for organic beings. Trust in machines to do this job. Machines are the expensive and weighty future!"
+fire_interval = 1100
+guiname = "Automated Point Defense System"
+hitpoints = 10
+icon = turret
+max_range = 300
+name = "frigate_auto_pointdefence"
+powerconsumed = 4
+size = "FRIGATE"
+slot_type = TURRET
+tracking_speed = 3.5
+turret_sprite = "turret_pd_v2"
+turretsize = 9
+weight = 29
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = max_range,DECIMAL
+5 = fire_interval,INTEGER
+6 = crew_required,INTEGER

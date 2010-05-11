@@ -1,0 +1,20 @@
+[config]
+name = _alliance sur plasma hurler 
+guiname = alliance sur Plasma Hurler 
+hull = Alliance Alligator Cruiser hull 
+
+[modules]
+0 = cruiser_ecm shock,
+1 = cruiser heavy plasma,
+2 = cruiser heavy plasma,
+3 = cruiser heavy plasma,
+4 = cruiser heavy plasma,
+5 = cruiser_engine IV,
+6 = cruiser_engine IV,
+7 = cruiser crew II,
+8 = cruiser_armour V,
+9 = cruiser power II,
+10 = cruiser power III,
+11 = cruiser shield II,
+12 = cruiser shield II,
+13 = crusier_camoflage,

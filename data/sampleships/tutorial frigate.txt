@@ -1,0 +1,18 @@
+[config]
+name = tutorial frigate 
+guiname = Tutorial Frigate 
+hull = Federation Fox Frigate 
+cost = 898 
+
+[modules]
+0 = frigate crew,
+1 = frigate missile,
+2 = frigate_ion_cannon,
+3 = frigate shield II,
+4 = frigate_engine III,
+5 = frigate_engine III,
+6 = frigate_armour II,
+7 = frigate power II,
+8 = frigate crew,
+9 = frigate power II,
+10 = frigate_beamlaser,

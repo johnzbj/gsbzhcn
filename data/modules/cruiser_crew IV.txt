@@ -1,0 +1,25 @@
+[config]
+unlockcost = 2000
+lockable = 1
+classname = "SIM_CrewModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser crew IV"
+guiname = "Zero-G Crew"
+description = "By cutting down on gravity support, this crew module reduces both the weight and the power requirements for it's inhabitants"
+weight = 85
+cost = 141
+hitpoints = 125
+icon = module_crew5.dds
+crew_required = 0
+powerconsumed = 1.1
+crewsupply = 273
+slot_type = STANDARD
+uisortpos = 4040
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crewsupply,INTEGER
+4 = powerconsumed,DECIMAL

@@ -1,0 +1,28 @@
+[config]
+unlockcost = 2400
+lockable = 1
+classname = "SIM_CamoflageShieldModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "crusier_camoflage"
+guiname = "Cruiser Camouflage Shield"
+description = "This device makes your ship nearly invisible for short periods. You can't fire whilst active, but you can combine it with repair systems and then repair in relative safety mid-battle."
+weight = 160
+hitpoints = 440
+cost = 220
+icon = module_camoflage.dds
+crew_required = 36
+powerconsumed = 18
+max_cloak_power = 200
+cloak_rechargerate = 0.01
+cloak_consumptionrate = 0.02
+slot_type = STANDARD
+uisortpos = 2190
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crew_required,INTEGER
+4 = powerconsumed,DECIMAL
+

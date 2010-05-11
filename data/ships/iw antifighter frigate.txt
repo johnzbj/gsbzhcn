@@ -1,0 +1,18 @@
+[config]
+name = _iw antifighter frigate 
+guiname = iw antifighter frigate 
+hull = Imperial Gladius Frigate hull 
+
+[modules]
+0 = frigate power II,
+1 = frigate_laser,
+2 = frigate crew,
+3 = frigate tractor,
+4 = frigate turboshield,
+5 = frigate_engine II,
+6 = frigate_engine II,
+7 = frigate crew,
+8 = frigate antifighter missile,
+9 = frigate antifighter missile,
+10 = frigate_armour III,
+11 = frigate_armour III,

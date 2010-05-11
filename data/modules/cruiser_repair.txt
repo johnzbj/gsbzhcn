@@ -1,0 +1,30 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_RepairModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser_repair"
+guiname = "Cruiser Autorepair System"
+description = "Are you still trying to repair ships mid battle with a metaphorical box of spanners? This auto-repair system can make the difference between post-battle drinks and fiery death."
+weight = 99
+hitpoints = 105
+cost = 132
+icon = module_repair.dds
+crew_required = 32
+peace_interval = 150
+repair_rate = 0.05
+powerconsumed = 5.0
+slot_type = STANDARD
+stack_effectiveness = 0.9
+maxrepairsupplies = 450
+uisortpos = 4110
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = repair_rate,DECIMAL
+6 = maxrepairsupplies,INTEGER

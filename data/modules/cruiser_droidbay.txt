@@ -1,0 +1,25 @@
+[config]
+unlockcost = 640
+lockable = 1
+classname = "SIM_CrewModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser droidbay"
+guiname = "Droid Bay"
+description = "Crew are great, and we love having them around, but those crew quarters weigh a ton. Imagine how much lighter the ship could be with robot crew?"
+weight = 49
+cost = 120
+hitpoints = 115
+icon = module_crew4.dds
+crew_required = 0
+powerconsumed = 1
+crewsupply = 150
+slot_type = STANDARD
+uisortpos = 4050
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crewsupply,INTEGER
+4 = powerconsumed,DECIMAL

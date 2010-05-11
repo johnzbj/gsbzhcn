@@ -1,0 +1,27 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_EngineModule"
+category = "ENGINES"
+size = "CRUISER"
+name = "cruiser_engine"
+guiname = "Cruiser Engine"
+description = "It's no use having guns if you can't get them to the enemy, and being able to retreat is an overlooked bonus. This bargain basement engine will at least get your ship moving."
+weight = 99
+hitpoints = 105
+thrust = 75
+cost = 132
+icon = module_engine_1.dds
+crew_required = 16
+powerconsumed = 2
+slot_type = STANDARD
+uisortpos = 3000
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = thrust,DECIMAL
+

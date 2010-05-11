@@ -1,0 +1,24 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "FIGHTER"
+name = "fighter power II"
+guiname = "Power Generator II"
+description = "Even fighters have energy needs, and this mid-range fighter-sized powerplant is the best choice for all-round fighters who don't want to run low on juice."
+weight = 3.1
+hitpoints = 6
+cost = 16
+icon = module_powergen_v2.dds
+crew_required = 0
+powerconsumed = 0
+powerproduced = 4
+slot_type = STANDARD
+uisortpos = 4010
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL

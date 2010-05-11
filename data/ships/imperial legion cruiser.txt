@@ -1,0 +1,23 @@
+[config]
+name = _imperial legion cruiser 
+guiname = imperial legion cruiser 
+hull = Imperial Legion Cruiser hull 
+
+[modules]
+0 = cruiser rocket,
+1 = cruiser_engine III,
+2 = cruiser power,
+3 = cruiser powered armor,
+4 = cruiser power,
+5 = cruiser_nanorepair,
+6 = cruiser missile multiple,
+7 = cruiser shield reflective,
+8 = cruiser_nanorepair,
+9 = cruiser crew II,
+10 = cruiser powered armor,
+11 = cruiser rocket,
+12 = cruiser_engine III,
+13 = cruiser_laser,
+14 = cruiser_quantumblaster,
+15 = cruiser_repair,
+16 = cruiser shield reflective,

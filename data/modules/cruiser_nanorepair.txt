@@ -1,0 +1,31 @@
+[config]
+unlockcost = 2400
+lockable = 1
+classname = "SIM_RepairModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser_nanorepair"
+guiname = "Nanobot Repair System"
+description = "Move into the modern age with this advanced nanobot-repair system, much more effective than standard repair systems. Some crew are still needed to program the bots, obviously."
+weight = 99
+hitpoints = 105
+cost = 162
+icon = module_repair.dds
+crew_required = 25
+peace_interval = 150
+repair_rate = 0.11
+powerconsumed = 5.1
+slot_type = STANDARD
+stack_effectiveness = 0.9
+maxrepairsupplies = 490
+uisortpos = 4120
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = repair_rate,DECIMAL
+6 = maxrepairsupplies,INTEGER
+

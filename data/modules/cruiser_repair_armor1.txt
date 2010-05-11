@@ -1,0 +1,31 @@
+[config]
+unlockcost = 3100
+lockable = 1
+classname = "SIM_RepairModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser_repair_armor1"
+guiname = "Armor Repair System"
+description = "Mid-battle repair systems generally repair whatever happens to be closest or easiest, but this dedicated armor repair system will concentrate purely on armor."
+weight = 88
+hitpoints = 100
+cost = 152
+icon = module_repair_armor_1.dds
+crew_required = 22
+peace_interval = 60
+repair_rate = 0.07
+powerconsumed = 8.8
+slot_type = STANDARD
+repair_type = ARMOR
+stack_effectiveness = 0.9
+maxrepairsupplies = 370
+uisortpos = 4130
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = repair_rate,DECIMAL
+6 = maxrepairsupplies,INTEGER

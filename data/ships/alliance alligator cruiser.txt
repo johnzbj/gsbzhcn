@@ -1,0 +1,20 @@
+[config]
+name = _alliance alligator cruiser 
+guiname = alliance alligator cruiser 
+hull = Alliance Alligator Cruiser hull  
+
+[modules]
+0 = cruiser_automated point_defence,
+1 = cruiser_laser,
+2 = cruiser_laser,
+3 = cruiser missile multiple,
+4 = cruiser_defence laser,
+5 = cruiser_engine III,
+6 = cruiser_engine III,
+7 = cruiser crew II,
+8 = cruiser power,
+9 = cruiser powered armor,
+10 = cruiser powered armor,
+11 = cruiser shield II,
+12 = cruiser power,
+13 = cruiser_repair_armor1,

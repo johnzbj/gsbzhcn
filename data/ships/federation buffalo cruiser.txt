@@ -1,0 +1,24 @@
+[config]
+name = _federation buffalo cruiser 
+guiname = federation buffalo cruiser 
+hull = Federation Buffalo Cruiser hull 
+
+[modules]
+0 = cruiser_federation_beamlaser,
+1 = cruiser_federation_beamlaser,
+2 = cruiser_defence laser,
+3 = cruiser_defence laser,
+4 = cruiser_nanorepair,
+5 = cruiser missile multiple,
+6 = cruiser power II,
+7 = cruiser power III,
+8 = cruiser crew II,
+9 = cruiser_armour II,
+10 = cruiser_engine II,
+11 = cruiser_engine II,
+12 = cruiser_armour II,
+13 = cruiser_pointdefence,
+14 = cruiser_pointdefence,
+15 = cruiser_pdscanner2,
+16 = cruiser_engine II,
+17 = cruiser shield II,

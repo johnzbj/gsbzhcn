@@ -1,0 +1,41 @@
+[config]
+classname = fighter
+name = Imperial Phalanx Fighter
+guiname = Imperial Phalanx Fighter Hull
+sprite = Imperial Phalanx Fighter.dds
+damagetexture = Imperial Phalanx Fighter_damaged.dds
+hulktexture = imperial_hulks.dds
+hulkUVstart = 8
+hulkUVend = 11
+width = 8
+height = 8
+powerproduced = 2.0
+cost = 28
+racename = empire
+
+[bonuses]
+0 = SPEEDBOOST,0.14
+
+[runninglights]
+0 = 128,161,200,1,2
+
+[engineglows]
+0 = 101,220,3,6,"imperialengineglow.dds","",1,1.0
+1 = 155,220,3,6,"imperialengineglow.dds","",1,1.0
+
+[targets]
+0 = 28.00,138.50,1,1,1.00,113.00,55.00,164.00,SHIP_EMMITER_SMALL,
+1 = 119.00,121.00,0,0,
+2 = 160.50,126.00,1,1,130.00,75.00,191.00,177.00,SHIP_EMMITER_SMALL,
+
+[slots]
+0 = 128.00,101.00,TURRET,(101.00-100.00),(155.00-100.00),
+1 = 100.00,152.00,STANDARD,
+2 = 156.00,152.00,STANDARD,
+
+[explosions]
+0 = 0,128,128,EXP_STARTBREAKUP
+1 = 0,128,128,EXP_FIGHTER_DESTROYED_LOD
+2 = 0,128,128,EXP_FIGHTER_DESTROYED
+3 = 0,128,128,EXP_BLASTGLARE
+

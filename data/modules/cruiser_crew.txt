@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_CrewModule"
+category = "OTHER"
+size = "CRUISER"
+name = "cruiser crew"
+guiname = "Crew Module"
+description = "A standard crew podule, with minimalist but acceptable sleeping arrangements for those desperate or gullible enough to sign up as spaceship crew."
+weight = 99
+cost = 80
+hitpoints = 105
+icon = module_crew.dds
+crew_required = 0
+powerconsumed = 0.5
+crewsupply = 160
+slot_type = STANDARD
+uisortpos = 4010
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crewsupply,INTEGER
+4 = powerconsumed,DECIMAL

@@ -1,0 +1,25 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "frigate power III"
+guiname = "Power Generator III"
+description = "For the frigate captain who just can't get enough of low throbbing noises and pulsing lights, this uber-power-podule generates energy in vast quantities."
+weight = 58
+hitpoints = 6
+cost = 125
+icon = module_powergen_v6.dds
+crew_required = 24
+powerconsumed = 0
+powerproduced = 22
+slot_type = STANDARD
+uisortpos = 4050
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL
+4 = crew_required,INTEGER
