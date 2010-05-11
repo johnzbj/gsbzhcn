@@ -1,0 +1,23 @@
+[config]
+name = _order trinity cruiser 
+guiname = Order Trinity Cruiser 
+hull = order_trinity_cruiser 
+
+[modules]
+0 = cruiser_radiation_gun,
+1 = cruiser_radiation_gun,
+2 = cruiser_radiation_gun,
+3 = cruiser_defence laser,
+4 = cruiser shield fastrecharge,
+5 = cruiser_firefly_rocket,
+6 = cruiser power,
+7 = cruiser crew IV,
+8 = cruiser_engine VI,
+9 = cruiser powered armor,
+10 = cruiser powered armor,
+11 = cruiser_engine VI,
+12 = cruiser power,
+13 = cruiser_limpet_launcher,
+14 = cruiser_firefly_rocket,
+15 = cruiser_repair,
+16 = cruiser_engine VI,

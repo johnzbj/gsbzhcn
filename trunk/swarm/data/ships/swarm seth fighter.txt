@@ -1,0 +1,10 @@
+[config]
+name = _swarm seth fighter 
+guiname = Swarm Seth Fighter 
+hull = Swarm Seth Fighter 
+
+[modules]
+0 = fighter_fusion gun,
+1 = fighter_targetbooster,
+2 = fighter_engine,
+3 = fighter power II,

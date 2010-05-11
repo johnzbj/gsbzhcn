@@ -1,0 +1,41 @@
+[config]
+classname = fighter
+name = order_salvation_fighter
+guiname = Order Salvation Fighter
+sprite = Order_Salvation_Fighter.dds
+damagetexture = Order_Salvation_Fighter_damaged.dds
+hulktexture = order_hulks.dds
+hulkUVstart = 8
+hulkUVend = 11
+width = 16
+height = 16
+powerproduced = 3.5
+cost = 58
+racename = order
+
+[bonuses]
+0 = SPEEDBOOST,-0.16
+1 = POWERBOOST,-0.09
+
+[runninglights]
+
+[contrails]
+0 = 128,241,40,500,1.5,4
+
+[targets]
+0 = 203.00,104.50,1,1,153.50,63.00,234.00,150.00,SHIP_EMMITER_THIN,
+1 = 95.50,106.50,1,1,60.00,68.00,132.00,145.00,SHIP_EMMITER_SMALL,
+
+[slots]
+0 = 127.50,156.50,STANDARD,
+1 = 173.00,110.50,TURRET,
+2 = 101.50,110.50,STANDARD,
+3 = 128.00,217.50,STANDARD,
+4 = 45.50,105.50,TURRET,
+
+[explosions]
+0 = 0.00,128.00,128.00,EXP_STARTBREAKUP
+1 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED_LOD
+2 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED
+3 = 0.00,128.00,128.00,EXP_BLASTGLARE
+

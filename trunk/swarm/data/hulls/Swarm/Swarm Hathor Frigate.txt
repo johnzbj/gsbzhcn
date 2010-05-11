@@ -1,0 +1,64 @@
+[config]
+classname = frigate
+name = Swarm Hathor Frigate
+guiname = Swarm Hathor Frigate Hull
+sprite = Swarm Hathor Frigate.dds
+damagetexture = Swarm Hathor Frigate_damaged.dds
+hulktexture = Swarm Hathor Frigate_hulk.dds
+width = 100
+height = 100
+powerproduced = 8
+cost = 105
+racename = swarm
+
+[bonuses]
+0 = INTEGRITYBOOST,-0.05
+1 = ARMOURBOOST,-0.05
+2 = SHIELDBOOST,-0.05
+3 = COSTBOOST,-0.20
+4 = SPEEDBOOST,0.15
+
+[runninglights]
+0 = 63.50,100.50,240.00,2.00,1
+1 = 192.50,100.50,240.00,2.00,0
+
+[engineglows]
+0 = 111.00,219.00,7.89,11.41,swarm_engineglow.dds,alliance_engine_debris,0,1.00
+1 = 145.00,219.00,7.89,11.41,swarm_engineglow.dds,alliance_engine_debris,0,1.00
+
+[targets]
+0 = 97.00,110.50,1,1,83.00,95.50,109.00,123.50,SHIP_EMMITER_THIN,(damage_sprite_sparks-97.00-110.00),
+1 = 126.75,116.25,0,1,115.50,105.00,138.00,127.50,(damage_sprite_sparks-127.00-116.00),
+2 = 155.50,113.50,1,1,142.00,92.00,166.50,123.50,SHIP_EMMITER_SMALL,(damage_sprite_sparks-157.00-111.00),
+3 = 180.00,110.00,1,1,167.00,97.00,193.00,123.00,SHIP_EMMITER_SMALL,(damage_sprite_sparks-180.00-111.00),
+4 = 114.00,148.50,0,1,101.00,136.50,123.50,160.50,(damage_sprite_smoke-113.00-148.00),
+5 = 139.00,153.00,0,1,131.00,137.00,149.00,164.50,
+6 = 125.50,182.50,0,1,109.00,169.00,148.00,193.50,(damage_sprite_sparks-122.00-181.00),
+7 = 129.25,207.25,1,1,113.50,193.50,145.00,221.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-129.00-208.00),
+
+[slots]
+0 = 170.00,103.00,TURRET,
+1 = 81.00,132.50,STANDARD,
+2 = 175.50,132.50,STANDARD,
+3 = 86.00,103.00,TURRET,
+4 = 128.00,108.00,TURRET,(119.50-124.50),(136.50-125.00),
+5 = 146.00,174.00,STANDARD,
+6 = 146.00,145.00,STANDARD,
+7 = 128.00,78.50,STANDARD,
+8 = 110.00,145.00,STANDARD,
+9 = 110.00,174.00,STANDARD,
+
+[explosions]
+0 = 0.00,128.00,77.50,EXP_FRIGATE
+1 = 210.00,0.00,0.00,EXP_STARTBREAKUP
+2 = 270.00,122.50,125.50,EXP_FRIGATEDEBRIS
+3 = 200.00,139.50,142.00,EXP_FRIGATEBREAKUP
+4 = 200.00,120.50,143.50,EXP_PLUMES
+5 = 200.00,133.00,161.50,EXP_BLASTGLARE
+
+[hulks]
+0 = 0,168,147,291,
+1 = 147,70,294,333,(emit-193-217-hulk_emmiter),(emit-256-235-hulk_emmiter),(emit-279-302-hulk_emmiter),(emit-196-225-hulk_smoke_emmiter),
+2 = 193,335,309,446,(emit-242-362-hulk_emmiter),(emit-263-357-hulk_emmiter),(emit-252-416-hulk_emmiter),(emit-258-416-hulk_smoke_emmiter),
+3 = 296,179,497,330,(emit-316-220-hulk_emmiter),(emit-365-225-hulk_emmiter),
+

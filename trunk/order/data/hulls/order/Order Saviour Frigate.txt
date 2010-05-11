@@ -1,0 +1,71 @@
+[config]
+classname = frigate
+name = order_saviour_frigate
+guiname = Order Saviour Frigate
+sprite = Order_Saviour_Frigate.dds
+damagetexture = Order_Saviour_Frigate_damaged.dds
+hulktexture = Order_Saviour_Frigate_hulk.dds
+width = 95
+height = 95
+powerproduced = 9
+cost = 130
+racename = order
+
+[bonuses]
+0 = POWERBOOST,0.21
+1 = SPEEDBOOST,-0.20
+2 = ARMOURBOOST,0.14
+
+[runninglights]
+0 = 103.50,12.00,204.44,2.49,1
+1 = 110.00,217.50,208.89,2.49,1
+2 = 195.00,48.00,204.44,2.49,1
+
+[engineglows]
+0 = 195.00,265.50,10.77,11.57,order_engineglow.dds,engine_debris_order,0,1.00
+
+[tractorbeams]
+0 = 238,291,325,291,58,0
+
+[pulseglows]
+0 = 64,160,128,500,Order_Saviour_Frigate_order_glow.dds
+
+[targets]
+0 = 98.50,93.00,1,1,84.00,74.50,120.50,116.50,SHIP_EMMITER_THIN,(damage_sprite_sparks-101.00-90.00),(damage_sprite_smoke-109.00-81.00),(damage_sprite_smoke-110.00-80.00),(damage_sprite_smoke-111.00-81.00),
+1 = 98.50,56.00,0,1,79.00,31.50,119.00,73.50,(damage_sprite_sparks-100.00-57.00),(damage_sprite_smoke-98.00-62.00),
+2 = 199.00,103.75,1,1,178.50,83.00,219.50,124.50,SHIP_EMMITER_THIN,(damage_sprite_sparks-197.00-103.00),
+3 = 101.50,165.00,0,1,83.50,150.50,118.00,197.00,(damage_sprite_sparks-97.00-182.00),
+4 = 211.50,190.50,0,1,199.00,175.00,229.00,203.50,(damage_sprite_sparks-211.00-190.00),(damage_sprite_smoke-212.00-189.00),
+5 = 45.00,69.50,0,1,26.00,49.00,62.00,82.00,(damage_sprite_sparks-46.00-70.00),
+6 = 179.50,151.50,0,1,162.50,131.50,190.00,169.50,(damage_sprite_sparks-179.00-149.00),
+7 = 128.00,128.00,0,0,
+8 = 51.00,178.00,1,1,32.00,158.50,67.50,199.50,SHIP_EMMITER_SMALL,(damage_sprite_sparks-48.00-178.00),
+
+[slots]
+0 = 52.00,198.00,STANDARD,
+1 = 95.50,111.50,STANDARD,
+2 = 194.00,232.50,STANDARD,
+3 = 194.00,194.50,STANDARD,
+4 = 75.00,146.50,STANDARD,
+5 = 103.00,174.50,TURRET,
+6 = 194.50,106.00,STANDARD,
+7 = 194.50,141.00,TURRET,(195.00-143.00),(194.50-161.50),
+8 = 111.00,60.50,TURRET,(110.50-62.00),(111.00-81.50),
+9 = 55.50,91.00,TURRET,
+10 = 73.50,55.50,STANDARD,
+
+[explosions]
+0 = 0.00,198.50,121.50,EXP_FRIGATE
+1 = 210.00,0.00,0.00,EXP_STARTBREAKUP
+2 = 270.00,80.00,121.50,EXP_FRIGATEDEBRIS
+3 = 200.00,77.00,149.50,EXP_FRIGATEBREAKUP
+4 = 200.00,77.50,150.50,EXP_PLUMES
+5 = 200.00,72.00,149.00,EXP_BLASTGLARE
+
+[hulks]
+0 = 70,398,139,480,
+1 = 261,74,306,207,
+2 = 316,98,455,507,(emit-397-208-hulk_emmiter),(emit-357-299-hulk_emmiter),(emit-420-379-hulk_emmiter),(emit-401-219-hulk_smoke_emmiter),
+3 = 457,156,478,295,
+4 = 38,4,258,396,(emit-189-103-hulk_emmiter),(emit-100-357-hulk_emmiter),(emit-207-330-hulk_emmiter),(emit-197-187-hulk_emmiter),(emit-89-138-hulk_emmiter),(emit-99-365-hulk_smoke_emmiter),(emit-194-117-hulk_smoke_emmiter),(emit-196-360-hulk_emmiter),
+

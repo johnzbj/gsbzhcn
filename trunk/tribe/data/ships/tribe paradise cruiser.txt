@@ -1,0 +1,22 @@
+[config]
+name = _tribe paradise cruiser 
+guiname = Tribe Paradise Cruiser 
+hull = Tribe Paradise Cruiser hull 
+
+[modules]
+0 = cruiser shield multiphasic,
+1 = crsr_tribe_enhanced_repair,
+2 = cruiser_ecm shock,
+3 = cruiser_ecm shock,
+4 = csr_tribe_howitzer,
+5 = csr_tribe_howitzer,
+6 = csr_tribe_howitzer,
+7 = csr_tribe_howitzer,
+8 = csr_tribe_autocannon,
+9 = cruiser_engine IV,
+10 = cruiser power,
+11 = cruiser crew II,
+12 = cruiser power,
+13 = cruiser_engine IV,
+14 = cruiser_engine IV,
+15 = cruiser missile multiple,

@@ -1,0 +1,63 @@
+[config]
+classname = frigate
+name = Swarm Anubis Frigate
+guiname = Swarm Anubis Frigate Hull
+sprite = Swarm Anubis Frigate.dds
+damagetexture = Swarm Anubis Frigate_damaged.dds
+hulktexture = Swarm Anubis Frigate_hulk.dds
+width = 90
+height = 90
+powerproduced = 9
+cost = 135
+racename = swarm
+
+[bonuses]
+0 = INTEGRITYBOOST,-0.05
+1 = ARMOURBOOST,-0.05
+2 = SHIELDBOOST,-0.05
+3 = COSTBOOST,-0.20
+4 = SPEEDBOOST,0.15
+
+[runninglights]
+0 = 58.00,164.50,240.00,3.38,1
+1 = 198.00,164.50,240.00,3.42,0
+
+[engineglows]
+0 = 106.00,234.50,9.23,10.37,swarm_engineglow.dds,alliance_engine_debris,0,1.00
+1 = 150.00,234.50,9.23,10.37,swarm_engineglow.dds,alliance_engine_debris,0,1.00
+
+[targets]
+0 = 126.00,208.00,0,1,106.00,189.50,148.00,222.00,(damage_sprite_sparks-125.00-209.00),
+1 = 158.50,160.00,0,1,147.50,146.50,173.00,174.00,(damage_sprite_sparks-160.00-159.00),(damage_sprite_smoke-160.00-160.00),
+2 = 128.50,172.00,0,1,115.00,154.50,138.50,188.00,(damage_sprite_sparks-128.00-174.00),
+3 = 111.50,136.00,0,1,98.50,120.00,126.50,148.00,(damage_sprite_sparks-111.00-137.00),
+4 = 92.00,161.50,0,1,74.50,149.50,106.00,172.50,(damage_sprite_sparks-93.00-161.00),(damage_sprite_smoke-90.00-160.00),
+5 = 130.50,72.50,0,1,112.50,51.00,146.00,90.50,(damage_sprite_sparks-129.00-70.00),
+
+[slots]
+0 = 128.00,225.00,TURRET,
+1 = 115.50,103.00,TURRET,
+2 = 128.00,164.00,TURRET,(94.00-150.00),(161.00-150.00),
+3 = 67.00,187.00,STANDARD,
+4 = 35.00,187.00,STANDARD,
+5 = 189.00,187.00,STANDARD,
+6 = 221.00,187.00,STANDARD,
+7 = 129.50,136.50,STANDARD,
+8 = 114.00,193.50,STANDARD,
+9 = 142.00,193.50,STANDARD,
+10 = 140.50,102.50,TURRET,
+
+[explosions]
+0 = 0.00,128.00,81.50,EXP_FRIGATE
+1 = 210.00,0.00,0.00,EXP_STARTBREAKUP
+2 = 270.00,128.00,140.50,EXP_FRIGATEDEBRIS
+3 = 200.00,149.50,167.50,EXP_FRIGATEBREAKUP
+4 = 200.00,127.50,174.50,EXP_PLUMES
+5 = 200.00,104.00,168.50,EXP_BLASTGLARE
+
+[hulks]
+0 = 0,282,191,463,
+1 = 192,223,419,478,(emit-255-344-hulk_emmiter),(emit-251-416-hulk_emmiter),(emit-318-319-hulk_emmiter),(emit-223-274-hulk_emmiter),(emit-264-411-hulk_smoke_emmiter),
+2 = 423,319,512,413,
+3 = 204,28,308,219,(emit-264-144-hulk_emmiter),(emit-260-153-hulk_smoke_emmiter),
+

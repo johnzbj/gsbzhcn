@@ -1,0 +1,21 @@
+[config]
+name = _swarm sekhmet cruiser 
+guiname = Swarm Sekhmet Cruiser 
+hull = Swarm Sekhmet Cruiser hull 
+
+[modules]
+0 = cruiser_smart_bomb,
+1 = cruiser_laser,
+2 = cruiser_laser,
+3 = cruiser crew II,
+4 = cruiser_engine V,
+5 = cruiser_armour III,
+6 = cruiser_laser,
+7 = swarm disruptor beam,
+8 = cruiser power III,
+9 = cruiser shield reflective,
+10 = cruiser_engine V,
+11 = cruiser shield reflective,
+12 = cruiser reinforced power II,
+13 = cruiser_laser,
+14 = cruiser_laser,

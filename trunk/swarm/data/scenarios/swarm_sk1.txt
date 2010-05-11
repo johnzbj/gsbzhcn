@@ -1,0 +1,27 @@
+[config]
+gui_id = 20
+backdrop = swarm_backdrop1.jpg
+icon = swarm_backdrop1_icon.jpg
+name = swarm_sk1
+guiname = Gateway To Oblivion
+mapsizex = 3000.0000
+mapsizey = 3000.0000
+starfield = 1
+fleetcostlimit = 15000
+pilotlimit = 50
+enemyrace = swarm
+shader = data/shaders/default_noeffect.fx
+size = medium
+unlocked_after
+type = SKIRMISH
+player_deployment = 10,100,1000,2900
+ai_deployment = 2000,100,2900,2900
+lightningintensity = 0.34
+lightninginterval = 3600
+
+[variables]
+ENGINES_REQUIRED
+_sl_cruiser_defence laser,2
+_sl_cruiser_laser,20
+_sl_cruiser light plasma,0
+

@@ -1,0 +1,26 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_CrewModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "frigate crew swarm"
+guiname = "Swarm Crew Nest"
+description = "How many swarm crewmembers can you fit in a telephone box? Judging from the number of bunks tethered to this crew nest, the answer is 'lots'."
+weight = 40
+cost = 44
+hitpoints = 11
+icon = module_crew_swarm_frigate.dds
+crew_required = 0
+powerconsumed = 1.1
+restricted = "swarm"
+crewsupply = 89
+slot_type = STANDARD
+uisortpos = 4022
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = crewsupply,INTEGER
+4 = powerconsumed,DECIMAL

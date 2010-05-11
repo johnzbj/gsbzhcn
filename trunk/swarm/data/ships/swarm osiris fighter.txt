@@ -1,0 +1,9 @@
+[config]
+name = _swarm osiris fighter 
+guiname = Swarm Osiris Fighter 
+hull = Swarm Osiris Fighter 
+
+[modules]
+0 = fighter_rocket,
+1 = fighter power,
+2 = fighter_engine III,

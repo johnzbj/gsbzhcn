@@ -1,0 +1,64 @@
+[config]
+classname = frigate
+name = Tribe Unity Frigate hull
+guiname = Tribe Unity Frigate hull
+sprite = Tribe Unity Frigate.dds
+damagetexture = Tribe Unity Frigate_damaged.dds
+hulktexture = Tribe Unity Frigate_hulk.dds
+width = 100
+height = 100
+powerproduced = 9
+cost = 115
+racename = tribe
+unlockcost = 0
+lockable = 0
+
+[bonuses]
+0 = ARMOURBOOST,-0.5
+1 = SHIELDBOOST,-0.5
+2 = INTEGRITYBOOST,1.0
+
+[runninglights]
+0 = 253.00,160.00,228.89,4.00,0
+1 = 3.00,160.00,228.89,4.00,1
+2 = 128.00,7.00,228.89,4.00,3
+
+[engineglows]
+0 = 166.00,249.00,18.00,18.00,TRIBE
+1 = 90.00,249.00,18.00,18.00,TRIBE
+
+[targets]
+0 = 42.50,110.75,0,1,14.50,84.00,70.50,137.50,(damage_sprite_smoke-42.00-98.00),(damage_sprite_sparks-41.00-98.00),(damage_sprite_sparks-41.00-111.00),(damage_sprite_sparks-47.00-112.00),(damage_sprite_sparks-36.00-118.00),(damage_sprite_sparks-46.00-121.00),(damage_sprite_smoke-41.00-108.00),(damage_sprite_smoke-41.00-98.00),
+1 = 93.50,54.50,0,1,69.50,40.00,113.50,78.00,(damage_sprite_sparks-88.00-58.00),(damage_sprite_sparks-96.00-62.00),(damage_sprite_smoke-89.00-58.00),(damage_sprite_smoke-96.00-59.00),
+2 = 77.75,219.50,0,1,65.50,207.50,90.00,231.50,(damage_sprite_sparks-77.00-221.00),(damage_sprite_smoke-77.00-219.00),
+3 = 91.00,184.00,0,1,68.50,158.50,108.00,198.50,(damage_sprite_sparks-87.00-179.00),(damage_sprite_smoke-84.00-178.00),(damage_sprite_smoke-91.00-174.00),(damage_sprite_smoke-92.00-186.00),
+4 = 170.25,208.75,0,1,152.00,192.50,188.50,225.00,(damage_sprite_sparks-165.00-210.00),(damage_sprite_sparks-173.00-211.00),(damage_sprite_smoke-165.00-209.00),(damage_sprite_smoke-175.00-214.00),
+5 = 141.50,134.50,0,1,127.50,116.50,163.00,164.00,(damage_sprite_sparks-142.00-135.00),(damage_sprite_sparks-143.00-148.00),(damage_sprite_smoke-140.00-132.00),(damage_sprite_smoke-143.00-148.00),(damage_sprite_smoke-141.00-140.00),
+6 = 198.50,114.00,0,1,181.50,90.50,226.50,127.50,(damage_sprite_sparks-196.00-105.00),(damage_sprite_sparks-210.00-113.00),(damage_sprite_smoke-197.00-115.00),
+7 = 159.00,63.00,0,1,143.50,43.00,178.00,80.00,(damage_sprite_sparks-154.00-66.00),(damage_sprite_sparks-163.00-62.00),(damage_sprite_smoke-157.00-61.00),(damage_sprite_smoke-156.00-60.00),(damage_sprite_smoke-164.00-65.00),
+
+[slots]
+0 = 128.00,78.50,TURRET,
+1 = 167.00,177.00,STANDARD,
+2 = 88.00,177.00,STANDARD,
+3 = 88.00,208.00,STANDARD,
+4 = 167.00,208.00,STANDARD,
+5 = 167.00,80.00,STANDARD,
+6 = 128.00,177.00,STANDARD,
+7 = 85.00,80.00,STANDARD,
+8 = 43.00,128.00,TURRET,(78.00-118.00),(78.00-140.00),
+9 = 213.00,128.00,TURRET,(178.00-118.00),(178.00-140.00),
+
+[explosions]
+0 = 0,128,80,EXP_FRIGATE
+1 = 210,0,0,EXP_STARTBREAKUP
+2 = 270,128,128,EXP_FRIGATEDEBRIS
+3 = 400,185,149,EXP_FRIGATEBREAKUP
+4 = 400,185,149,EXP_PLUMES
+5 = 400,185,149,EXP_BLASTGLARE
+
+[hulks]
+0 = 14,229,225,508,(emit-169-356-hulk_emmiter),(emit-183-348-hulk_emmiter),(emit-155-439-hulk_emmiter),(emit-184-373-hulk_smoke_emmiter),
+1 = 231,229,487,509,(emit-280-265-hulk_emmiter),(emit-287-297-hulk_emmiter),(emit-331-418-hulk_emmiter),(emit-351-428-hulk_emmiter),(emit-282-281-hulk_smoke_emmiter),
+2 = 46,56,454,222,(emit-83-197-hulk_emmiter),(emit-179-117-hulk_emmiter),(emit-313-121-hulk_emmiter),(emit-329-130-hulk_smoke_emmiter),(emit-192-119-hulk_smoke_emmiter),
+

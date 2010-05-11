@@ -1,0 +1,52 @@
+[config]
+unlockcost = 0
+lockable = 0
+category = "WEAPONS"
+classname = "SIM_LimpetLauncher"
+cost = 124
+crew_required = 8
+description = "Those pesky fighters are sometimes too fast, but the limpet mine launcher attaches small but heavy drones to enemy fighters, making them easy to hit."
+fire_interval = 2000
+guiname = "Cruiser Limpet Launcher"
+hitpoints = 100
+icon = turret
+min_range = 90
+max_range = 600
+name = "cruiser_limpet_launcher"
+optimum_range = 500
+powerconsumed = 10
+shield_penetration = 6
+size = "CRUISER"
+sound = order/data/sounds/radiationgun.ogg
+soundvolume = 1.0
+speed = 9.4
+tracking_speed = 0.81
+turret_sprite = "turret_plasma_v1"
+turretsize = 12.0
+weight = 135
+limpetsize = 4.0
+slot_type = TURRET
+uisortpos = 1083
+end_launch_speed = 0.4
+start_launch_speed = 2.0
+launch_duration = 200
+seek_acceleration = 0.01
+max_seek_speed = 3.0
+drift_decelleration = 0.01
+seek_range = 500
+limpet_weight = 7.1
+turnspeed = 7.0
+restricted = "order"
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = max_range,DECIMAL
+5 = fire_interval,INTEGER
+6 = tracking_speed,DECIMAL
+7 = crew_required,INTEGER
+8 = optimum_range,DECIMAL
+9 = min_range,DECIMAL
+

@@ -1,0 +1,35 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_SmartBombModule"
+category = "DEFENSES"
+size = "CRUISER"
+name = "cruiser_smart_bomb"
+guiname = "Smart Bomb Pulse Generator"
+description = "Sometimes there are just too many missiles to shoot down. The SBPG sends out a pulse if too many are incoming which detonates most of them, sadly including friendly ones."
+weight = 79
+hitpoints = 55
+cost = 188
+icon = module_smartbomb.dds
+crew_required = 5
+powerconsumed = 11
+slot_type = STANDARD
+stack_effectiveness = 1.0
+uisortpos = 2295
+max_range = 300
+sb_trigger_percentage = 0.85
+fire_interval = 2800
+restricted = "swarm"
+sound = "swarm/data/sounds/smartbomb.ogg"
+soundvolume = 0.6
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = max_range,DECIMAL
+6 = fire_interval,INTEGER
+7 = sb_trigger_percentage,DECIMAL
+

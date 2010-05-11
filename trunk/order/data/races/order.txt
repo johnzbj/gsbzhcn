@@ -1,0 +1,122 @@
+[config]
+name = "order"
+guiname = "Order"
+logo = "order.jpg"
+debrisstartuv = 96
+debrisenduv = 128
+escapepodid = 1
+shield = "order_shield.dds"
+description = "In the beginning of the universe, the one true god created the planets as home for the order, and plants as food for the order, and he created rivers from which the order would drink, and animals which the order would use as trusty steeds and faithful pets. Clearly all of creation is gods bounty for the order to make use of. As it happens, the one true god had not written in the holy book why he had created species from other worlds, so the order has assumed they were created for target practice. Any suggestion that they may have other uses is clearly heresy."
+repairbotid = 0
+contrailid = 3
+music = federation_battle.ogg
+shieldcollapseuv = 0
+defaultnames = ordernames
+guiid = 5
+lockable = 0
+unlockcost = 0
+unlock_texture = "Order_Temple_Cruiser.dds"
+
+[turrets]
+turret_auto_v1 = order_turret_auto1.dds,turrets_order.dds,0
+turret_auto_v2 = order_turret_auto2.dds,turrets_order.dds,1
+turret_auto_v3 = order_turret_auto3.dds,turrets_order.dds,2
+turret_auto_v4 = order_turret_auto4.dds,turrets_order.dds,3
+turret_auto_v5 = order_turret_auto5.dds,turrets_order.dds,4
+turret_auto_v6 = order_turret_auto5.dds,turrets_order.dds,5
+
+turret_bull_v1 = order_turret_gun1.dds,turrets_order.dds,6
+turret_bull_v2 = order_turret_gun2.dds,turrets_order.dds,7
+turret_bull_v3 = order_turret_gun3.dds,turrets_order.dds,8
+turret_bull_v4 = order_turret_gun4.dds,turrets_order.dds,9
+
+turret_las_v1 = order_turret_las1.dds,turrets_order.dds,11
+turret_las_v2 = order_turret_las2.dds,turrets_order.dds,12
+turret_las_v3 = order_turret_las3.dds,turrets_order.dds,13
+turret_las_v4 = order_turret_las4.dds,turrets_order.dds,14
+turret_las_v5 = order_turret_las5.dds,turrets_order.dds,15
+
+turret_miss_v1 = order_turret_mis1.dds,turrets_order.dds,19
+turret_miss_v2 = order_turret_mis2.dds,turrets_order.dds,20
+turret_miss_v3 = order_turret_mis3.dds,turrets_order.dds,21
+turret_miss_v4 = order_turret_mis4.dds,turrets_order.dds,22
+turret_miss_v5 = order_turret_mis4.dds,turrets_order.dds,22
+
+turret_pd_v1 = order_turret_pd1.dds,turrets_federation.dds,24
+turret_pd_v2 = order_turret_pd2.dds,turrets_federation.dds,25
+
+tractor_turret_v1 = order_turret_tract1.dds,turrets_order.dds,26
+tractor_turret_v2 = order_turret_tract2.dds,turrets_order.dds,27
+
+turret_plasma_v1 = order_turret_lim1.dds,turrets_order.dds,17
+turret_plasma_v2 = order_turret_lim1.dds,turrets_order.dds,17
+turret_plasma_v3 = order_turret_lim2.dds,turrets_order.dds,18
+turret_plasma_v4 = order_turret_lim2.dds,turrets_order.dds,18
+
+turret_ecm_v1 = order_turret_las6.dds,turrets_order.dds,16
+
+[victory_messages]
+0 = "An excellent victory. Glory be to the one true god, who is responsible for success in all things. I guess you did some good work too..."
+1 = "A spectacular triumph over the unbelievers, who are now mere ashes and dust. Unlike us true believers who obviously have souls."
+2 = "Excellent work. That will show those heathen aliens that nobody can oppose the will of the gods!"
+3 = "We knew you could do it, for is it not written that the devout shalt blast thy enemies into space rubble?"
+
+[defeat_messages]
+0 = "A crushing defeat. Perhaps you have not been spending enough time in prayer to the one true god?"
+1 = "What horrible sins have you committed such that the one true god would curse you with this defeat?"
+2 = "Truly your faith must be weak if it could not carry you to victory against these heathen aliens."
+3 = "The one true god moves in mysterious ways indeed if he wishes us to fail in battle against such heathens."
+4 = "This is a savage victory for the heathens, and a black day for our faith. I can only pray that the one true god has mercy upon you."
+
+[crew]
+0 = "Chodrak"
+1 = "Asanga"
+2 = "Ashoka"
+3 = "Samdup"
+4 = "Tenzing"
+5 = "Thokmay"
+6 = "Chodag"
+7 = "Tonpo"
+8 = "Dhadul"
+9 = "Dakpa"
+10 = "Nyima"
+11 = "Dadul"
+12 = "Sangmo"
+13 = "Wangchu"
+14 = "Dhargay"
+15 = "Rinzai"
+16 = "Faziang"
+17 = "Dogon"
+18 = "Lhundrup"
+19 = "Gyaltsen"
+20 = "Faxiang"
+21 = "Gelek"
+22 = "Kalsang"
+23 = "Khandro"
+24 = "Kukai"
+25 = "Kushan"
+26 = "Lobsang"
+27 = "Luipa"
+28 = "Mahayana"
+29 = "Yogacara"
+30 = "Yangzom"
+31 = "Yeshi"
+32 = "Wangchen"
+33 = "Tsultrim"
+34 = "Palgor"
+35 = "Nikko"
+36 = "Dawa"
+37 = "Pali"
+38 = "Tselha"
+39 = "Phuntsok"
+40 = "Milinda"
+41 = "Parthian"
+42 = "Obako"
+43 = "Shingon"
+44 = "Zhiyi"
+45 = "Rigzin"
+46 = "Ugyen"
+47 = "Sariputta"
+48 = "Sherab"
+49 = "Samten"
+50 = "Rinzik"

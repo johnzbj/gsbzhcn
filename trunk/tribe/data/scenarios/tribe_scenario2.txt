@@ -1,0 +1,25 @@
+[config]
+gui_id = 17
+backdrop = "tribe_scenario2.jpg"
+icon = "tribe_scenario2_icon.jpg"
+name = "tribe_scenario2"
+guiname = "Ambush at Tantalaq"
+mapsizex = 2600
+mapsizey = 2600
+player_deployment = 10,150,700,2450
+ai_deployment = 1800,100,2500,2500
+starfield = 0
+fleetcostlimit = 12000
+pilotlimit = 50
+enemyrace = tribe
+shader = ""
+description = "No spatial anomalies"
+size = "medium"
+
+[variables]
+ENGINES_REQUIRED
+SHIELDS_INOPERABLE
+
+
+
+

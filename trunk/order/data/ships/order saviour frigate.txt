@@ -1,0 +1,17 @@
+[config]
+name = _order saviour frigate 
+guiname = Order Saviour Frigate 
+hull = order_saviour_frigate 
+
+[modules]
+0 = frigate_engine III,
+1 = frigate turboshield,
+2 = frigate_engine II,
+3 = frigate crew II,
+4 = frigate power II,
+5 = frigate power II,
+6 = frigate_armour IV,
+7 = frigate_beamlaser,
+8 = frigate_beamlaser,
+9 = frigate_beamlaser,
+10 = frigate crew micro,

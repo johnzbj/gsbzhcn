@@ -1,0 +1,10 @@
+[config]
+name = _tribe serenity bomber 
+guiname = Tribe Serenity Bomber 
+hull = Tribe Serenity Fighter 
+
+[modules]
+0 = fighter_engine III,
+1 = fighter_engine II,
+2 = fighter torpedo,
+3 = fighter power,

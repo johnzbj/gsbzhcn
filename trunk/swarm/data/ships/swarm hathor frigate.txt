@@ -1,0 +1,16 @@
+[config]
+name = _swarm hathor frigate 
+guiname = Swarm Hathor Frigate 
+hull = Swarm Hathor Frigate 
+
+[modules]
+0 = frigate plasma,
+1 = frigate power III,
+2 = frigate crew,
+3 = frigate plasma,
+4 = frigate plasma,
+5 = frigate_engine III,
+6 = frigate turboshield,
+7 = frigate_armour V,
+8 = frigate crew,
+9 = frigate_engine III,

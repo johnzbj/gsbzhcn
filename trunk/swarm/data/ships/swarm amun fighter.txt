@@ -1,0 +1,10 @@
+[config]
+name = _swarm amun fighter 
+guiname = Swarm Amun Fighter 
+hull = Swarm Amun Fighter 
+
+[modules]
+0 = fighter_armour IV,
+1 = fighter_fusion gun,
+2 = fighter_engine II,
+3 = fighter power II,

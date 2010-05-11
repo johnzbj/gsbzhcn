@@ -1,0 +1,17 @@
+[config]
+name = _tribe tranquility frigate 
+guiname = Tribe Tranquility Frigate 
+hull = Tribe Tranquility Frigate hull 
+
+[modules]
+0 = frigate fastmissile,
+1 = frigate crew,
+2 = frg_tribe_repair,
+3 = frigate ecm shock missile,
+4 = frigate_engine II,
+5 = frigate_engine II,
+6 = frigate turboshield,
+7 = frigate missile,
+8 = frigate power,
+9 = frigate_armour III,
+10 = frigate crew,

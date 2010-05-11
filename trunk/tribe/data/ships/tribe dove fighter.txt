@@ -1,0 +1,9 @@
+[config]
+name = _tribe dove fighter 
+guiname = Tribe Dove Fighter 
+hull = Tribe Dove Fighter 
+
+[modules]
+0 = fighter_laser,
+1 = fighter_engine III,
+2 = fighter power III,

@@ -1,0 +1,32 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_RepairModule"
+category = "OTHER"
+size = "CRUISER"
+name = "crsr_tribe_enhanced_repair"
+guiname = "Tribal Repair System"
+description = "It's true that the tribe build things to last anyway, but they also have some of the best auto-repair modules that money can buy."
+weight = 75
+hitpoints = 109
+cost = 170
+icon = module_tribe_repair.dds
+crew_required = 26
+peace_interval = 150
+repair_rate = 0.15
+restricted = "tribe"
+powerconsumed = 5.4
+slot_type = STANDARD
+stack_effectiveness = 0.9
+maxrepairsupplies = 1040
+uisortpos = 4122
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = repair_rate,DECIMAL
+6 = maxrepairsupplies,INTEGER
+
