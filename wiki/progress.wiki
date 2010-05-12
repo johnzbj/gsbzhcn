@@ -7,7 +7,7 @@
  # 预计完成的时间
  # 自己的ID
 
-文本可从这里下载：http://code.google.com/p/gsbzhcn/source/browse/#svn/trunk
+文本可从这里下载：http://gsbzhcn.googlecode.com/svn/trunk/<br>
 或者使用SVN导出项目文件，SVN使用方法请自行google之。
 
 翻译完成后，通过QQ 或者 mail 上传文件给项目管理者。
