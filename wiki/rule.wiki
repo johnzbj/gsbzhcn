@@ -33,3 +33,9 @@ CHALLENGES_MAIN_MENU			= "主菜单"
 
 == 翻译风格 ==
   请使用统一的术语，词汇表下载地址: http://gsbzhcn.googlecode.com/svn/trunk/glossary.xls
+
+== 其他事项 ==
+  对于翻译时，自己不能确定的部分，请在字符串前加上3个*全角问号*，以方便后继者。例：
+{{{
+CHALLENGES_MAIN_MENU			= "？？？主菜单"
+}}}
