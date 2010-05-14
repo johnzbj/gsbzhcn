@@ -50,16 +50,24 @@ turret_plasma_v4 = plasma_turret_v3.dds,turrets_federation.dds,26
 turret_ecm_v1 = fed_turret_ecm_v1.dds,turrets_federation.dds,31
 
 [victory_messages]
-0 = "A thoroughly profitable victory! Your market worth will rise appropriately on the federation stock market."
-1 = "Excellent work! I'm sure that your military genius will lead to substantial profits for your department!"
-2 = "Not bad at all. Personally I bet my money on the opposition, but hey, it's just business right?"
-3 = "An excellent victory. And this is just the start. Think victory hats, victory mouse-mats, the works!"
+#0 = "A thoroughly profitable victory! Your market worth will rise appropriately on the federation stock market."
+0 = "一场完胜！你的市值会在联邦的股市上适当上扬。"
+#1 = "Excellent work! I'm sure that your military genius will lead to substantial profits for your department!"
+1 = "干得好！我确定你的军事天才会为你的部门带来数量可观的利润！"
+#2 = "Not bad at all. Personally I bet my money on the opposition, but hey, it's just business right?"
+2 = "还不赖。虽然，我把注压在了对方身上，但是这只是公事公办，对吗？"
+#3 = "An excellent victory. And this is just the start. Think victory hats, victory mouse-mats, the works!"
+3 = "一场精彩的胜利，而这仅仅是开始。想想你从头到脚都是战利品，帅呆了！"
 
 [defeat_messages]
-1 = "Many federation lives lost, and worse still, a huge financial loss. Those spaceships aren't cheap you know...."
-2 = "This is a disaster. How is a military defeat like this going to look on our profit projections?"
-3 = "In retrospect, I'm not sure going with the lowest bidder for those spaceship hulls was such a smart move."
-4 = "Yes your fleet was pulverized, but the good news is we made a killing on the TV rights to the battle."
+#1 = "Many federation lives lost, and worse still, a huge financial loss. Those spaceships aren't cheap you know...."
+1 = "许多联邦成员失去了生命，还有更糟的——巨大的经济损失。你知道那些太空飞船并不便宜……"
+#2 = "This is a disaster. How is a military defeat like this going to look on our profit projections?"
+2 = "这是一场灾难。如何让这样的军事失败，出现在我们的利润预期表上？"
+#3 = "In retrospect, I'm not sure going with the lowest bidder for those spaceship hulls was such a smart move."
+3 = "回顾过去，我不确定把生意交给报价最低的船队，是明智之举。"
+#4 = "Yes your fleet was pulverized, but the good news is we made a killing on the TV rights to the battle."
+4 = "是的，你的舰队被彻底击败了，但是好消息是我们在电视版权上大赚了一笔。"
 
 [crew]
 0 = "Hank"
