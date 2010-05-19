@@ -1,14 +1,14 @@
 token,name,guiname,description,slider1valid?,slider2valid?,target,slider1guiname,slider2guiname,slid1type,slid2type,slider1min,slider1max,slider2min,slider2max,default1,default2
-#,ATTACK_FIGHTERS,Attack Fighters,"Engage enemy fighters with the given priority and ideal range. To avoid engaging these ships, delete this behavior.",1,1,0,Priority,Move to attack at this range,PERCENTAGE,FLOAT,0.01,1,100,2000,0.5,200
-#,ATTACK_FRIGATES,Attack Frigates,"Engage enemy frigates with the given priority and ideal range. To avoid engaging these ships, delete this behavior.",1,1,0,Priority,Move to attack at this range,PERCENTAGE,FLOAT,0.01,1,100,2000,0.5,600
-#,ATTACK_CRUISERS,Attack Cruisers,"Engage enemy cruisers with the given priority and ideal range. To avoid engaging these ships, delete this behavior.",1,1,0,Priority,Move to attack at this range,PERCENTAGE,FLOAT,0.01,1,100,2000,0.5,900
-#,CO_OPERATIVE,Co-operative,Concentrate fire on ships selected as targets by your fellow ships,0,0,0,,,,,,,,,,
-#,VULTURE,Vulture,Concentrate fire on enemy ships that are already badly damaged in an effort to finish them off,0,0,0,,,,,,,,,,
-#,CAUTIOUS,Cautious,Retreat from the front line if you are taking too much damage,1,0,0,Retreat At Damage,,PERCENTAGE,,0.01,1,,,0.25,
-#,RESCUER,Rescuer,"Concentrate fire on enemy ships who are attacking our fellow ships, to save them from defeat",0,0,0,,,,,,,,,,
-#,PROTECTIVE,Protector,Concentrate fire on enemy ships that are attacking a specific named ship,0,0,1,,,,,,,,,,
-#,ESCORT,Escort,Stay within a certain distance from a named friendly ship. Incompatible with the formation or keep moving orders. (Shortcut to add order is shift+E),1,0,1,Range,,FLOAT,,100,600,,,100,
-#,FORMATION,Formation,"Maintain set position, where possible from named friendly ship. Incompatible with the escort or keep moving orders. (Shortcut to add order is shift+F)",0,0,1,,,,,,,,,,
-#,RETALIATE,Retaliate,Return fire against anyone attacking your ship,0,0,0,,,,,,,,,,
-#,KEEPMOVING,Keep Moving,Continually move to a new location within range of your target so as not to be a sitting duck. This is incompatible with the escort or Formation orders.,0,0,0,,,,,,,,,,
-#,STICKTOGETHER,Stick Together,Keep the members of this squadron in close proximity to the squad leader,1,0,0,Seperation,,FLOAT,,12,48,,,14,
+#,ATTACK_FIGHTERS,攻击战斗机,"与敌方战斗机交战的优先级和理想范围。删除该命令，可避免与其交火。",1,1,0,优先级,在此范围内则进行攻击,PERCENTAGE,FLOAT,0.01,1,100,2000,0.5,200
+#,ATTACK_FRIGATES,攻击驱逐舰,"与敌方驱逐舰交战的优先级和理想范围。删除该命令，可避免与其交火。",1,1,0,优先级,在此范围内则进行攻击,PERCENTAGE,FLOAT,0.01,1,100,2000,0.5,600
+#,ATTACK_CRUISERS,攻击巡洋舰,"与敌方巡洋舰交战的优先级和理想范围。删除该命令，可避免与其交火。",1,1,0,优先级,在此范围内则进行攻击,PERCENTAGE,FLOAT,0.01,1,100,2000,0.5,900
+#,CO_OPERATIVE,合作,"集中火力攻击目标舰船。",0,0,0,,,,,,,,,,
+#,VULTURE,围攻,"集中火力攻击严重受损的舰船，尽量击毁它们。",0,0,0,,,,,,,,,,
+#,CAUTIOUS,谨慎,"如果损伤严重，就撤离战场。",1,0,0,Retreat At Damage,,PERCENTAGE,,0.01,1,,,0.25,
+#,RESCUER,救援,"集中火力在那些正在攻击我方舰船的敌舰上。",0,0,0,,,,,,,,,,
+#,PROTECTIVE,保护,"集中火力在那些正在攻击某一被保护舰船的敌舰上。",0,0,1,,,,,,,,,,
+#,ESCORT,护航,"仅在某一友舰周围活动。 不兼容于“编队”和“保持移动”命令。(快捷键  shift+E)",1,0,1,范围,,FLOAT,,100,600,,,100,
+#,FORMATION,编队,"尽可能保持与友舰之间的位置。不兼容于“护航”和“保持移动”命令。(快捷键 shift+F)",0,0,1,,,,,,,,,,
+#,RETALIATE,还击,"对任何攻击行为予以反击。",0,0,0,,,,,,,,,,
+#,KEEPMOVING,保持移动,"在目标射程内持续移动，以免变成活靶子。不兼容于“护航”和“编队”命令。",0,0,0,,,,,,,,,,
+#,STICKTOGETHER,密集队形,"飞行中队的每一成员都紧跟长机",1,0,0,间距,,FLOAT,,12,48,,,14,
