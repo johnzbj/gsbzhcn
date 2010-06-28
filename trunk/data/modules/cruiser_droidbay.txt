@@ -5,8 +5,10 @@ classname = "SIM_CrewModule"
 category = "OTHER"
 size = "CRUISER"
 name = "cruiser droidbay"
-guiname = "Droid Bay"
-description = "Crew are great, and we love having them around, but those crew quarters weigh a ton. Imagine how much lighter the ship could be with robot crew?"
+#guiname = "Droid Bay"
+guiname = "机器人船员仓"
+#description = "Crew are great, and we love having them around, but those crew quarters weigh a ton. Imagine how much lighter the ship could be with robot crew?"
+description = "船员们是好的，并且我们喜欢他们在我们周围，但是这些船员宿舍重达一吨，想象一下有机器人船员的船会有多轻？"
 weight = 49
 cost = 120
 hitpoints = 115
@@ -23,3 +25,4 @@ uisortpos = 4050
 2 = hitpoints,DECIMAL
 3 = crewsupply,INTEGER
 4 = powerconsumed,DECIMAL
+
