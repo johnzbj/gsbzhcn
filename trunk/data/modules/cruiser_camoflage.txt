@@ -5,8 +5,10 @@ classname = "SIM_CamoflageShieldModule"
 category = "DEFENSES"
 size = "CRUISER"
 name = "crusier_camoflage"
-guiname = "Cruiser Camouflage Shield"
-description = "This device makes your ship nearly invisible for short periods. You can't fire whilst active, but you can combine it with repair systems and then repair in relative safety mid-battle."
+#guiname = "Cruiser Camouflage Shield"
+guiname = "巡洋舰迷彩护盾"
+#description = "This device makes your ship nearly invisible for short periods. You can't fire whilst active, but you can combine it with repair systems and then repair in relative safety mid-battle."
+description = "此装置可以是你的船在短时间内接近隐形，在此期间你不能开火，但是你可以把它同修复系统一起运作，这样你就可以在战斗中相对安全的修复了。"
 weight = 160
 hitpoints = 440
 cost = 220
@@ -25,4 +27,3 @@ uisortpos = 2190
 2 = hitpoints,DECIMAL
 3 = crew_required,INTEGER
 4 = powerconsumed,DECIMAL
-

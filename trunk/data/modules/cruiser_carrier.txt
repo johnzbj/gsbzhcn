@@ -5,8 +5,10 @@ classname = "SIM_CarrierModule"
 category = "OTHER"
 size = "CRUISER"
 name = "cruiser_carrier"
-guiname = "Carrier Support Bay"
-description = "Fighter pilots always end up damaging the things, so be sure to invest in this portable fighter-repair yard to patch them up mid-battle. Ensure you order the pilots to be cautious."
+#guiname = "Carrier Support Bay"
+guiname = "便携补充船坞"
+#description = "Fighter pilots always end up damaging the things, so be sure to invest in this portable fighter-repair yard to patch them up mid-battle. Ensure you order the pilots to be cautious."
+description = "战斗机飞行员总是最终损坏他们的飞机，所以确保装备这种便携式战斗机修理船坞来在战斗中修复他们，为了保护飞行员的安全，必须加倍小心。"
 weight = 135
 hitpoints = 105
 cost = 150
@@ -27,3 +29,4 @@ uisortpos = 4112
 4 = crew_required,INTEGER
 5 = repair_rate,DECIMAL
 6 = maxrepairsupplies,INTEGER
+

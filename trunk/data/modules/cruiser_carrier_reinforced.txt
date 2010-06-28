@@ -5,8 +5,10 @@ classname = "SIM_CarrierModule"
 category = "OTHER"
 size = "CRUISER"
 name = "cruiser_carrier_reinforced"
-guiname = "Carrier Bay (Reinforced)"
-description = "A more thoroughly constructed and beefier carrier support bay for patching up damaged fighters mid-battle. Be sure to give them cautious orders."
+#guiname = "Carrier Bay (Reinforced)"
+guiname = "便携船坞（加强版）"
+#description = "A more thoroughly constructed and beefier carrier support bay for patching up damaged fighters mid-battle. Be sure to give them cautious orders."
+description = "更加彻底的在战斗中修复损坏的战斗机的便携式补充船坞，一定要谨慎的给他们下订单。"
 weight = 145
 hitpoints = 155
 cost = 180
@@ -27,3 +29,4 @@ uisortpos = 4113
 4 = crew_required,INTEGER
 5 = repair_rate,DECIMAL
 6 = maxrepairsupplies,INTEGER
+
