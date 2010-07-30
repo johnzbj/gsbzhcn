@@ -1,12 +1,17 @@
 [config]
 name = "alliance"
-guiname = "Alliance"
+#guiname = "Alliance"
+guiname = "联盟"
 logo = "alliance.jpg"
 debrisstartuv = 64
 debrisenduv = 96
 escapepodid = 1
 shield = "alliance_shield.dds"
-description = "The Spiderii Alliance is a vast conglomerate of disparate insectoid alien species bounding together under the uniting motto of 'six legs good, 2 legs bad'. The only thing this untidy and awkward collection of species agree on is the elimination of all bipedal species from the galaxy, and it's a mission they undertake with passionate enthusiasm."
+
+#description = "The Spiderii Alliance is a vast conglomerate of disparate insectoid alien species bounding together under the uniting motto of 'six legs good, 2 legs bad'. The only thing this untidy and awkward collection of species agree on is the elimination of all bipedal species from the galaxy, and it's a mission they undertake with passionate enthusiasm."
+
+description = "蜘蛛联盟是由各种不同类型外来昆虫所组成的巨大联合体，它们共同的座右铭是“六条腿优秀，两条腿劣等”。这帮龌龊之众的唯一目标就是消灭银河系中所有的两足生物。它们甘愿为此使命赴汤蹈火。"
+
 repairbotid = 0
 contrailid = 0
 music = alliance_battle.ogg
@@ -49,16 +54,24 @@ turret_plasma_v4 = plasma_turret_v4.dds,turrets_alliance.dds,28
 turret_ecm_v1 = alliance_turret_ecm_v1.dds,turrets_alliance.dds,31
 
 [victory_messages]
-0 = "Clap your Antennae! victory is ours. Award yourself another decorative insignia on your thorax!"
-1 = "Well slap my exoskeleton, if it isn't another glorious victory for the alliance. Nice work!"
-2 = "Aha we are triumphant! More proof that six legs will always trump two, even in battle. Oh yes..."
-3 = "before you know it you'll be collecting your six ceremonial platinum leg-bands."
+#0 = "Clap your Antennae! victory is ours. Award yourself another decorative insignia on your thorax!"
+0 = "拍拍你的天线！胜利是属于我们的。给自己胸前再添加一枚勋章吧！"
+#1 = "Well slap my exoskeleton, if it isn't another glorious victory for the alliance. Nice work!"
+1 = "好吧，如果不能给联盟带来新的荣誉就拿我开刀。工作愉快！"
+#2 = "Aha we are triumphant! More proof that six legs will always trump two, even in battle. Oh yes..."
+2 = "啊哈，我们胜利啦！这更加证明六条腿的就是比两条腿的强，尤其是战斗时。哦耶！"
+#3 = "before you know it you'll be collecting your six ceremonial platinum leg-bands."
+3 = "在你了解它之前先将这六条铂金腿徽章领走。"
 
 [defeat_messages]
-1 = "Hang your Antennae in shame! Your fleet is in ruins and you have bought disgrace upon the alliance!"
-2 = "What have you done? How can you let some feeble bipedal species get the better of you like this?"
-3 = "Gah! failure! This is no way to earn promotion. Return to your space-hive in disgrace!"
-4 = "Any more embarrassing defeats like that and you will demoted to shoveling out the space-hives."
+#1 = "Hang your Antennae in shame! Your fleet is in ruins and you have bought disgrace upon the alliance!"
+1 = "把你丢人的天线垂下来！你的舰队残破不堪并且使整个联盟受辱！"
+#2 = "What have you done? How can you let some feeble bipedal species get the better of you like this?"
+2 = "看看你究竟就做了什么？你怎么能让劣等的两腿生物胜过你？"
+#3 = "Gah! failure! This is no way to earn promotion. Return to your space-hive in disgrace!"
+3 = "嗨！败军之将！想获得晋升门都没有。耻辱地滚回去吧！"
+#4 = "Any more embarrassing defeats like that and you will demoted to shoveling out the space-hives."
+4 = "从来都没有比这更丢人的失败了，你将被驱逐出去。"
 
 [crew]
 0 = "Zarg"

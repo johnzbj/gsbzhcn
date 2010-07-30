@@ -1,12 +1,14 @@
 [config]
 name = "empire"
-guiname = "Empire"
+#guiname = "Empire"
+guiname = "帝国"
 logo = "empire.jpg"
 debrisstartuv = 96
 debrisenduv = 128
 escapepodid = 0
 shield = "imperial_shield.dds"
-description = "Founded at least 30,000 years ago, the Empire is so shrouded in history and myth that its exact name and its origins are long forgotten. The empire are a technologically obsessed species, relying on high tech shields in preference to armored spaceships. The current emperor took power over 1,100 years ago, and despite coming from a species whose lifespan rarely exceeds 100, the official line is that he merely 'under the weather' which is why he is no longer seen in public."
+#description = "Founded at least 30,000 years ago, the Empire is so shrouded in history and myth that its exact name and its origins are long forgotten. The empire are a technologically obsessed species, relying on high tech shields in preference to armored spaceships. The current emperor took power over 1,100 years ago, and despite coming from a species whose lifespan rarely exceeds 100, the official line is that he merely 'under the weather' which is why he is no longer seen in public."
+description = "帝国建立于30,000年以前，它是如此的低调和隐秘，以至于其准确名称和起源早已失传。帝国对于技术非常关注，其装甲飞船拥有高科技护盾。现任君主于1,100前开始掌权，尽管一个物种的寿命很少超过100岁，但是官方说法是“君主受命于天”，这也是他为何不再公开露面的原因。"
 repairbotid = 2
 contrailid = 2
 music = empire_battle.ogg
@@ -48,14 +50,20 @@ turret_plasma_v3 = plasma_turret_v3.dds,turrets_empire.dds,26
 turret_ecm_v1 = empire_turret_energy1.dds,turrets_empire.dds,1
 
 [victory_messages]
-0 = "A fantastic victory in the name of the empire! Glory be to the emperor!, and some to you as well I suppose..."
-1 = "Excellent work. Once more the mighty power of the imperial fleet is clearly demonstrated throughout the galaxy!"
-2 = "Good work, the emperor himself is most pleased with your victory, minuscule though it may be in the grand scheme..."
+#0 = "A fantastic victory in the name of the empire! Glory be to the emperor!, and some to you as well I suppose..."
+0 = "这是一个以帝国名义而成就的、了不起的胜利！光荣属于君主！我想你也功不可没..."
+#1 = "Excellent work. Once more the mighty power of the imperial fleet is clearly demonstrated throughout the galaxy!"
+1 = "干得漂亮。帝国舰队的强大威力再次在银河系中清晰地展现出来！"
+#2 = "Good work, the emperor himself is most pleased with your victory, minuscule though it may be in the grand scheme..."
+2 = "干得好，君主本人为你的胜利而感到高兴, 尽管它对于整个宏伟计划来说微不足道..."
 
 [defeat_messages]
-1 = "Disaster, we are defeated and the name of the emperor is besmirched. This is a disaster. Also, you will be executed immediately."
-2 = "Look at what you have done. Lesser space empires will now be looking down on us. Your death will be a minor consolation."
-3 = "You will find your next mission comparatively simple. It's to find an airlock, and then find the 'open doors' button. Proceed."
+#1 = "Disaster, we are defeated and the name of the emperor is besmirched. This is a disaster. Also, you will be executed immediately."
+1 = "真是灾难，我们失败了，帝国的名誉受到玷污。这是一场灾难，当然，你也要被立即处死。"
+#2 = "Look at what you have done. Lesser space empires will now be looking down on us. Your death will be a minor consolation."
+2 = "看看你做了什么。其余小国也会看低我们，你的死将带来部分安慰。"
+#3 = "You will find your next mission comparatively simple. It's to find an airlock, and then find the 'open doors' button. Proceed."
+3 = "你会发现你的下一个任务比较简单。到气阀那里去并且找到“开门”按钮，按下它。"
 
 [crew]
 0 = "Julius"
