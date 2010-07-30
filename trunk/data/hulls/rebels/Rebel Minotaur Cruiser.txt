@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Rebel Minotaur Cruiser
-guiname = Rebel Minotaur Cruiser
+#guiname = Rebel Minotaur Cruiser
+guiname = ÅÑÄæÕßÅ£¹ÖÑ²Ñó½¢
 sprite = Rebel Minotaur Cruiser.dds
 damagetexture = Rebel Minotaur Cruiser_damaged.dds
 hulktexture = Rebel Minotaur Cruiser_hulk.dds

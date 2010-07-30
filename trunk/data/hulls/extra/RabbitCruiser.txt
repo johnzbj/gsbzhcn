@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Rabbit Cruiser hull
-guiname = Rabbit Cruiser hull
+#guiname = Rabbit Cruiser hull
+guiname = Õ√ Ω—≤—ÛΩ¢¥¨…Ì
 sprite = RabbitCruiser.dds
 damagetexture = RabbitCruiser_damaged.dds
 hulktexture = 

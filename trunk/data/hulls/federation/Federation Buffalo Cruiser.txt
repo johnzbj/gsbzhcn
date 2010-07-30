@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Federation Buffalo Cruiser hull
-guiname = Federation Buffalo Cruiser hull
+#guiname = Federation Buffalo Cruiser hull
+guiname = 联邦布法罗巡洋舰船身
 sprite = Federation Buffalo Cruiser.dds
 damagetexture = Federation Buffalo Cruiser_damaged.dds
 hulktexture = Federation Buffalo Cruiser_hulk.dds

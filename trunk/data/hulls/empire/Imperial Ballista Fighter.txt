@@ -2,6 +2,7 @@
 classname = fighter
 name = Imperial Ballista Fighter
 guiname = Imperial Ballista Fighter Hull
+#guiname = 帝国投射战斗机机身
 sprite = Imperial Ballista Fighter.dds
 damagetexture = Imperial Ballista Fighter_damaged.dds
 hulktexture = imperial_hulks.dds

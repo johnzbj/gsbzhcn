@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Imperial Hasta Frigate hull
-guiname = Imperial Hasta Frigate Hull
+#guiname = Imperial Hasta Frigate Hull
+guiname = 帝国哈斯特护卫舰船身
 sprite = Imperial Hasta Frigate.dds
 damagetexture = Imperial Hasta Frigate_damaged.dds
 hulktexture = Imperial Hasta Frigate_hulk.dds

@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Federation Leopard Fighter
-guiname = Federation Leopard Fighter Hull
+#guiname = Federation Leopard Fighter Hull
+guiname = 联邦豹式战斗机机身
 sprite = Federation Leopard Fighter.dds
 damagetexture = Federation Leopard Fighter_damaged.dds
 hulktexture = federation_hulks.dds

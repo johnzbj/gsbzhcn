@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Alliance Alligator Cruiser hull
-guiname = Alliance Alligator Cruiser hull
+#guiname = Alliance Alligator Cruiser hull
+guiname = ÁªÃË¶ÌÎÇöùÑ²Ñó½¢´¬Éí
 sprite = Alliance Alligator Cruiser.dds
 damagetexture = Alliance Alligator Cruiser_damaged.dds
 hulktexture = Alliance Alligator Cruiser_hulk.dds

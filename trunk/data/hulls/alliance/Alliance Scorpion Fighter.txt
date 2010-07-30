@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Alliance Scorpion Fighter
-guiname = Alliance Scorpion Fighter Hull
+#guiname = Alliance Scorpion Fighter Hull
+guiname = 联盟蝎子战斗机机身
 sprite = Alliance Scorpion Fighter.dds
 damagetexture = Alliance Scorpion Fighter_damaged.dds
 hulktexture = alliance_hulks.dds

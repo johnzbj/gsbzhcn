@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Alliance Python Cruiser hull
-guiname = Alliance Python Cruiser hull
+#guiname = Alliance Python Cruiser hull
+guiname = ÁªÃË¾ÞòþÑ²Ñó½¢´¬Éí
 sprite = Alliance Python Cruiser.dds
 damagetexture = Alliance Python Cruiser_damaged.dds
 hulktexture = Alliance Python Cruiser_hulk.dds

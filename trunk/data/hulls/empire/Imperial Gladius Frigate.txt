@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Imperial Gladius Frigate hull
-guiname = Imperial Gladius Frigate Hull
+#guiname = Imperial Gladius Frigate Hull
+guiname = µÛ¹ú¶Ì½£»¤ÎÀ½¢´¬Éí
 sprite = Imperial Gladius Frigate.dds
 damagetexture = Imperial Gladius Frigate_damaged.dds
 hulktexture = Imperial Gladius Frigate_hulk.dds

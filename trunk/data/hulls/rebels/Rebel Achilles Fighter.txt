@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Rebel Achilles Fighter
-guiname = Rebel Achilles Fighter Hull
+#guiname = Rebel Achilles Fighter Hull
+guiname = 叛逆者阿喀琉斯战斗机机身
 sprite = Rebel Achilles Fighter.dds
 damagetexture = Rebel Achilles Fighter_damaged.dds
 hulktexture = rebel_hulks.dds

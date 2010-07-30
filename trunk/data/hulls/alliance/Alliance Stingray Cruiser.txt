@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Alliance Stingray Cruiser hull
-guiname = Alliance Stingray Cruiser hull
+#guiname = Alliance Stingray Cruiser hull
+guiname = ÁªÃË÷¥ÓãÑ²Ñó½¢´¬Éí
 sprite = Alliance Stingray Cruiser.dds
 damagetexture = Alliance Stingray Cruiser_damaged.dds
 hulktexture = Alliance Stingray Cruiser_hulk.dds

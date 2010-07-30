@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Imperial Weapons Platform hull
-guiname = Imperial Weapons Platform Hull
+#guiname = Imperial Weapons Platform Hull
+guiname = 帝国武器平台船身
 sprite = Imperial Weapons Platform.dds
 damagetexture = Imperial Weapons Platform_damaged.dds
 width = 125

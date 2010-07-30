@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Alliance Hornet Fighter
-guiname = Alliance Hornet Fighter Hull
+#guiname = Alliance Hornet Fighter Hull
+guiname = 联盟大黄蜂战斗机机身
 sprite = Alliance Hornet Fighter.dds
 damagetexture = Alliance Hornet Fighter_damaged.dds
 hulktexture = alliance_hulks.dds

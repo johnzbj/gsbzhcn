@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Imperial Javelin Fighter
-guiname = Imperial Javelin Fighter Hull
+#guiname = Imperial Javelin Fighter Hull
+guiname = 帝国标枪战斗机机身
 sprite = Imperial Javelin Fighter.dds
 damagetexture = Imperial Javelin Fighter_damaged.dds
 hulktexture = imperial_hulks.dds

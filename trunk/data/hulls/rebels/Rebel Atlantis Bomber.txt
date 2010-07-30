@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Rebel Atlantis Bomber
-guiname = Rebel Atlantis Bomber Hull
+#guiname = Rebel Atlantis Bomber Hull
+guiname = 叛逆者阿特兰蒂斯轰炸机机身
 sprite = Rebel Atlantis Bomber.dds
 damagetexture = Rebel Atlantis Bomber_damaged.dds
 hulktexture = rebel_hulks.dds
