@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Rebel Icarus Fighter
-guiname = Rebel Icarus Fighter Hull
+#guiname = Rebel Icarus Fighter Hull
+guiname = 叛逆者伊卡洛斯战斗机机身
 sprite = Rebel Icarus Fighter.dds
 damagetexture = Rebel Icarus Fighter_damaged.dds
 hulktexture = rebel_hulks.dds

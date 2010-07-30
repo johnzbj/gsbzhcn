@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Imperial Legion Cruiser hull
-guiname = Imperial Legion Cruiser hull
+#guiname = Imperial Legion Cruiser hull
+guiname = 帝国军团巡洋舰船身
 sprite = Imperial Legion Cruiser.dds
 damagetexture = Imperial Legion Cruiser_damaged.dds
 hulktexture = Imperial Legion Cruiser_hulk.dds

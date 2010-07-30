@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Rebel Midgard Frigate hull
-guiname = Rebel Midgard Frigate Hull
+#guiname = Rebel Midgard Frigate Hull
+guiname = 叛逆者尘世护卫舰船身
 sprite = Rebel Midgard Frigate.dds
 damagetexture = Rebel Midgard Frigate_damaged.dds
 hulktexture = Rebel Midgard Frigate_hulk.dds

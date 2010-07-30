@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Rebel Valhalla Cruiser
-guiname = Rebel Valhalla Cruiser
+#guiname = Rebel Valhalla Cruiser
+guiname = ÅÑÄæÕßÍß¶û¹þÀ­Ñ²Ñó½¢
 sprite = Rebel Valhalla Cruiser.dds
 damagetexture = Rebel Valhalla Cruiser_damaged.dds
 hulktexture = Rebel Valhalla Cruiser_hulk.dds

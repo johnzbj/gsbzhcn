@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Federation Tiger Cruiser hull
-guiname = Federation Tiger Cruiser hull
+#guiname = Federation Tiger Cruiser hull
+guiname = Áª°î»¢Ê½Ñ²Ñó½¢´¬Éí
 sprite = Federation Tiger Cruiser.dds
 damagetexture = Federation Tiger Cruiser_damaged.dds
 hulktexture = Federation Tiger Cruiser_hulk.dds

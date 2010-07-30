@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Alliance Cobra Frigate hull
-guiname = Alliance Cobra Frigate Hull
+#guiname = Alliance Cobra Frigate Hull
+guiname = ¡™√À—€æµ…ﬂª§Œ¿Ω¢¥¨…Ì
 sprite = Alliance Cobra Frigate.dds
 damagetexture = Alliance Cobra Frigate_damaged.dds
 hulktexture = Alliance Cobra Frigate_hulk.dds

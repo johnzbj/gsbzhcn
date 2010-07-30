@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Imperial Centurion Cruiser hull
-guiname = Imperial Centurion Cruiser hull
+#guiname = Imperial Centurion Cruiser hull
+guiname = µÛ¹úÖ¸»ÓÑ²Ñó½¢´¬Éí
 sprite = Imperial Centurion Cruiser.dds
 damagetexture = Imperial Centurion Cruiser_damaged.dds
 hulktexture = Imperial Centurion Cruiser_hulk.dds

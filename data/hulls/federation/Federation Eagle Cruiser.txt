@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Federation Eagle Cruiser hull
-guiname = Federation Eagle Cruiser hull
+#guiname = Federation Eagle Cruiser hull
+guiname = Áª°îÓ¥Ê½Ñ²Ñó½¢´¬Éí
 sprite = Federation Eagle Cruiser.dds
 damagetexture = Federation Eagle Cruiser_damaged.dds
 hulktexture = Federation Eagle Cruiser_hulk.dds

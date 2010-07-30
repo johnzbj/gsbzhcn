@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Rebel Fenrir Cruiser
-guiname = Rebel Fenrir Cruiser
+#guiname = Rebel Fenrir Cruiser
+guiname = ÅÑÄæÕß·ÒÀï¶òÑ²Ñó½¢
 sprite = Rebel Fenrir Cruiser.dds
 damagetexture = Rebel Fenrir Cruiser_damaged.dds
 hulktexture = Rebel Fenrir Cruiser_hulk.dds

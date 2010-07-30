@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Federation Gazelle Frigate
-guiname = Federation Gazelle Frigate Hull
+#guiname = Federation Gazelle Frigate Hull
+guiname = ¡™∞Óµ…¡Áª§Œ¿Ω¢¥¨…Ì
 sprite = Federation Gazelle Frigate.dds
 damagetexture = Federation Gazelle Frigate_damaged.dds
 hulktexture = Federation Gazelle Frigate_hulk.dds

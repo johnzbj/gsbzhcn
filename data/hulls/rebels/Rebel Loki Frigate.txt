@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Rebel Loki Frigate hull
-guiname = Rebel Loki Frigate Hull
+#guiname = Rebel Loki Frigate Hull
+guiname = 叛逆者洛基护卫舰船身
 sprite = Rebel Loki Frigate.dds
 damagetexture = Rebel Loki Frigate_damaged.dds
 hulktexture = Rebel Loki Frigate_hulk.dds

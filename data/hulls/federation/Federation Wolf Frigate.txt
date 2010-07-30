@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Federation Wolf Frigate hull
-guiname = Federation Wolf Frigate hull
+#guiname = Federation Wolf Frigate hull
+guiname = 联邦狼式护卫舰船身
 sprite = Federation Wolf Frigate.dds
 damagetexture = Federation Wolf Frigate_damaged.dds
 hulktexture = Federation Wolf Frigate_hulk.dds

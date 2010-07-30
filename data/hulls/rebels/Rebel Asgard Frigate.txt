@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Rebel Asgard Frigate hull
-guiname = Rebel Asgard Frigate Hull
+#guiname = Rebel Asgard Frigate Hull
+guiname = ≈—ƒÊ’ﬂœ…π¨ª§Œ¿Ω¢¥¨…Ì
 sprite = Rebel Asgard Frigate.dds
 damagetexture = Rebel Asgard Frigate_damaged.dds
 hulktexture = Rebel Asgard Frigate_hulk.dds

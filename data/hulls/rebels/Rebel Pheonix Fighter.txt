@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Rebel Pheonix Fighter
-guiname = Rebel Pheonix Fighter Hull
+#guiname = Rebel Pheonix Fighter Hull
+guiname = 叛逆者菲尼克斯战斗机机身
 sprite = Rebel Pheonix Fighter.dds
 damagetexture = Rebel Pheonix Fighter_damaged.dds
 hulktexture = rebel_hulks.dds
