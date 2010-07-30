@@ -1,12 +1,14 @@
 [config]
 name = "rebel"
-guiname = "Rebels"
+#guiname = "Rebels"
+guiname = "叛逆者"
 logo = "rebels.jpg"
 debrisstartuv = 0
 debrisenduv = 32
 escapepodid = 3
 shield = "circle_shield.dds"
-description = "The rebels are a collection of species that once formed part of the galactic empire, but broke away due to the harsh demands of the empire for ever greater sacrifices in terms of military commitment. The rebels reasoned that the only way to ever be free of a lifetime of military service for the glory of the empire was to dedicate their lives to fighting against them. As a result, today's modern rebel alliance contains the majority of the irony-resistant species in the galaxy."
+#description = "The rebels are a collection of species that once formed part of the galactic empire, but broke away due to the harsh demands of the empire for ever greater sacrifices in terms of military commitment. The rebels reasoned that the only way to ever be free of a lifetime of military service for the glory of the empire was to dedicate their lives to fighting against them. As a result, today's modern rebel alliance contains the majority of the irony-resistant species in the galaxy."
+description = "叛逆者曾经是银河帝国的一部分，因帝国残酷苛刻的军事承诺而造成越来越大的牺牲，他们挣脱了帝国的掌控。叛逆者认为要想获得永远的自由，只有靠军事手段与他们曾经为之献身的帝国抗争到底。因此，现代反叛联盟包容了银河系中大多数的反抗物种。"
 repairbotid = 3
 contrailid = 3
 music = rebellion_battle.ogg
@@ -48,14 +50,20 @@ turret_plasma_v3 = plasma_turret_v3.dds,turrets_rebel.dds,26
 turret_ecm_v1 = rebel_turret_las_v1.dds,turrets_rebel.dds,10
 
 [victory_messages]
-0 = "Today was a victory for the underdog, the little guy, the man in the street, the common man, and also I guess for you."
-1 = "Another fantastic victory comrade! That will teach them the power of the ordinary man in the space-battleship."
-2 = "Excellent, by blasting our enemies to atoms we have truly shown them that we will not partake in their bloodthirsty wars."
+#0 = "Today was a victory for the underdog, the little guy, the man in the street, the common man, and also I guess for you."
+0 = "今天的胜利属于所有的受压迫者、小家伙、街头流浪汉、普通人，我想也包含你。"
+#1 = "Another fantastic victory comrade! That will teach them the power of the ordinary man in the space-battleship."
+1 = "同志们，又是一个了不起的胜利! 它将激励着太空战舰上的每一个人。"
+#2 = "Excellent, by blasting our enemies to atoms we have truly shown them that we will not partake in their bloodthirsty wars."
+2 = "非常好，把敌人打得稀巴烂将警告他们：我们不会束手待毙。"
 
 [defeat_messages]
-1 = "The rebel creed is to reward success rather than to punish failure. We will leave that to you. Here is a laser pistol with one charge. Don't make it too messy."
-2 = "This glorious revolutionary struggle was going so well until you came along. Remind us again why we gave you a whole fleet to command..."
-3 = "Disaster! We would have achieved a more decisive victory for the revolution if we had just held a jumble sale and sold raffle tickets."
+#1 = "The rebel creed is to reward success rather than to punish failure. We will leave that to you. Here is a laser pistol with one charge. Don't make it too messy."
+1 = "叛逆者的信条是赏罚分明。我们要处理你。这里有一把上膛的激光枪。不要搞得太脏。"
+#2 = "This glorious revolutionary struggle was going so well until you came along. Remind us again why we gave you a whole fleet to command..."
+2 = "在你来之前，我们的革命斗争一直是光荣的延续。这再次让我们反思为何要把整个舰队的指挥权给你..."
+#3 = "Disaster! We would have achieved a more decisive victory for the revolution if we had just held a jumble sale and sold raffle tickets."
+3 = "灾难！看来我们只有靠义卖和销售彩票才能获得革命的彻底胜利了。"
 
 [crew]
 0 = "Jack"
