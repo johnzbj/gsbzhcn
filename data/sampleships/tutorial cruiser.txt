@@ -1,6 +1,7 @@
 [config]
 name = tutorial cruiser 
-guiname = Tutorial Cruiser 
+#guiname = Tutorial Cruiser 
+guiname = Ñ²Ñó½¢ÑµÁ· 
 hull = Federation Tiger Cruiser hull 
 cost = 2606 
 

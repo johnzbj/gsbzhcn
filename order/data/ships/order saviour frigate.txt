@@ -1,6 +1,7 @@
 [config]
 name = _order saviour frigate 
-guiname = Order Saviour Frigate 
+#guiname = Order Saviour Frigate 
+guiname = 神赐救世主护卫舰
 hull = order_saviour_frigate 
 
 [modules]

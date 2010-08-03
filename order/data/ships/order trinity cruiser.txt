@@ -1,6 +1,7 @@
 [config]
 name = _order trinity cruiser 
-guiname = Order Trinity Cruiser 
+#guiname = Order Trinity Cruiser 
+guiname = 神赐三位一体巡洋舰
 hull = order_trinity_cruiser 
 
 [modules]

@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = order_spirit_frigate
-guiname = Order Spirit Frigate
+#guiname = Order Spirit Frigate
+guiname = Éñ´ÍÓÄÁé»¤ÎÀ½¢
 sprite = Order_Spirit_Frigate.dds
 damagetexture = Order_Spirit_Frigate_damaged.dds
 hulktexture = Order_Spirit_Frigate_hulk.dds

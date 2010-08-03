@@ -1,6 +1,7 @@
 [config]
 name = tutorial frigate 
-guiname = Tutorial Frigate 
+#guiname = Tutorial Frigate 
+guiname = ª§Œ¿Ω¢—µ¡∑
 hull = Federation Fox Frigate 
 cost = 898 
 

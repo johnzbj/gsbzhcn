@@ -1,12 +1,14 @@
 [config]
 name = "order"
-guiname = "Order"
+#guiname = "Order"
+guiname = "神赐"
 logo = "order.jpg"
 debrisstartuv = 96
 debrisenduv = 128
 escapepodid = 1
 shield = "order_shield.dds"
-description = "In the beginning of the universe, the one true god created the planets as home for the order, and plants as food for the order, and he created rivers from which the order would drink, and animals which the order would use as trusty steeds and faithful pets. Clearly all of creation is gods bounty for the order to make use of. As it happens, the one true god had not written in the holy book why he had created species from other worlds, so the order has assumed they were created for target practice. Any suggestion that they may have other uses is clearly heresy."
+#description = "In the beginning of the universe, the one true god created the planets as home for the order, and plants as food for the order, and he created rivers from which the order would drink, and animals which the order would use as trusty steeds and faithful pets. Clearly all of creation is gods bounty for the order to make use of. As it happens, the one true god had not written in the holy book why he had created species from other worlds, so the order has assumed they were created for target practice. Any suggestion that they may have other uses is clearly heresy."
+description = "宇宙之初，上帝创造了星球作为我们的家园，在星球上他创造了食物、饮水的河流、忠实的战马和忠诚的宠物。很明显，万物皆上帝所赐。然而，上帝并没有在圣经中说明他为何创造了一些异界的东西，所以也许它们是上帝练习神赐的产物。如果有人认为它们可以用作它途，那么很显然这将是一种旁门左道。"
 repairbotid = 0
 contrailid = 3
 music = federation_battle.ogg
@@ -56,17 +58,26 @@ turret_plasma_v4 = order_turret_lim2.dds,turrets_order.dds,18
 turret_ecm_v1 = order_turret_las6.dds,turrets_order.dds,16
 
 [victory_messages]
-0 = "An excellent victory. Glory be to the one true god, who is responsible for success in all things. I guess you did some good work too..."
-1 = "A spectacular triumph over the unbelievers, who are now mere ashes and dust. Unlike us true believers who obviously have souls."
-2 = "Excellent work. That will show those heathen aliens that nobody can oppose the will of the gods!"
-3 = "We knew you could do it, for is it not written that the devout shalt blast thy enemies into space rubble?"
+#0 = "An excellent victory. Glory be to the one true god, who is responsible for success in all things. I guess you did some good work too..."
+0 = "真是一个非常漂亮的胜利。荣誉属于无所不能的上帝。我猜你可能也有些许功劳..."
+#1 = "A spectacular triumph over the unbelievers, who are now mere ashes and dust. Unlike us true believers who obviously have souls."
+1 = "这是一个彻底粉碎敌人的不可思议的胜利。他的灵魂升华于我们这些真正的信徒。"
+#2 = "Excellent work. That will show those heathen aliens that nobody can oppose the will of the gods!"
+2 = "干的好。这将提醒那些异教徒，没有人能违背上帝的意志！"
+#3 = "We knew you could do it, for is it not written that the devout shalt blast thy enemies into space rubble?"
+3 = "我们知道你可以做到，并没有人规定一定要把你的敌人轰成废墟，对吧？"
 
 [defeat_messages]
-0 = "A crushing defeat. Perhaps you have not been spending enough time in prayer to the one true god?"
-1 = "What horrible sins have you committed such that the one true god would curse you with this defeat?"
-2 = "Truly your faith must be weak if it could not carry you to victory against these heathen aliens."
-3 = "The one true god moves in mysterious ways indeed if he wishes us to fail in battle against such heathens."
-4 = "This is a savage victory for the heathens, and a black day for our faith. I can only pray that the one true god has mercy upon you."
+#0 = "A crushing defeat. Perhaps you have not been spending enough time in prayer to the one true god?"
+0 = "一个彻底的失败。可能你还没有花足够的时间向上帝祷告？"
+#1 = "What horrible sins have you committed such that the one true god would curse you with this defeat?"
+1 = "难道是你效忠的上帝诅咒了这次可怕的失败？"
+#2 = "Truly your faith must be weak if it could not carry you to victory against these heathen aliens."
+2 = "如果不能战胜这些异教徒，只能证明你的信仰还不够真诚。"
+#3 = "The one true god moves in mysterious ways indeed if he wishes us to fail in battle against such heathens."
+3 = "如果是上帝让我们输给这些异教徒的，那么只能证明上帝太神秘莫测了。"
+#4 = "This is a savage victory for the heathens, and a black day for our faith. I can only pray that the one true god has mercy upon you."
+4 = "这是异教徒的一次残忍胜利并且对我们的信仰而言是个打击。我只有祈祷上帝能够宽恕你。"
 
 [crew]
 0 = "Chodrak"

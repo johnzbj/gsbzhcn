@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = order_saviour_frigate
-guiname = Order Saviour Frigate
+#guiname = Order Saviour Frigate
+guiname = 神赐救世主护卫舰
 sprite = Order_Saviour_Frigate.dds
 damagetexture = Order_Saviour_Frigate_damaged.dds
 hulktexture = Order_Saviour_Frigate_hulk.dds

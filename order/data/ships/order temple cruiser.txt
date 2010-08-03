@@ -1,6 +1,7 @@
 [config]
 name = _order temple cruiser 
-guiname = Order Temple Cruiser 
+#guiname = Order Temple Cruiser 
+guiname = …Ò¥Õ…ÒµÓ—≤—ÛΩ¢
 hull = order_temple_cruiser 
 
 [modules]
