@@ -1,6 +1,7 @@
 [config]
 name = _order spirit frigate 
-guiname = Order Spirit Frigate 
+#guiname = Order Spirit Frigate 
+guiname = Éñ´ÍÓÄÁé»¤ÎÀ½¢
 hull = order_spirit_frigate 
 
 [modules]

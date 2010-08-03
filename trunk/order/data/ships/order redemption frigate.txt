@@ -1,6 +1,7 @@
 [config]
 name = _order redemption frigate 
-guiname = Order Redemption Frigate 
+#guiname = Order Redemption Frigate 
+guiname = …Ò¥Õæ» Íª§Œ¿Ω¢
 hull = order_redemption_frigate 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _order crusader cruiser 
-guiname = Order Crusader Cruiser 
+#guiname = Order Crusader Cruiser 
+guiname = Éñ´ÍÊ®×Ö¾üÑ²Ñó½¢
 hull = order_crusader_cruiser 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _order salvation fighter 
-guiname = Order Salvation Fighter 
+#guiname = Order Salvation Fighter 
+guiname = Éñ´Í¾ÈÊêÕ½¶·»ú
 hull = order_salvation_fighter 
 
 [modules]

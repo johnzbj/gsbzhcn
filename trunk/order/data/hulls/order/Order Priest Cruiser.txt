@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = order_priest_cruiser
-guiname = Order Priest Cruiser
+#guiname = Order Priest Cruiser
+guiname = Éñ´Í½Ì¸¸Ñ²Ñó½¢
 sprite = Order_Priest_Cruiser.dds
 damagetexture = Order_Priest_Cruiser_damaged.dds
 hulktexture = Order_Priest_Cruiser_hulk.dds

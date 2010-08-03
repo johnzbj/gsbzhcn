@@ -1,6 +1,7 @@
 [config]
 name = tutorial fighter 
-guiname = Tutorial Fighter 
+#guiname = Tutorial Fighter 
+guiname = Õ½¶·»úÑµÁ· 
 hull = Federation Falcon Fighter 
 cost = 111
 

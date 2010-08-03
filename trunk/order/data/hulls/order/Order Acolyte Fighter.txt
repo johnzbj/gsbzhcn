@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = order_acolyte_fighter
-guiname = Order Acolyte Fighter
+#guiname = Order Acolyte Fighter
+guiname = Éñ´ÍÊÌÖúÕ½¶·»ú
 sprite = Order_Acolyte_Fighter.dds
 damagetexture = Order_Acolyte_fighter_damaged.dds
 hulktexture = order_hulks.dds

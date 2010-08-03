@@ -1,6 +1,7 @@
 [config]
 name = _order acolyte fighter 
-guiname = Order Acolyte Fighter 
+#guiname = Order Acolyte Fighter 
+guiname = Éñ´ÍÊÌÖúÕ½¶·»ú
 hull = order_acolyte_fighter 
 
 [modules]

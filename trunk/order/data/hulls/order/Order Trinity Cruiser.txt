@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = order_trinity_cruiser
-guiname = Order Trinity Cruiser
+#guiname = Order Trinity Cruiser
+guiname = 神赐三位一体巡洋舰
 sprite = Order_Trinity_Cruiser.dds
 damagetexture = Order_Trinity_Cruiser_damaged.dds
 hulktexture = Order_Trinity_Cruiser_hulk.dds

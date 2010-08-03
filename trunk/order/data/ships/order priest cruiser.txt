@@ -1,6 +1,7 @@
 [config]
 name = _order priest cruiser 
-guiname = Order Priest Cruiser 
+#guiname = Order Priest Cruiser 
+guiname = Éñ´Í½Ì¸¸Ñ²Ñó½¢
 hull = order_priest_cruiser 
 
 [modules]

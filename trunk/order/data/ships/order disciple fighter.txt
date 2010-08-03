@@ -1,6 +1,7 @@
 [config]
 name = _order disciple fighter 
-guiname = Order Disciple Fighter 
+#guiname = Order Disciple Fighter 
+guiname = 神赐信徒战斗机
 hull = order_disciple_fighter 
 
 [modules]
