@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Tribe Utopia Cruiser hull
-guiname = Tribe Utopia Cruiser hull
+#guiname = Tribe Utopia Cruiser hull
+guiname = ²¿ÂäÎÚÍĞ°îÑ²Ñó½¢´¬Éí
 sprite = Tribe Utopia Cruiser.dds
 damagetexture = Tribe Utopia Cruiser_damaged.dds
 hulktexture = Tribe Utopia Cruiser_hulk.dds

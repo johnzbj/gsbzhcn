@@ -1,7 +1,7 @@
 [config]
 classname = cruiser
 name = Tribe Paradise Cruiser hull
-guiname = Tribe Paradise Cruiser hull
+guiname = ²¿ÂäÒÁµéÔ°Ñ²Ñó½¢´¬Éí
 sprite = Tribe Paradise Cruiser.dds
 damagetexture = Tribe Paradise Cruiser_damaged.dds
 hulktexture = Tribe Paradise Cruiser_hulk.dds

@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Tribe Unity Frigate hull
-guiname = Tribe Unity Frigate hull
+#guiname = Tribe Unity Frigate hull
+guiname = 部落统一护卫舰船身
 sprite = Tribe Unity Frigate.dds
 damagetexture = Tribe Unity Frigate_damaged.dds
 hulktexture = Tribe Unity Frigate_hulk.dds

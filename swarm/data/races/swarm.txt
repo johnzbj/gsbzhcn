@@ -1,12 +1,14 @@
 [config]
 name = "swarm"
-guiname = "Swarm"
+#guiname = "Swarm"
+guiname = "蜂群"
 logo = "swarm.jpg"
 debrisstartuv = 196
 debrisenduv = 228
 escapepodid = 1
 shield = "swarm_shield.dds"
-description = "The Swarm are coming. There is no defense. Fighting against them is like holding back the tide. Their ships may break apart with ease but there seems no limit to their numbers. The swarm do not retreat, as they have nowhere to go. Space-dwelling nomads for the last million years, these homicidal birdlike aliens have no plan B, only plan A, which is your destruction. The best defense is to stay hidden. Do not anger the swarm, and never call them 'the flock'. Boy, they hate that."
+#description = "The Swarm are coming. There is no defense. Fighting against them is like holding back the tide. Their ships may break apart with ease but there seems no limit to their numbers. The swarm do not retreat, as they have nowhere to go. Space-dwelling nomads for the last million years, these homicidal birdlike aliens have no plan B, only plan A, which is your destruction. The best defense is to stay hidden. Do not anger the swarm, and never call them 'the flock'. Boy, they hate that."
+description = "蜂群来了！它们没有防御。它们战斗时如潮水一般蜂拥而至。它们的舰船或许很容易摧毁，然而其数量无穷无尽。由于退无可退，所以蜂群永不退缩。在星际间流浪超过百万年以上，这些灵敏的外星嗜杀者唯一的目标就是摧毁你，没有其他。对它们的唯一防御就是隐藏起来。不要惹恼蜂群，并且不要称呼它们为“羊群”。小伙子，他们很讨厌这个。"
 repairbotid = 0
 contrailid = 3
 music = federation_battle.ogg
@@ -50,16 +52,24 @@ turret_ecm_v1 = swarm_plasma_3.dds,turrets_swarm.dds,26
 
 
 [victory_messages]
-0 = "This victory is yet another sand-pebble on the pyramid of galactic conquest."
-1 = "Behold the mighty power of the swarm, as we blast away everything in our path like the mighty tide crushing rocks into sand."
-2 = "Our enemies cannot withstand the might of the swarm. It is our destiny to conquer all."
-3 = "Let this lesson be observed. He who stands before the swarm, stands no more."
+#0 = "This victory is yet another sand-pebble on the pyramid of galactic conquest."
+0 = "这场胜利只是银河征服战这座金字塔的又一个小砂石而已。"
+#1 = "Behold the mighty power of the swarm, as we blast away everything in our path like the mighty tide crushing rocks into sand."
+1 = "看看蜂群的强大力量，一路而来，我们摧毁任何目标就如何汹涌的潮水侵入沙滩般容易。"
+#2 = "Our enemies cannot withstand the might of the swarm. It is our destiny to conquer all."
+2 = "我们的敌人根本不能承受蜂群的进攻。我们的使命就是征服一切！"
+#3 = "Let this lesson be observed. He who stands before the swarm, stands no more."
+3 = "做为示范课程看看吧。任何站在蜂群对面的敌人都将消失。"
 
 [defeat_messages]
-1 = "Defeat for the swarm is meaningless. We shall be back, and in greater numbers.."
-2 = "A temporary setback for our mighty space fleet, Ultimately, victory is assured. Our destiny is clear."
-3 = "Our enemies have earned a brief respite before their ultimate, inevitable destruction at our claws."
-4 = "This was but the first wave. The enemy may have prevailed this day, but this galaxy shall yield to our power."
+#1 = "Defeat for the swarm is meaningless. We shall be back, and in greater numbers.."
+1 = "失败对于蜂群是没有意义的。我们会和更多的伙伴一起回来的..."
+#2 = "A temporary setback for our mighty space fleet, Ultimately, victory is assured. Our destiny is clear."
+2 = "这是我们强大舰队的临时挫折，最终的胜利属于我们。我们的使命就是扫除一切。"
+#3 = "Our enemies have earned a brief respite before their ultimate, inevitable destruction at our claws."
+3 = "我们的敌人在临终前获得了短暂的休整，不过他们将在我们的进攻下尸骨无存。"
+#4 = "This was but the first wave. The enemy may have prevailed this day, but this galaxy shall yield to our power."
+4 = "这仅仅是第一波。敌人只获得暂时性胜利，不过整个星系最终将屈服于我们的力量。"
 
 [crew]
 0 = "Abasi"

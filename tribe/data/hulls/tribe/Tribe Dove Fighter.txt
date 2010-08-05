@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Tribe Dove Fighter
-guiname = Tribe Dove Fighter Hull
+#guiname = Tribe Dove Fighter Hull
+guiname = 部落鸽式战斗机机身
 sprite = Tribe Dove Fighter.dds
 damagetexture = Tribe Dove Fighter_damaged.dds
 hulktexture = tribe_hulks.dds

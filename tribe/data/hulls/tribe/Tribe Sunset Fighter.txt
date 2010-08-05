@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Tribe Sunset Fighter
-guiname = Tribe Sunset Fighter Hull
+#guiname = Tribe Sunset Fighter Hull
+guiname = 部落日暮战斗机机身
 sprite = Tribe Sunset Fighter.dds
 damagetexture = Tribe Sunset Fighter_damaged.dds
 hulktexture = tribe_hulks.dds

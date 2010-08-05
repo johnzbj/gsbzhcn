@@ -1,12 +1,14 @@
 [config]
 name = "tribe"
-guiname = "Tribe"
+#guiname = "Tribe"
+guiname = "部落"
 logo = "tribe.jpg"
 debrisstartuv = 32
 debrisenduv = 48
 escapepodid = 1
 shield = "alliance_shield.dds"
-description = ""The term 'smug-space-hippies' is too often thrown around to describe the tribe these days. What is true, is that they are a varied and inclusive collection of species, united in their belief that other galactic factions are far too focused on warfare, destruction and negative thoughts. The tribe dream of a future where different species all just get along, and reluctantly conclude that the only way this is going to become a reality is by the regrettable destruction of the backwards, unenlightened life forms that have not joined the tribe.""
+#description = ""The term 'smug-space-hippies' is too often thrown around to describe the tribe these days. What is true, is that they are a varied and inclusive collection of species, united in their belief that other galactic factions are far too focused on warfare, destruction and negative thoughts. The tribe dream of a future where different species all just get along, and reluctantly conclude that the only way this is going to become a reality is by the regrettable destruction of the backwards, unenlightened life forms that have not joined the tribe.""
+description = ""近期，部落往往被描述为“星际自傲的嬉皮士”。 他们以包容不同类型的物种为信条，而其他的银河派系均致力于战争，从而打击和拒绝不同的思想----以上哪种观点正确？部落一直期望未来各个不同类型的物种能共同相处，然而却得出无奈的结论：实现这个目标的唯一切实可行的办法是摧毁那些还未加入部落的、落后的、无知的文明。""
 repairbotid = 0
 contrailid = 3
 music = federation_battle.ogg
@@ -49,16 +51,24 @@ turret_plasma_v4 = plasma_turret_v4.dds,turrets_tribe.dds,26
 turret_ecm_v1 = tribe_turret_las_6.dds,turrets_tribe.dds,17
 
 [victory_messages]
-0 = "Clap your Antennae! victory is ours. Award yourself another decorative insignia on your thorax!"
-1 = "Well slap my exoskeleton, if it isn't another glorious victory for the alliance. Nice work!"
-2 = "Aha we are triumphant! More proof that six legs will always trump two, even in battle. Oh yes..."
+#0 = "Clap your Antennae! victory is ours. Award yourself another decorative insignia on your thorax!"
+0 = "拍拍你的天线！胜利是属于我们的。给自己胸前再添加一枚勋章吧！"
+#1 = "Well slap my exoskeleton, if it isn't another glorious victory for the alliance. Nice work!"
+1 = "好吧，如果不能给联盟带来新的荣誉就拿我开刀。工作愉快！"
+#2 = "Aha we are triumphant! More proof that six legs will always trump two, even in battle. Oh yes..."
+2 = "啊哈，我们胜利啦！这更加证明六条腿的就是比两条腿的强，尤其是战斗时。哦耶！"
 3 = "before you know it you'll be collecting your six ceremonial platinum leg-bands."
+3 = "在你了解它之前先将这六条铂金腿徽章领走。"
 
 [defeat_messages]
-1 = "Hang your Antennae in shame! Your fleet is in ruins and you have bought disgrace upon the alliance!"
-2 = "What have you done? How can you let some feeble bipedal species get the better of you like this?"
-3 = "Gah! failure! This is no way to earn promotion. Return to your space-hive in disgrace!"
-4 = "Any more embarrassing defeats like that and you will demoted to shoveling out the space-hives."
+#1 = "Hang your Antennae in shame! Your fleet is in ruins and you have bought disgrace upon the alliance!"
+1 = "把你丢人的天线垂下来！你的舰队残破不堪并且使整个联盟受辱！"
+#2 = "What have you done? How can you let some feeble bipedal species get the better of you like this?"
+2 = "看看你究竟就做了什么？你怎么能让劣等的两腿生物胜过你？"
+#3 = "Gah! failure! This is no way to earn promotion. Return to your space-hive in disgrace!"
+3 = "嗨！败军之将！想获得晋升门都没有。耻辱地滚回去吧！"
+#4 = "Any more embarrassing defeats like that and you will demoted to shoveling out the space-hives."
+4 = "从来都没有比这更丢人的失败了，你将被驱逐出去。"
 
 [crew]
 0 = "Zarg"

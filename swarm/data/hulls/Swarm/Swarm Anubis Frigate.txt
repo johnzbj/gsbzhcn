@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Swarm Anubis Frigate
-guiname = Swarm Anubis Frigate Hull
+#guiname = Swarm Anubis Frigate Hull
+guiname = ∑‰»∫∞¢¡Ú±¥Àπª§Œ¿Ω¢¥¨…Ì
 sprite = Swarm Anubis Frigate.dds
 damagetexture = Swarm Anubis Frigate_damaged.dds
 hulktexture = Swarm Anubis Frigate_hulk.dds

@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Swarm Seth Fighter
-guiname = Swarm Seth Fighter Hull
+#guiname = Swarm Seth Fighter Hull
+guiname = 蜂群赛斯战斗机机身
 sprite = Swarm Seth Fighter.dds
 damagetexture = Swarm Seth Fighter_damaged.dds
 hulktexture = swarm_hulks.dds

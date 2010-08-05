@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Swarm Amun Fighter
-guiname = Swarm Amun Fighter Hull
+#guiname = Swarm Amun Fighter Hull
+guiname = 蜂群阿蒙战斗机机身
 sprite = Swarm Amun Fighter.dds
 damagetexture = Swarm Amun Fighter_damaged.dds
 hulktexture = swarm_hulks.dds

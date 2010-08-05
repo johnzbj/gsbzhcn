@@ -3,7 +3,8 @@ gui_id = 16
 backdrop = "tribe_scenario1.jpg"
 icon = "tribe_scenario1_icon.jpg"
 name = "tribe_scenario1"
-guiname = "Battle of NGC 2770"
+#guiname = "Battle of NGC 2770"
+guiname = "NGC 2770战役"
 mapsizex = 3000
 mapsizey = 3000
 player_deployment = 100,100,1000,3900
@@ -13,7 +14,8 @@ fleetcostlimit = 30000
 pilotlimit = 100
 enemyrace = tribe
 shader = ""
-description = "No spatial anomalies"
+#description = "No spatial anomalies"
+description = "没有空间异常"
 size = "medium"
 
 [variables]

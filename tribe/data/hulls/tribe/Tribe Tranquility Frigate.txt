@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Tribe Tranquility Frigate hull
-guiname = Tribe Tranquility Frigate Hull
+#guiname = Tribe Tranquility Frigate Hull
+guiname = ²¿ÂäÄş¾²»¤ÎÀ½¢´¬Éí
 sprite = Tribe Tranquility Frigate.dds
 damagetexture = Tribe Tranquility Frigate_damaged.dds
 hulktexture = Tribe Tranquility Frigate_hulk.dds

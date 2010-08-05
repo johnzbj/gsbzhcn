@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Tribe Freedom Cruiser hull
-guiname = Tribe Freedom Cruiser hull
+#guiname = Tribe Freedom Cruiser hull
+guiname = 部落自由巡洋舰船身
 sprite = Tribe Freedom Cruiser.dds
 damagetexture = Tribe Freedom Cruiser_damaged.dds
 hulktexture = Tribe Freedom Cruiser_hulk.dds
