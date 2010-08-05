@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Swarm Isis Cruiser hull
-guiname = Swarm Isis Cruiser hull
+#guiname = Swarm Isis Cruiser hull
+guiname = 蜂群伊西斯巡洋舰船身
 sprite = Swarm Isis Cruiser.dds
 damagetexture = Swarm Isis Cruiser_damaged.dds
 hulktexture = Swarm Isis Cruiser_hulk.dds

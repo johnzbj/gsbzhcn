@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Tribe Serenity Fighter
-guiname = Tribe Serenity Fighter Hull
+#guiname = Tribe Serenity Fighter Hull
+guiname = 部落宁静战斗机机身
 sprite = Tribe Serenity Fighter.dds
 damagetexture = Tribe Serenity Fighter_damaged.dds
 hulktexture = tribe_hulks.dds

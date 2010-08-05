@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Swarm Sekhmet Cruiser hull
-guiname = Swarm Sekhmet Cruiser hull
+#guiname = Swarm Sekhmet Cruiser hull
+guiname = ·äÈºÈû¿ËºÉÂõÌØÑ²Ñó½¢´¬Éí
 sprite = Swarm Sekhmet Cruiser.dds
 damagetexture = Swarm Sekhmet Cruiser_damaged.dds
 hulktexture = Swarm Sekhmet Cruiser_hulk.dds

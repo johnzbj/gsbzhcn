@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Swarm Ra Cruiser hull
-guiname = Swarm Ra Cruiser hull
+#guiname = Swarm Ra Cruiser hull
+guiname = ∑‰»∫¿ÿ Ω—≤—ÛΩ¢¥¨…Ì
 sprite = Swarm Ra Cruiser.dds
 damagetexture = Swarm Ra Cruiser_damaged.dds
 hulktexture = Swarm Ra Cruiser_hulk.dds

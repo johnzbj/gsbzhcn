@@ -1,7 +1,8 @@
 [config]
 classname = fighter
 name = Swarm Osiris Fighter
-guiname = Swarm Osiris Fighter Hull
+#guiname = Swarm Osiris Fighter Hull
+guiname = 蜂群欧赛瑞斯战斗机机身
 sprite = Swarm Osiris Fighter.dds
 damagetexture = Swarm Osiris Fighter_damaged.dds
 hulktexture = swarm_hulks.dds

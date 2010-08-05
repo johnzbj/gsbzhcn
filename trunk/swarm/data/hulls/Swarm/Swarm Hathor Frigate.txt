@@ -1,7 +1,8 @@
 [config]
 classname = frigate
 name = Swarm Hathor Frigate
-guiname = Swarm Hathor Frigate Hull
+#guiname = Swarm Hathor Frigate Hull
+guiname = ·äÈº¹şË÷¶û»¤ÎÀ½¢´¬Éí
 sprite = Swarm Hathor Frigate.dds
 damagetexture = Swarm Hathor Frigate_damaged.dds
 hulktexture = Swarm Hathor Frigate_hulk.dds

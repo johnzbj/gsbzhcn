@@ -1,7 +1,8 @@
 [config]
 classname = cruiser
 name = Swarm Bastet Cruiser hull
-guiname = Swarm Bastet Cruiser hull
+#guiname = Swarm Bastet Cruiser hull
+guiname = 蜂群贝斯特巡洋舰船身
 sprite = Swarm Bastet Cruiser.dds
 damagetexture = Swarm Bastet Cruiser_damaged.dds
 hulktexture = Swarm Bastet Cruiser_hulk.dds
