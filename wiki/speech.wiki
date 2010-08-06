@@ -1,0 +1,5 @@
+= 汉化感言 =
+
+2010年5月10，我在google code上创建了该项目，不同与以往的游戏汉化，这次是真真正正的开放和自由的。5月25日，我在看雪上公布了汉化的关键技术，同时在svn上传了全部源码。
+
+一直对[http://www.aka.org.cn/Docs/c&b.html 大教堂和市集]和[http://www.aka.org.cn/Docs/magic-cauldron/index.html 魔法大锅炉]中所描述的开发方式，身不能至，心向往之。这次终于在现实中实际了。
