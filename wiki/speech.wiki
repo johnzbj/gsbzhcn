@@ -20,4 +20,4 @@
 我想说的是，国内的游戏汉化有没有钱赚，勾心斗角的累不累啊？
 大家多交流交流技术与翻译，岂不是美事一桩。
 
-最后，在游戏中如碰到问题，或翻译欠妥的地方，请到这里提交报告：http://code.google.com/p/gsbzhcn/issues/list
+最后，如在游戏中碰到问题，或有翻译欠妥的地方，请到这里提交报告：http://code.google.com/p/gsbzhcn/issues/list
