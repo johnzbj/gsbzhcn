@@ -1,6 +1,7 @@
 [config]
 name = _iw laser cruiser 
-guiname = iw laser cruiser 
+#guiname = iw laser cruiser 
+guiname = iw º§π‚—≤—ÛΩ¢ 
 hull = Imperial Centurion Cruiser hull 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _imperial gladius frigate 
-guiname = Imperial Gladius Frigate 
+#guiname = Imperial Gladius Frigate 
+guiname = µÛ¹ú¶Ì½£»¤ÎÀ½¢ 
 hull = Imperial Gladius Frigate hull 
 
 [modules]

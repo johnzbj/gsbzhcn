@@ -1,6 +1,7 @@
 [config]
 name = _rebel achilles fighter 
-guiname = Rebel Achilles Fighter 
+#guiname = Rebel Achilles Fighter 
+guiname = 叛逆者阿喀琉斯战斗机 
 hull = Rebel Achilles Fighter 
 
 [modules]

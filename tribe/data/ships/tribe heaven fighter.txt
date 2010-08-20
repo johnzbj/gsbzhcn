@@ -1,6 +1,7 @@
 [config]
 name = _tribe heaven fighter 
-guiname = Tribe Heaven Fighter 
+#guiname = Tribe Heaven Fighter 
+guiname = 部落天堂战斗机 
 hull = Tribe Heaven Fighter 
 
 [modules]

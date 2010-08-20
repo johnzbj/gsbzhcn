@@ -1,6 +1,7 @@
 [config]
 name = _alliance alligator cruiser 
-guiname = alliance alligator cruiser 
+#guiname = alliance alligator cruiser
+guiname = ÁªÃË¶ÌÎÇöùÑ²Ñó½¢  
 hull = Alliance Alligator Cruiser hull  
 
 [modules]

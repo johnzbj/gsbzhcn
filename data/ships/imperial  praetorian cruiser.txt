@@ -1,6 +1,7 @@
 [config]
 name = _imperial  praetorian cruiser 
-guiname = Imperial  Praetorian Cruiser 
+#guiname = Imperial  Praetorian Cruiser 
+guiname = µÛ¹ú½ûÎÀ¶ÓÑ²Ñó½¢ 
 hull = Imperial Praetorian Cruiser hull 
 
 [modules]

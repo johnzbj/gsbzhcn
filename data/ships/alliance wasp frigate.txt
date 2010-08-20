@@ -1,6 +1,7 @@
 [config]
 name = _alliance wasp frigate 
-guiname = alliance wasp frigate 
+#guiname = alliance wasp frigate 
+guiname = ÁªÃË»Æ·ä»¤ÎÀ½¢
 hull = Alliance Wasp Frigate hull 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _federation  panther cruiser 
-guiname = Federation  Panther Cruiser 
+#guiname = Federation  Panther Cruiser 
+guiname = Áª°îÃÀÖŞ±ªÑ²Ñó½¢
 hull = Federation Panther Cruiser hull 
 
 [modules]

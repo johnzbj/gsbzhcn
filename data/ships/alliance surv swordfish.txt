@@ -1,6 +1,7 @@
 [config]
 name = _alliance surv swordfish 
-guiname = Alliance surv swordfish 
+#guiname = Alliance surv swordfish 
+guiname = ¡™√À≥¨º∂∆Ï”„ª§Œ¿Ω¢ 
 hull = Alliance Swordfish Frigate hull 
 
 [modules]

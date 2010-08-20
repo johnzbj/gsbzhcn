@@ -1,6 +1,7 @@
 [config]
 name = _swarm bastet cruiser 
-guiname = Swarm Bastet Cruiser 
+#guiname = Swarm Bastet Cruiser 
+guiname = ·äÈº±´Ë¹ÌØÑ²Ñó½¢ 
 hull = Swarm Bastet Cruiser hull 
 
 [modules]

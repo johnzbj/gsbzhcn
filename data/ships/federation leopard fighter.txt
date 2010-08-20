@@ -1,6 +1,7 @@
 [config]
 name = _federation leopard fighter 
-guiname = Federation Leopard Fighter 
+#guiname = Federation Leopard Fighter 
+guiname = 联邦豹式战斗机 
 hull = Federation Leopard Fighter 
 
 [modules]

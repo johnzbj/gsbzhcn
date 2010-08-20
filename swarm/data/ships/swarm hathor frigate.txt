@@ -1,6 +1,7 @@
 [config]
 name = _swarm hathor frigate 
-guiname = Swarm Hathor Frigate 
+#guiname = Swarm Hathor Frigate 
+guiname = ·äÈº¹şË÷¶û»¤ÎÀ½¢ 
 hull = Swarm Hathor Frigate 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _swarm seth fighter 
-guiname = Swarm Seth Fighter 
+#guiname = Swarm Seth Fighter 
+guiname = 蜂群赛斯战斗机 
 hull = Swarm Seth Fighter 
 
 [modules]

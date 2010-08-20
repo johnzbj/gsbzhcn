@@ -1,6 +1,7 @@
 [config]
 name = _imperial phalanx fighter 
-guiname = imperial phalanx fighter 
+#guiname = imperial phalanx fighter 
+guiname = 帝国方阵战斗机 
 hull = Imperial Phalanx Fighter 
 
 [modules]

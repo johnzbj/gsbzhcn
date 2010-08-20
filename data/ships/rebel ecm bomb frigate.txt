@@ -1,6 +1,7 @@
 [config]
 name = _rebel ecm bomb frigate 
-guiname = Rebel ECM Bomb Frigate 
+#guiname = Rebel ECM Bomb Frigate 
+guiname = 叛逆者电子对抗轰炸机 
 hull = Rebel Asgard Frigate hull 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _tribe serenity bomber 
-guiname = Tribe Serenity Bomber 
+#guiname = Tribe Serenity Bomber 
+guiname = ²¿ÂäÄş¾²ºäÕ¨»ú 
 hull = Tribe Serenity Fighter 
 
 [modules]

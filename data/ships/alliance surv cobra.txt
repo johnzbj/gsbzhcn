@@ -1,6 +1,7 @@
 [config]
 name = _alliance surv cobra 
-guiname = Alliance surv cobra 
+#guiname = Alliance surv cobra 
+guiname = ÁªÃË³¬¼¶ÑÛ¾µÉß»¤ÎÀ½¢ 
 hull = Alliance Cobra Frigate hull 
 
 [modules]

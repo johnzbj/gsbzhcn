@@ -1,6 +1,7 @@
 [config]
 name = _swarm anubis frigate 
-guiname = Swarm Anubis Frigate 
+#guiname = Swarm Anubis Frigate 
+guiname = ∑‰»∫∞¢¡Ú±¥Àπª§Œ¿Ω¢
 hull = Swarm Anubis Frigate 
 
 [modules]

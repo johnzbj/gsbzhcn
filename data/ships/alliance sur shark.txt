@@ -1,6 +1,7 @@
 [config]
 name = _alliance sur shark 
-guiname = Alliance Sur Shark 
+#guiname = Alliance Sur Shark 
+guiname = ÁªÃË³¬¼¶öèÓãÑ²Ñó½¢ 
 hull = Alliance Shark Cruiser hull 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _rebel valhalla cruiser 
-guiname = Rebel Valhalla Cruiser 
+#guiname = Rebel Valhalla Cruiser 
+guiname = ÅÑÄæÕßÍß¶û¹þÀ­Ñ²Ñó½¢ 
 hull = Rebel Valhalla Cruiser 
 
 [modules]

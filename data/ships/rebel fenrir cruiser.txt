@@ -1,6 +1,7 @@
 [config]
 name = _rebel fenrir cruiser 
-guiname = rebel fenrir cruiser 
+#guiname = rebel fenrir cruiser 
+guiname = ÅÑÄæÕß·ÒÀï¶òÑ²Ñó½¢ 
 hull = Rebel Fenrir Cruiser 
 
 [modules]

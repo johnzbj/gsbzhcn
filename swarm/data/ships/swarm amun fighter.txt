@@ -1,6 +1,7 @@
 [config]
 name = _swarm amun fighter 
-guiname = Swarm Amun Fighter 
+#guiname = Swarm Amun Fighter 
+guiname = ∑‰»∫∞¢√…’Ω∂∑ª˙ 
 hull = Swarm Amun Fighter 
 
 [modules]

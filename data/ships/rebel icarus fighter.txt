@@ -1,6 +1,7 @@
 [config]
 name = _rebel icarus fighter 
-guiname = Rebel Icarus Fighter 
+#guiname = Rebel Icarus Fighter 
+guiname = 叛逆者伊卡洛斯战斗机 
 hull = Rebel Icarus Fighter 
 
 [modules]

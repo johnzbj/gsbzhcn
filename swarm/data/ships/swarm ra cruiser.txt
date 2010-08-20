@@ -1,6 +1,7 @@
 [config]
 name = _swarm ra cruiser 
-guiname = Swarm Ra Cruiser 
+#guiname = Swarm Ra Cruiser 
+guiname = ∑‰»∫¿ÿ Ω—≤—ÛΩ¢
 hull = Swarm Ra Cruiser hull 
 
 [modules]

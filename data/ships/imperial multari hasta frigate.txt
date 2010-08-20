@@ -1,6 +1,7 @@
 [config]
 name = _imperial multari hasta frigate 
-guiname = imperial multari hasta frigate 
+#guiname = imperial multari hasta frigate 
+guiname = 帝国穆尔塔里-哈斯特护卫舰 
 hull = Imperial Hasta Frigate hull 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _tribe sunset fighter 
-guiname = Tribe Sunset Fighter 
+#guiname = Tribe Sunset Fighter 
+guiname = 部落日暮战斗机
 hull = Tribe Sunset Fighter 
 
 [modules]

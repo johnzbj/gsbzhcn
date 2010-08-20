@@ -1,6 +1,7 @@
 [config]
 name = _iw plasma cruiser 
-guiname = IW Plasma Cruiser 
+#guiname = IW Plasma Cruiser 
+guiname = IW µÈÀë×ÓÑ²Ñó½¢ 
 hull = Imperial Legion Cruiser hull 
 
 [modules]

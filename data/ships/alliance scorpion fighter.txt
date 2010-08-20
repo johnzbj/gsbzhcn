@@ -1,6 +1,7 @@
 [config]
 name = _alliance scorpion fighter 
-guiname = Alliance Scorpion Fighter 
+#guiname = Alliance Scorpion Fighter 
+guiname = 联盟蝎子战斗机
 hull = Alliance Scorpion Fighter 
 
 [modules]

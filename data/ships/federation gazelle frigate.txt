@@ -1,6 +1,7 @@
 [config]
 name = _federation gazelle frigate 
-guiname = Federation Gazelle Frigate 
+#guiname = Federation Gazelle Frigate 
+guiname = Áª°îµÉÁç»¤ÎÀ½¢ 
 hull = Federation Gazelle Frigate 
 
 [modules]

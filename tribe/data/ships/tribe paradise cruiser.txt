@@ -1,6 +1,7 @@
 [config]
 name = _tribe paradise cruiser 
-guiname = Tribe Paradise Cruiser 
+#guiname = Tribe Paradise Cruiser 
+guiname = ²¿ÂäÒÁµéÔ°Ñ²Ñó½¢ 
 hull = Tribe Paradise Cruiser hull 
 
 [modules]

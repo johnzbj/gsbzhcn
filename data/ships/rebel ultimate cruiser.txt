@@ -1,6 +1,7 @@
 [config]
 name = _rebel ultimate cruiser 
-guiname = Rebel Ultimate Cruiser 
+#guiname = Rebel Ultimate Cruiser 
+guiname = ÅÑÄæÕßÖÁ×ğÑ²Ñó½¢ 
 hull = Rebel Minotaur Cruiser 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _rebel sample frigate 
-guiname = Rebel Sample Frigate 
+#guiname = Rebel Sample Frigate 
+guiname = 叛逆者标本护卫舰 
 hull = Rebel Loki Frigate hull 
 
 [modules]
