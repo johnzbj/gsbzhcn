@@ -1,6 +1,7 @@
 [config]
 name = _iw antifighter frigate 
-guiname = iw antifighter frigate 
+#guiname = iw antifighter frigate 
+guiname = iw∂‘ø’ª§Œ¿Ω¢ 
 hull = Imperial Gladius Frigate hull 
 
 [modules]

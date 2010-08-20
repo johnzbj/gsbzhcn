@@ -1,6 +1,7 @@
 [config]
 name = _imperial cohort frigate 
-guiname = imperial cohort frigate 
+#guiname = imperial cohort frigate 
+guiname = 帝国队列护卫舰
 hull = Imperial Cohort Frigate hull 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _alliance dreadnought 
-guiname = Alliance Dreadnought 
+#guiname = Alliance Dreadnought 
+guiname = ÁªÃËÎÞÎ·ºÅÑ²Ñó½¢
 hull = Alliance Python Cruiser hull 
 
 [modules]

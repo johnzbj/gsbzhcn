@@ -1,6 +1,7 @@
 [config]
 name = _tribe eternity frigate 
-guiname = Tribe Eternity Frigate 
+#guiname = Tribe Eternity Frigate 
+guiname = ²¿ÂäÓÀºã»¤ÎÀ½¢ 
 hull = Tribe Eternity Frigate 
 
 [modules]

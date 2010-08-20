@@ -1,6 +1,7 @@
 [config]
 name = _imperial weapons platform 
-guiname = imperial weapons platform 
+#guiname = imperial weapons platform 
+guiname = µÛ¹úÎäÆ÷Æ½Ì¨ 
 hull = Imperial Weapons Platform hull 
 
 [modules]

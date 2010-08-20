@@ -1,6 +1,7 @@
 [config]
 name = _rebel point defence frigate 
-guiname = Rebel Point Defence Frigate 
+#guiname = Rebel Point Defence Frigate 
+guiname = 叛逆者对点防御护卫舰 
 hull = Rebel Asgard Frigate hull 
 
 [modules]

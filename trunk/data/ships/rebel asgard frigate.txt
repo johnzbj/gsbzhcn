@@ -1,6 +1,7 @@
 [config]
 name = _rebel asgard frigate 
-guiname = Rebel Asgard Frigate 
+#guiname = Rebel Asgard Frigate 
+guiname = ÅÑÄæÕßÏÉ¹¬»¤ÎÀ½¢ 
 hull = Rebel Asgard Frigate hull 
 
 [modules]

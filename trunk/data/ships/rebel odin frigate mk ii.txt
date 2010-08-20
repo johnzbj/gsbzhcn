@@ -1,6 +1,7 @@
 [config]
 name = _rebel odin frigate mk ii 
-guiname = Rebel Odin Frigate MK II 
+#guiname = Rebel Odin Frigate MK II 
+guiname = ÅÑÄæÕßÅ·¶¡»¤ÎÀ½¢ MK II 
 hull = Rebel Odin Frigate hull 
 
 [modules]

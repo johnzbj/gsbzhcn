@@ -1,6 +1,7 @@
 [config]
 name = _alliance hornet fighter 
-guiname = Alliance Hornet Fighter 
+#guiname = Alliance Hornet Fighter 
+guiname = 联盟大黄蜂战斗机 
 hull = Alliance Hornet Fighter 
 
 [modules]

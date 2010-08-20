@@ -1,6 +1,7 @@
 [config]
 name = _alliance unshielded stingray cruiser 
-guiname = Alliance Unshielded Stingray Cruiser 
+#guiname = Alliance Unshielded Stingray Cruiser 
+guiname = ÁªÃËÎŞ»¤¶Ü÷¥ÓãÑ²Ñó½¢ 
 hull = Alliance Stingray Cruiser hull 
 
 [modules]

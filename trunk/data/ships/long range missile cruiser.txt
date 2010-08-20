@@ -1,6 +1,7 @@
 [config]
 name = _long range missile cruiser 
-guiname = Long Range Missile Cruiser 
+#guiname = Long Range Missile Cruiser 
+guiname = ³¤³Ìµ¼µ¯Ñ²Ñó½¢ 
 hull = Alliance Cobra Frigate hull 
 
 [modules]

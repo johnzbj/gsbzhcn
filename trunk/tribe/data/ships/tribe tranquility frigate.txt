@@ -1,6 +1,7 @@
 [config]
 name = _tribe tranquility frigate 
-guiname = Tribe Tranquility Frigate 
+#guiname = Tribe Tranquility Frigate 
+guiname = ²¿ÂäÄş¾²»¤ÎÀ½¢ 
 hull = Tribe Tranquility Frigate hull 
 
 [modules]

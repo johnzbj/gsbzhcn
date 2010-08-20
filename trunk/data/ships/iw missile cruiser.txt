@@ -1,6 +1,7 @@
 [config]
 name = _iw missile cruiser 
-guiname = iw missile cruiser 
+#guiname = iw missile cruiser 
+guiname = iw µ¼µ¯Ñ²Ñó½¢ 
 hull = Imperial Praetorian Cruiser hull 
 
 [modules]

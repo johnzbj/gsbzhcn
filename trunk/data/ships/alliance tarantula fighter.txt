@@ -1,6 +1,7 @@
 [config]
 name = _alliance tarantula fighter 
-guiname = Alliance Tarantula Fighter 
+#guiname = Alliance Tarantula Fighter 
+guiname = ÁªÃËÀÇÖëÕ½¶·»ú 
 hull = Alliance Tarantula Fighter 
 
 [modules]

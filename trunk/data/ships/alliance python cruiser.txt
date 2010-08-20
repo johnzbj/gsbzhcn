@@ -1,6 +1,7 @@
 [config]
 name = _alliance python cruiser 
-guiname = alliance python cruiser 
+#guiname = alliance python cruiser 
+guiname = ÁªÃË¾ÞòþÑ²Ñó½¢ 
 hull = Alliance Python Cruiser hull 
 
 [modules]

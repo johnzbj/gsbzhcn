@@ -1,6 +1,7 @@
 [config]
 name = _alliance sur plasma hurler 
-guiname = alliance sur Plasma Hurler 
+#guiname = alliance sur Plasma Hurler 
+guiname = 联盟超级等离子巡洋舰 
 hull = Alliance Alligator Cruiser hull 
 
 [modules]

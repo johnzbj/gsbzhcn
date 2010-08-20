@@ -1,6 +1,7 @@
 [config]
 name = _rebel atlantis bomber 
-guiname = Rebel Atlantis bomber 
+#guiname = Rebel Atlantis bomber 
+guiname = 叛逆者阿特兰蒂斯轰炸机 
 hull = Rebel Atlantis Bomber 
 
 [modules]

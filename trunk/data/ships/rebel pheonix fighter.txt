@@ -1,6 +1,7 @@
 [config]
 name = _rebel pheonix fighter 
-guiname = Rebel Pheonix Fighter 
+#guiname = Rebel Pheonix Fighter 
+guiname = 叛逆者菲尼克斯战斗机 
 hull = Rebel Pheonix Fighter 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _swarm osiris fighter 
-guiname = Swarm Osiris Fighter 
+#guiname = Swarm Osiris Fighter 
+guiname = 蜂群欧赛瑞斯战斗机 
 hull = Swarm Osiris Fighter 
 
 [modules]

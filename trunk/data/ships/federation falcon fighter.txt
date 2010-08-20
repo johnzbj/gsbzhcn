@@ -1,6 +1,7 @@
 [config]
 name = _federation falcon fighter 
-guiname = Federation Falcon Fighter 
+#guiname = Federation Falcon Fighter 
+guiname = а╙╟Натс╔у╫╤╥╩З 
 hull = Federation Falcon Fighter 
 
 [modules]

@@ -1,6 +1,7 @@
 [config]
 name = _imperial javelin fighter 
-guiname = Imperial Javelin Fighter 
+#guiname = Imperial Javelin Fighter 
+guiname = 帝国标枪战斗机 
 hull = Imperial Javelin Fighter 
 
 [modules]

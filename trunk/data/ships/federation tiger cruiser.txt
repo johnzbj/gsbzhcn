@@ -1,6 +1,7 @@
 [config]
 name = _federation tiger cruiser 
-guiname = Federation Tiger Cruiser 
+#guiname = Federation Tiger Cruiser 
+guiname = Áª°î»¢Ê½Ñ²Ñó½¢
 hull = Federation Tiger Cruiser hull 
 
 [modules]

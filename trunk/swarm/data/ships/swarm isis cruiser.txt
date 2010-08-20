@@ -1,6 +1,7 @@
 [config]
 name = _swarm isis cruiser 
-guiname = Swarm Isis Cruiser 
+#guiname = Swarm Isis Cruiser 
+guiname = ·äÈºÒÁÎ÷Ë¹Ñ²Ñó½¢ 
 hull = Swarm Isis Cruiser hull 
 
 [modules]

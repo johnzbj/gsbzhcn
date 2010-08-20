@@ -1,6 +1,7 @@
 [config]
 name = _iw ecm frigate 
-guiname = iw ecm frigate 
+#guiname = iw ecm frigate 
+guiname = iw 电子对抗护卫舰 
 hull = Imperial Cohort Frigate hull 
 
 [modules]

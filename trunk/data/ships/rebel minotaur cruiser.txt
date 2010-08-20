@@ -1,6 +1,7 @@
 [config]
 name = _rebel minotaur cruiser 
-guiname = Rebel Minotaur Cruiser 
+#guiname = Rebel Minotaur Cruiser 
+guiname = ÅÑÄæÕßÅ£¹ÖÑ²Ñó½¢ 
 hull = Rebel Minotaur Cruiser 
 
 [modules]

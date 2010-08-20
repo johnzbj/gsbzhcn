@@ -1,6 +1,7 @@
 [config]
 name = _swarm sekhmet cruiser 
-guiname = Swarm Sekhmet Cruiser 
+#guiname = Swarm Sekhmet Cruiser 
+guiname = ·äÈºÈû¿ËºÉÂõÌØÑ²Ñó½¢ 
 hull = Swarm Sekhmet Cruiser hull 
 
 [modules]

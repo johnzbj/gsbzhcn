@@ -1,6 +1,7 @@
 [config]
 name = _imperial ballista fighter 
-guiname = imperial ballista fighter 
+#guiname = imperial ballista fighter 
+guiname = 帝国投射战斗机 
 hull = Imperial Ballista Fighter 
 
 [modules]

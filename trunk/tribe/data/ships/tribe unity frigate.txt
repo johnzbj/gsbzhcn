@@ -1,6 +1,7 @@
 [config]
 name = _tribe unity frigate 
-guiname = Tribe Unity Frigate 
+#guiname = Tribe Unity Frigate 
+guiname = 部落统一护卫舰 
 hull = Tribe Unity Frigate hull 
 
 [modules]

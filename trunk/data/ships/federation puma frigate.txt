@@ -1,6 +1,7 @@
 [config]
 name = _federation puma frigate 
-guiname = Federation Puma Frigate 
+#guiname = Federation Puma Frigate 
+guiname = Áª°îÃÀÖŞÊ¨»¤ÎÀ½¢ 
 hull = Federation Puma Frigate hull 
 
 [modules]
