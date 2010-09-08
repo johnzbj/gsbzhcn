@@ -1,0 +1,93 @@
+[ship0]
+shipid = 1
+name = Barrius
+design = _iw antifighter frigate
+pos = 288,1824
+quantity = 1
+angle = 0
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 0
+
+[ship1]
+shipid = 4
+name = Agorix
+design = _iw antifighter frigate
+pos = 1440,1824
+quantity = 1
+angle = 0
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 0
+
+[ship2]
+shipid = 5
+name = Scato
+design = _iw plasma cruiser
+pos = 576,1824
+quantity = 1
+angle = 360
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,821.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 360
+
+[ship3]
+shipid = 6
+name = Moderatus
+design = _iw plasma cruiser
+pos = 768,1824
+quantity = 1
+angle = 360
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,821.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 360
+
+[ship4]
+shipid = 7
+name = Tiberius
+design = _iw plasma cruiser
+pos = 960,1824
+quantity = 1
+angle = 360
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,821.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 360
+
+[ship5]
+shipid = 8
+name = Procyon
+design = _iw plasma cruiser
+pos = 1152,1824
+quantity = 1
+angle = 360
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,821.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 360
+
+[ship6]
+shipid = 9
+name = Novius
+design = _iw rocket fighter
+pos = 864,1632
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.40,314.29
+behaviour_1 = ATTACK_CRUISERS,-1,0.20,328.57
+angle = 270
+

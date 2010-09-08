@@ -1,0 +1,373 @@
+[ship0]
+shipid = 11
+name = Behold My Tentacles
+design = _tribe eternity frigate
+pos = 2304,2208
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship1]
+shipid = 12
+name = Victory Or Death
+design = _tribe eternity frigate
+pos = 2304,2304
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship2]
+shipid = 13
+name = Ambivalent ambition
+design = _tribe eternity frigate
+pos = 2304,2400
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship3]
+shipid = 14
+name = Andromeda or Bust
+design = _tribe eternity frigate
+pos = 2208,2208
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship4]
+shipid = 15
+name = The first time ever I saw your race
+design = _tribe eternity frigate
+pos = 2208,2304
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship5]
+shipid = 16
+name = Strawberries and cream
+design = _tribe eternity frigate
+pos = 2208,2400
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship6]
+shipid = 9
+name = Stellar Badass
+design = _tribe harmony cruiser
+pos = 2400,1248
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship7]
+shipid = 10
+name = Intelligent life sought
+design = _tribe harmony cruiser
+pos = 2400,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship8]
+shipid = 26
+name = Linkage disequilibrium
+design = _tribe paradise cruiser
+pos = 2688,768
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,278.57
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 27
+name = Sampling error
+design = _tribe paradise cruiser
+pos = 2591,2304
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,350.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 28
+name = Gold squadron
+design = _tribe serenity bomber
+pos = 2784,1056
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship11]
+shipid = 5
+name = Orange squadron
+design = _tribe sunset fighter
+pos = 2400,1824
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,2,143.23,0.00
+angle = 270
+
+[ship12]
+shipid = 6
+name = Grey squadron
+design = _tribe sunset fighter
+pos = 2304,2016
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,1,169.55,0.00
+angle = 270
+
+[ship13]
+shipid = 7
+name = Purple squadron
+design = _tribe sunset fighter
+pos = 2304,1536
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,3,143.23,0.00
+angle = 270
+
+[ship14]
+shipid = 8
+name = Amber squadron
+design = _tribe sunset fighter
+pos = 2400,1727
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,3,124.44,0.00
+angle = 270
+
+[ship15]
+shipid = 22
+name = Ropy entropy
+design = _tribe tranquility frigate
+pos = 2112,768
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,19,0.00,0.00
+angle = 270
+
+[ship16]
+shipid = 23
+name = Total Overkill
+design = _tribe tranquility frigate
+pos = 2208,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = ESCORT,9,261.65,0.00
+angle = 270
+
+[ship17]
+shipid = 24
+name = It’s a rich mans worm
+design = _tribe tranquility frigate
+pos = 2208,1440
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = ESCORT,10,261.65,0.00
+angle = 270
+
+[ship18]
+shipid = 25
+name = Head in the clouds
+design = _tribe tranquility frigate
+pos = 2591,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = RESCUER,-1,0.00,0.00
+angle = 270
+
+[ship19]
+shipid = 17
+name = Start an initiative initiative
+design = _tribe unity frigate
+pos = 2208,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = PROTECTIVE,22,0.00,0.00
+angle = 270
+
+[ship20]
+shipid = 18
+name = Perfectly straight curve
+design = _tribe unity frigate
+pos = 2304,863
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,17,0.00,0.00
+behaviour_4 = PROTECTIVE,22,0.00,0.00
+angle = 270
+
+[ship21]
+shipid = 19
+name = It’s only a dream
+design = _tribe unity frigate
+pos = 2400,768
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,18,0.00,0.00
+behaviour_4 = PROTECTIVE,22,0.00,0.00
+angle = 270
+
+[ship22]
+shipid = 20
+name = Well, flagellate my flagella
+design = _tribe unity frigate
+pos = 2304,672
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,18,0.00,0.00
+behaviour_4 = PROTECTIVE,22,0.00,0.00
+angle = 270
+
+[ship23]
+shipid = 21
+name = Law of diminishing returns
+design = _tribe unity frigate
+pos = 2208,576
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,20,0.00,0.00
+behaviour_4 = PROTECTIVE,22,0.00,0.00
+angle = 270
+
+[ship24]
+shipid = 1
+name = Normal laws of engagement do not apply
+design = _tribe utopia cruiser
+pos = 2208,1920
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,2,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship25]
+shipid = 2
+name = Coping mechanoid
+design = _tribe utopia cruiser
+pos = 2208,1824
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship26]
+shipid = 3
+name = It’s such a perfect day
+design = _tribe utopia cruiser
+pos = 2208,1727
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,2,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+

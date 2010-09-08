@@ -1,0 +1,388 @@
+[ship0]
+shipid = 0
+name = Leviathan
+design = _rebel minotaur cruiser
+pos = 2974,2016
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.59,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,421.43
+angle = 270
+
+[ship1]
+shipid = 1
+name = Pursuer
+design = _rebel minotaur cruiser
+pos = 3072,1823
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.59,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,421.43
+behaviour_3 = FORMATION,0,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship2]
+shipid = 3
+name = Turbulent
+design = _rebel minotaur cruiser
+pos = 3072,2208
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.59,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,421.43
+behaviour_3 = FORMATION,0,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 4
+name = Conqueror
+design = _rebel missile cruiser
+pos = 3359,1919
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = FORMATION,0,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship4]
+shipid = 5
+name = Slinger
+design = _rebel missile cruiser
+pos = 3359,1727
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = FORMATION,1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship5]
+shipid = 6
+name = Falcon
+design = _rebel missile cruiser
+pos = 3359,2112
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = FORMATION,0,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 7
+name = Majestic
+design = _rebel missile cruiser
+pos = 3359,2208
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = FORMATION,0,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship7]
+shipid = 8
+name = Resolute
+design = _rebel missile cruiser
+pos = 3359,1823
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = FORMATION,1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 9
+name = Conflict
+design = _rebel missile cruiser
+pos = 3359,2304
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = FORMATION,3,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 10
+name = Triumph
+design = _rebel missile cruiser
+pos = 3263,2400
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = FORMATION,3,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 11
+name = Thunderer
+design = _rebel loki frigate
+pos = 2880,1919
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,0,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 14
+name = Zealous
+design = _rebel loki frigate
+pos = 3167,3263
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship12]
+shipid = 15
+name = Hunter
+design = _rebel loki frigate
+pos = 3167,3167
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship13]
+shipid = 31
+name = Black squadron
+design = _rebel achilles fighter
+pos = 3263,3359
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,14,225.94,0.00
+angle = 270
+
+[ship14]
+shipid = 32
+name = Aqua squadron
+design = _rebel achilles fighter
+pos = 3359,3167
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,15,225.94,0.00
+angle = 270
+
+[ship15]
+shipid = 35
+name = Centurion
+design = _rebel valhalla cruiser
+pos = 3359,863
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+angle = 270
+
+[ship16]
+shipid = 41
+name = Silver squadron
+design = _rebel icarus fighter
+pos = 2974,2400
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship17]
+shipid = 42
+name = White squadron
+design = _rebel icarus fighter
+pos = 2974,1727
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship18]
+shipid = 44
+name = Cobalt squadron
+design = _rebel icarus fighter
+pos = 3167,959
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,35,261.65,0.00
+angle = 270
+
+[ship19]
+shipid = 47
+name = Bronze squadron
+design = _rebel icarus fighter
+pos = 3359,1056
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,35,254.14,0.00
+angle = 270
+
+[ship20]
+shipid = 48
+name = Amber squadron
+design = _rebel icarus fighter
+pos = 2880,2208
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship21]
+shipid = 49
+name = Indefatigable
+design = _rebel asgard frigate
+pos = 3167,672
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,35,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship22]
+shipid = 50
+name = Blue squadron
+design = _rebel atlantis bomber
+pos = 2974,672
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,49,201.50,0.00
+angle = 270
+
+[ship23]
+shipid = 51
+name = Revenge
+design = _rebel loki frigate
+pos = 3167,1631
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship24]
+shipid = 52
+name = Scorpion
+design = _rebel minotaur cruiser
+pos = 3359,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.59,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,421.43
+angle = 270
+
+[ship25]
+shipid = 53
+name = Determined
+design = _rebel minotaur cruiser
+pos = 3359,2688
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.59,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,421.43
+angle = 270
+
+[ship26]
+shipid = 54
+name = Formidable
+design = _rebel odin frigate
+pos = 3263,1248
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = ESCORT,52,100.00,0.00
+angle = 270
+
+[ship27]
+shipid = 55
+name = Ocean
+design = _rebel loki frigate
+pos = 3455,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = ESCORT,52,100.00,0.00
+angle = 270
+
+[ship28]
+shipid = 56
+name = Daring
+design = _rebel loki frigate
+pos = 3263,1631
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+angle = 270
+

@@ -1,0 +1,63 @@
+[ship0]
+shipid = 1
+name = Taras
+design = _iw antifighter frigate
+pos = 192,1632
+quantity = 1
+angle = 27
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,328.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.12,371.43
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+angle = 27
+
+[ship1]
+shipid = 2
+name = Mercator
+design = _iw antifighter frigate
+pos = 576,1824
+quantity = 1
+angle = 27
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,328.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.12,371.43
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+angle = 27
+
+[ship2]
+shipid = 3
+name = Pantera
+design = _iw maincruiser
+pos = 384,1728
+quantity = 1
+angle = 27
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,628.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,571.43
+behaviour_2 = RETALIATE,-1,0.00,0.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 27
+
+[ship3]
+shipid = 4
+name = Opilio
+design = _imperial phalanx fighter
+pos = 96,1728
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,1,201.50,0.00
+angle = 270
+
+[ship4]
+shipid = 5
+name = Bellator
+design = _imperial phalanx fighter
+pos = 384,1920
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,2,207.14,0.00
+angle = 270
+

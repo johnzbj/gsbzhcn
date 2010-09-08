@@ -1,0 +1,288 @@
+[ship0]
+shipid = 35
+name = Somewhere over the rainbow, way, way up high
+design = _alliance noshields cruiser
+pos = 1920,1920
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,192.86
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,350.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship1]
+shipid = 36
+name = Anxiety, attack, disorder
+design = _alliance noshields cruiser
+pos = 1920,1728
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,192.86
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,350.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship2]
+shipid = 10
+name = Target Practice
+design = _alliance cobra frigate
+pos = 1920,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,257.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,635.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,614.29
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 12
+name = Victory Or Death
+design = _alliance cobra frigate
+pos = 1824,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,257.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,635.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,614.29
+behaviour_3 = FORMATION,10,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship4]
+shipid = 25
+name = Warped Mind
+design = _alliance hornet fighter
+pos = 1440,1824
+quantity = 12
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,157.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,178.57
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,178.57
+angle = 270
+
+[ship5]
+shipid = 27
+name = Tenuous tentacles
+design = _alliance unshielded dreadnought
+pos = 1536,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,192.86
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,414.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,428.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 28
+name = Law of diminishing returns
+design = _alliance unshielded dreadnought
+pos = 1536,1440
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,192.86
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,414.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,428.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship7]
+shipid = 29
+name = Empathic enthalpy
+design = _alliance unshielded dreadnought
+pos = 1728,288
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,192.86
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,414.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,428.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 30
+name = Fight of fancy
+design = _alliance unshielded dreadnought
+pos = 1728,480
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,192.86
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,414.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,428.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 5
+name = Aqua squadron
+design = _alliance scorpion fighter
+pos = 1536,1344
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,321.43
+behaviour_1 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_2 = ESCORT,28,301.13,0.00
+angle = 270
+
+[ship10]
+shipid = 7
+name = Green squadron
+design = _alliance scorpion fighter
+pos = 1728,768
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,321.43
+behaviour_1 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship11]
+shipid = 39
+name = Gold squadron
+design = _alliance scorpion fighter
+pos = 1632,1824
+quantity = 2
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,18,100.00,0.00
+angle = 270
+
+[ship12]
+shipid = 31
+name = Second law of thermowhatever
+design = _alliance unshielded stingray cruiser
+pos = 1920,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,842.86
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship13]
+shipid = 32
+name = Head in the clouds
+design = _alliance unshielded stingray cruiser
+pos = 1632,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,842.86
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship14]
+shipid = 22
+name = The Zap Wagon
+design = _alliance swordfish frigate
+pos = 1920,480
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,328.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,328.57
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,335.71
+behaviour_3 = ESCORT,30,304.89,0.00
+angle = 270
+
+[ship15]
+shipid = 26
+name = Galactic Maniac
+design = _alliance swordfish frigate
+pos = 1440,480
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,328.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,328.57
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,335.71
+angle = 270
+
+[ship16]
+shipid = 33
+name = Displacement inactivity
+design = _alliance swordfish frigate
+pos = 1920,288
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,328.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,328.57
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,335.71
+behaviour_3 = ESCORT,29,340.60,0.00
+angle = 270
+
+[ship17]
+shipid = 34
+name = Suicidal Tendencies
+design = _alliance swordfish frigate
+pos = 1440,288
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,328.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,328.57
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,335.71
+angle = 270
+
+[ship18]
+shipid = 21
+name = Red squadron
+design = _alliance tarantula fighter
+pos = 1920,1344
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,10,100.00,0.00
+angle = 270
+
+[ship19]
+shipid = 37
+name = Cobalt squadron
+design = _alliance tarantula fighter
+pos = 1536,288
+quantity = 6
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,34,100.00,0.00
+angle = 270
+
+[ship20]
+shipid = 38
+name = Crimson squadron
+design = _alliance tarantula fighter
+pos = 1536,480
+quantity = 6
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,26,100.00,0.00
+angle = 270
+
+[ship21]
+shipid = 18
+name = Galactic Maniac
+design = _alliance wasp frigate
+pos = 1728,1824
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,235.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,221.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,250.00
+angle = 270
+

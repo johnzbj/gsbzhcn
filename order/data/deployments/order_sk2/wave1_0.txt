@@ -1,0 +1,147 @@
+
+[ship1]
+shipid = 14
+name = Blessed Warrior
+design = _order crusader cruiser
+pos = 1248,2592
+quantity = 1
+angle = 360
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.01,0.00
+angle = 360
+
+[ship2]
+shipid = 18
+name = Celestial Servant
+design = _order salvation fighter
+pos = 1056,2592
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,14,436.47,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 19
+name = Devout Soldier
+design = _order saviour frigate
+pos = 1439,2688
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,500.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 180
+
+[ship4]
+shipid = 20
+name = Solemn Teacher
+design = _order saviour frigate
+pos = 1536,2784
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,500.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_2 = VULTURE,-1,0.00,0.00
+angle = 180
+
+[ship5]
+shipid = 21
+name = Holy Believer
+design = _order saviour frigate
+pos = 1344,2784
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,500.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_2 = VULTURE,-1,0.00,0.00
+angle = 180
+
+[ship6]
+shipid = 15
+name = Celestial King
+design = _order spirit frigate
+pos = 863,2688
+quantity = 1
+angle = 207
+behaviour_0 = ATTACK_CRUISERS,-1,0.50,707.14
+behaviour_1 = FORMATION,22,0.00,0.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+angle = 207
+
+[ship7]
+shipid = 16
+name = Blessed Fury
+design = _order spirit frigate
+pos = 480,2688
+quantity = 1
+angle = 207
+behaviour_0 = ATTACK_CRUISERS,-1,0.50,707.14
+behaviour_1 = FORMATION,22,0.00,0.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+angle = 207
+
+[ship8]
+shipid = 17
+name = Hallowed Power
+design = _order spirit frigate
+pos = 384,2784
+quantity = 1
+angle = 207
+behaviour_0 = ATTACK_CRUISERS,-1,0.50,707.14
+behaviour_1 = FORMATION,22,0.00,0.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+angle = 207
+
+[ship9]
+shipid = 23
+name = Pious Solider
+design = _order temple cruiser
+pos = 1920,2688
+quantity = 1
+angle = 153
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,621.43
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,771.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 153
+
+[ship10]
+shipid = 24
+name = Reverent Warrior
+design = _order temple cruiser
+pos = 2208,2688
+quantity = 1
+angle = 153
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,621.43
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,771.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 153
+
+[ship11]
+shipid = 22
+name = Righteous Power
+design = _order trinity cruiser
+pos = 672,2784
+quantity = 1
+angle = 0
+behaviour_0 = ATTACK_FIGHTERS,-1,0.06,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 0
+

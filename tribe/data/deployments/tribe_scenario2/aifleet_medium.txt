@@ -1,0 +1,115 @@
+[ship0]
+shipid = 4
+name = Little Green Men
+design = _tribe freedom cruiser
+pos = 2304,1248
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,628.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship1]
+shipid = 1
+name = Common ancestor
+design = _tribe harmony cruiser
+pos = 2208,768
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,378.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship2]
+shipid = 3
+name = First law of thermoapathy
+design = _tribe harmony cruiser
+pos = 2208,1728
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,364.29
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship3]
+shipid = 5
+name = Survival of the fittest
+design = _tribe tranquility frigate
+pos = 1920,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.90,957.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,978.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship4]
+shipid = 6
+name = Hand Of God
+design = _tribe tranquility frigate
+pos = 1920,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.90,957.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,978.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship5]
+shipid = 7
+name = Normal laws of engagement do not apply
+design = _tribe tranquility frigate
+pos = 1920,1440
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.90,957.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,978.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship6]
+shipid = 8
+name = Lucid dreams
+design = _tribe tranquility frigate
+pos = 1920,1056
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.90,957.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,978.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship7]
+shipid = 9
+name = My proboscis sucks
+design = _tribe tranquility frigate
+pos = 1920,1248
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.90,957.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,978.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+

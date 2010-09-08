@@ -1,0 +1,172 @@
+[ship0]
+shipid = 18
+name = Planet Pounder
+design = _alliance alligator cruiser
+pos = 1440,384
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship1]
+shipid = 19
+name = Little Green Men
+design = _alliance alligator cruiser
+pos = 1440,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship2]
+shipid = 21
+name = Galactic Maniac
+design = _alliance cobra frigate
+pos = 1632,672
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,721.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,714.29
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 22
+name = Hand Of God
+design = _alliance cobra frigate
+pos = 1632,1248
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,721.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,714.29
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship4]
+shipid = 11
+name = Cobalt squadron
+design = _alliance hornet fighter
+pos = 1440,672
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,100.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,100.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship5]
+shipid = 12
+name = Gold squadron
+design = _alliance hornet fighter
+pos = 1440,1248
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,100.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,100.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 24
+name = Blue squadron
+design = _alliance hornet fighter
+pos = 1440,960
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,23,100.00,0.00
+angle = 270
+
+[ship7]
+shipid = 25
+name = Purple squadron
+design = _alliance hornet fighter
+pos = 1440,1824
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 0
+name = The Zap Wagon
+design = _alliance dreadnought
+pos = 1824,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,557.14
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,571.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 8
+name = Fun With Fusion
+design = _alliance dreadnought
+pos = 1728,1728
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,557.14
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,571.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 17
+name = Total Overkill
+design = _alliance dreadnought
+pos = 1728,192
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,557.14
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,571.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 23
+name = Crash mat
+design = _alliance shark cruiser
+pos = 1536,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,528.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship12]
+shipid = 20
+name = Glory
+design = _alliance wasp frigate
+pos = 1705,829
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+angle = 270
+

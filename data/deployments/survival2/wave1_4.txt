@@ -1,0 +1,121 @@
+[ship0]
+shipid = 2
+name = I’m your wingman
+design = _alliance sur python
+pos = 1536,2208
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,564.29
+behaviour_1 = ATTACK_CRUISERS,-1,0.52,521.43
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+angle = 315
+
+[ship1]
+shipid = 3
+name = Authorized dreamcatcher
+design = _alliance sur python
+pos = 1920,2016
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,564.29
+behaviour_1 = ATTACK_CRUISERS,-1,0.52,521.43
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+angle = 315
+
+[ship2]
+shipid = 5
+name = Innovate don’t interrogate
+design = _alliance swordfish frigate
+pos = 2304,2208
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,407.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,392.86
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+angle = 315
+
+[ship3]
+shipid = 6
+name = Monetarism makes the world go round
+design = _alliance swordfish frigate
+pos = 1920,2208
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,407.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,392.86
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+angle = 315
+
+[ship4]
+shipid = 7
+name = Crash test dumbass
+design = _alliance swordfish frigate
+pos = 2208,2112
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,407.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,392.86
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+angle = 315
+
+[ship5]
+shipid = 8
+name = Or Die Trying
+design = _alliance swordfish frigate
+pos = 2208,2304
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,407.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,392.86
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+angle = 315
+
+[ship6]
+shipid = 9
+name = Die Puny Humans!
+design = _alliance swordfish frigate
+pos = 2111,2208
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,407.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,392.86
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+angle = 315
+
+[ship7]
+shipid = 10
+name = Ambivalent ambition
+design = _alliance swordfish frigate
+pos = 1728,2304
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,407.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,392.86
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+angle = 315
+
+[ship8]
+shipid = 11
+name = Self delusional beginnings
+design = _alliance surv swordfish
+pos = 1728,2112
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,814.29
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,807.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+angle = 315
+
+[ship9]
+shipid = 12
+name = Survival of the fittest
+design = _alliance sur python
+pos = 1920,2400
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,564.29
+behaviour_1 = ATTACK_CRUISERS,-1,0.52,521.43
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+angle = 315
+

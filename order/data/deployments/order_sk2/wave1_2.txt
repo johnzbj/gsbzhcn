@@ -1,0 +1,180 @@
+[ship0]
+shipid = 13
+name = Andromeda or Bust
+design = _order acolyte fighter
+pos = 3552,1344
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,360.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.61,360.00
+angle = 270
+
+[ship1]
+shipid = 25
+name = The Fist Of God
+design = _order acolyte fighter
+pos = 2784,960
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,1.00,360.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.61,360.00
+angle = 270
+
+[ship2]
+shipid = 26
+name = Righteous Defender
+design = _order acolyte fighter
+pos = 2784,2112
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,1.00,360.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.61,360.00
+angle = 270
+
+[ship3]
+shipid = 17
+name = Devout Warrior
+design = _order redemption frigate
+pos = 2208,768
+quantity = 1
+angle = 99
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,414.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,342.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.01,342.86
+behaviour_3 = FORMATION,14,0.00,0.00
+angle = 99
+
+[ship4]
+shipid = 18
+name = Angelic Justice
+design = _order redemption frigate
+pos = 2208,1344
+quantity = 1
+angle = 99
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,414.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,342.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.01,342.86
+behaviour_3 = FORMATION,15,0.00,0.00
+angle = 99
+
+[ship5]
+shipid = 19
+name = Hallowed Kingdom
+design = _order redemption frigate
+pos = 2208,1920
+quantity = 1
+angle = 99
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,414.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,342.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.01,342.86
+behaviour_3 = FORMATION,16,0.00,0.00
+angle = 99
+
+[ship6]
+shipid = 20
+name = Holy Warrior
+design = _order redemption frigate
+pos = 2688,1920
+quantity = 1
+angle = 99
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,414.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,342.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.01,342.86
+behaviour_3 = FORMATION,16,0.00,0.00
+angle = 99
+
+[ship7]
+shipid = 21
+name = Celestial Power
+design = _order redemption frigate
+pos = 2688,1344
+quantity = 1
+angle = 99
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,414.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,342.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.01,342.86
+behaviour_3 = FORMATION,15,0.00,0.00
+angle = 99
+
+[ship8]
+shipid = 22
+name = Hallowed Justice
+design = _order redemption frigate
+pos = 2591,768
+quantity = 1
+angle = 99
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,414.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,342.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.01,342.86
+behaviour_3 = FORMATION,14,0.00,0.00
+angle = 99
+
+[ship9]
+shipid = 14
+name = Godly Servant
+design = _order temple cruiser
+pos = 2400,768
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.01,628.57
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,680.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 15
+name = The Fury Of The Lord
+design = _order temple cruiser
+pos = 2400,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.01,628.57
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,680.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 16
+name = Sacred Justice
+design = _order temple cruiser
+pos = 2400,1920
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.01,628.57
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,680.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+angle = 270
+
+[ship12]
+shipid = 23
+name = Spiritual Fury
+design = _order trinity cruiser
+pos = 2688,2400
+quantity = 1
+angle = 90
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,585.71
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,628.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+angle = 90
+
+[ship13]
+shipid = 24
+name = Light Of Our Lord
+design = _order trinity cruiser
+pos = 2688,288
+quantity = 1
+angle = 90
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,585.71
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,628.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+angle = 90
+

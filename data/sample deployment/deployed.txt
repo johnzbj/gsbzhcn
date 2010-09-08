@@ -1,0 +1,24 @@
+[ship0]
+shipid = 2
+name = Warped Mind
+design = tutorial frigate
+pos = 384,1248
+quantity = 1
+angle = 90
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+angle = 90
+
+[ship1]
+shipid = 3
+name = Normal laws of engagement do not apply
+design = tutorial cruiser
+pos = 192,960
+quantity = 1
+angle = 90
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+angle = 90
+

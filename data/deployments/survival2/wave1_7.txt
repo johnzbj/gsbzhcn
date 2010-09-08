@@ -1,0 +1,172 @@
+[ship0]
+shipid = 1
+name = Look for the blind spot
+design = _alliance sur stingray
+pos = 2112,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.06,292.86
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,314.29
+behaviour_2 = CAUTIOUS,-1,0.10,0.00
+angle = 270
+
+[ship1]
+shipid = 2
+name = Perpetual notion
+design = _alliance surv swordfish
+pos = 2016,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,785.71
+behaviour_1 = ATTACK_CRUISERS,-1,0.18,771.43
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship2]
+shipid = 3
+name = Dream on
+design = _alliance surv swordfish
+pos = 2016,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,785.71
+behaviour_1 = ATTACK_CRUISERS,-1,0.18,771.43
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 4
+name = Deaf, dumb and blasé
+design = _alliance surv swordfish
+pos = 2112,480
+quantity = 1
+angle = 225
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,785.71
+behaviour_1 = ATTACK_CRUISERS,-1,0.18,771.43
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,8,0.00,0.00
+angle = 225
+
+[ship4]
+shipid = 5
+name = Step away from the controls
+design = _alliance surv swordfish
+pos = 2016,2016
+quantity = 1
+angle = 297
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,785.71
+behaviour_1 = ATTACK_CRUISERS,-1,0.18,771.43
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,9,0.00,0.00
+angle = 297
+
+[ship5]
+shipid = 6
+name = Upward and onward
+design = _alliance surv swordfish
+pos = 1920,2304
+quantity = 1
+angle = 297
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,785.71
+behaviour_1 = ATTACK_CRUISERS,-1,0.18,771.43
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,9,0.00,0.00
+angle = 297
+
+[ship6]
+shipid = 7
+name = Coping mechanoid
+design = _alliance surv swordfish
+pos = 1920,288
+quantity = 1
+angle = 225
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,785.71
+behaviour_1 = ATTACK_CRUISERS,-1,0.18,771.43
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,8,0.00,0.00
+angle = 225
+
+[ship7]
+shipid = 8
+name = Somewhere over the rainbow, way, way up high
+design = _alliance sur alligator
+pos = 1920,480
+quantity = 1
+angle = 225
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,514.29
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,514.29
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+angle = 225
+
+[ship8]
+shipid = 9
+name = It’s such a perfect day
+design = _alliance sur alligator
+pos = 1823,2112
+quantity = 1
+angle = 297
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,514.29
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,514.29
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+angle = 297
+
+[ship9]
+shipid = 10
+name = The Zap Wagon
+design = _alliance surv swordfish
+pos = 2400,1632
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = PROTECTIVE,1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 11
+name = Intimidate don’t imitate
+design = _alliance surv swordfish
+pos = 2400,1056
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = PROTECTIVE,1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 12
+name = Probiotic army
+design = _alliance surv swordfish
+pos = 2112,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = PROTECTIVE,1,0.00,0.00
+angle = 270
+
+[ship12]
+shipid = 13
+name = Second law of thermowhatever
+design = _alliance swordfish frigate
+pos = 2112,1728
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = PROTECTIVE,1,0.00,0.00
+angle = 270
+

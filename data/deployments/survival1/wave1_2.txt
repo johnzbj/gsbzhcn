@@ -1,0 +1,80 @@
+[ship0]
+shipid = 1
+name = Novius
+design = _iw plasma cruiser
+pos = 960,192
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,0.43,600.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,607.14
+behaviour_2 = VULTURE,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 180
+
+[ship1]
+shipid = 2
+name = Tiberius
+design = _iw plasma cruiser
+pos = 1248,192
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,0.43,600.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,607.14
+behaviour_2 = VULTURE,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,1,0.00,0.00
+angle = 180
+
+[ship2]
+shipid = 3
+name = Lusius
+design = _iw plasma cruiser
+pos = 672,192
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,0.43,600.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,607.14
+behaviour_2 = VULTURE,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,1,0.00,0.00
+angle = 180
+
+[ship3]
+shipid = 4
+name = Jove
+design = _imperial javelin fighter
+pos = 480,384
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,3,201.50,0.00
+angle = 270
+
+[ship4]
+shipid = 5
+name = Severus
+design = _imperial javelin fighter
+pos = 960,384
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,1,193.98,0.00
+angle = 270
+
+[ship5]
+shipid = 6
+name = Tacitus
+design = _imperial javelin fighter
+pos = 1440,288
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,2,201.50,0.00
+angle = 270
+

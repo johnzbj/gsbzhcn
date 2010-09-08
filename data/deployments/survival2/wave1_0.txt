@@ -1,0 +1,97 @@
+[ship0]
+shipid = 1
+name = Suicidal Tendencies
+design = _alliance sur alligator
+pos = 2304,2400
+quantity = 1
+angle = 306
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,492.86
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,478.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 306
+
+[ship1]
+shipid = 2
+name = Victory Or Death
+design = _alliance surv cobra
+pos = 2111,2400
+quantity = 1
+angle = 306
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,478.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 306
+
+[ship2]
+shipid = 3
+name = Crash mat
+design = _alliance surv cobra
+pos = 2304,2208
+quantity = 1
+angle = 306
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,478.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 306
+
+[ship3]
+shipid = 4
+name = Linkage disequilibrium
+design = _alliance sur wasp
+pos = 95,2208
+quantity = 1
+angle = 45
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,750.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,764.29
+behaviour_2 = FORMATION,7,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 45
+
+[ship4]
+shipid = 5
+name = Perfectly straight curve
+design = _alliance sur wasp
+pos = 480,2400
+quantity = 1
+angle = 45
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,750.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,764.29
+behaviour_2 = FORMATION,7,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 45
+
+[ship5]
+shipid = 6
+name = Catatonic pick-me-up
+design = _alliance sur wasp
+pos = 191,2112
+quantity = 1
+angle = 45
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,750.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,764.29
+behaviour_2 = FORMATION,7,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 45
+
+[ship6]
+shipid = 7
+name = Probiotic army
+design = _alliance sur shark
+pos = 288,2304
+quantity = 1
+angle = 45
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.01,0.00
+angle = 45
+

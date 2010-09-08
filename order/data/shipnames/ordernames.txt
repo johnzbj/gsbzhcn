@@ -1,0 +1,106 @@
+[names]
+The Hand Of God
+Holy Justice
+The Fist Of God
+The Fury Of The Lord
+Light Of Our Lord
+Sword Of Holy Fury
+Sacred Fury
+Sacred Justice
+Divine Justice
+Divine Fury
+Divine Wisdom
+The Word Of God
+Angelic Fury
+Angelic Justice
+Angelic Power
+Righteous Fury
+Righteous Power
+Righteous Energy
+Blessed Fury
+Blessed Power
+Devout Kingdom
+Blessed Kingdom
+Righteous Kingdom
+Sacrosanct Wisdom
+Hallowed Fury
+Hallowed Name
+Hallowed Justice
+Hallowed Power
+Hallowed Kingdom
+Holy Kingdom
+Holy Land
+Holy Defender
+Sacred Defender
+Righteous Defender
+Blessed Defender
+Reverent Warrior
+Blessed Warrior
+Holy Warrior
+Hallowed Warrior
+Angelic Warrior
+Angel Warrior
+Hallowed Saint
+Righteous Saint
+Holy Saint
+Blessed Saint
+Angelic Saint
+Divine Saint
+Divine Warrior
+Spiritual Kingomd
+Spiritual Guide
+Spiritual Warrior
+Spiritual Fury
+Spiritual Defender
+Spiritual Battle
+Spiritual Power
+Spiritual Energy
+Devout Warrior
+Devout Kingdom
+Devout People
+Devout Fury
+Devout Energy
+Pious Kingdom
+Pious Warrior
+Holy Believer
+Devout Believer
+Godly Warrior
+Godly Defender
+Celestial Warrior
+Celestial Kingdom
+Celestial Gift
+Celestial Defender
+Celestial Power
+Celestial Fury
+Celestial King
+Holy Rapture
+Devoted Justice
+Devoted Warrior
+Devoted Evangelist
+Solemn Duty
+Solemn Warrior
+Solemn Preacher
+Solemn Teacher
+Holy Teacher
+Pious Teacher
+Worshipful Warrior
+Worshipful Soldier
+Worshipful Kingdom
+Holy Soldier
+Pious Solider
+Blessed Soldier
+Hallowed Soldier
+Devout Soldier
+Spiritual Soldier
+Holy Commander
+Blessed Hero
+Solemn Hero
+Devoted Servant
+Holy Servant
+Godly Servant
+Angelic Servant
+Celestial Servant
+Celestial Commander
+
+
+

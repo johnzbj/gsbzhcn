@@ -1,0 +1,233 @@
+[ship0]
+shipid = 7
+name = Sampling error
+design = _tribe freedom cruiser
+pos = 2208,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,421.43
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,671.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,678.57
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship1]
+shipid = 8
+name = Fight of fancy
+design = _tribe freedom cruiser
+pos = 2208,1727
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,421.43
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,671.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,678.57
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship2]
+shipid = 9
+name = Suicidal Tendencies
+design = _tribe freedom cruiser
+pos = 2208,1920
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,421.43
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,671.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,678.57
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 4
+name = Blue squadron
+design = _tribe heaven fighter
+pos = 2400,672
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.40,357.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.20,378.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = ESCORT,10,203.38,0.00
+angle = 270
+
+[ship4]
+shipid = 5
+name = Aqua squadron
+design = _tribe heaven fighter
+pos = 2400,1248
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.40,357.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.20,378.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = ESCORT,3,216.54,0.00
+angle = 270
+
+[ship5]
+shipid = 6
+name = Black squadron
+design = _tribe heaven fighter
+pos = 2400,960
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.40,357.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.20,378.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 1
+name = The first time ever I saw your race
+design = _tribe paradise cruiser
+pos = 2208,863
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,607.14
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.50,0.00
+angle = 270
+
+[ship7]
+shipid = 2
+name = Live outside the box
+design = _tribe paradise cruiser
+pos = 2208,1056
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,607.14
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.50,0.00
+angle = 270
+
+[ship8]
+shipid = 3
+name = Total Overkill
+design = _tribe paradise cruiser
+pos = 2208,1248
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,607.14
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.50,0.00
+angle = 270
+
+[ship9]
+shipid = 10
+name = Agoraphobia in an open space
+design = _tribe paradise cruiser
+pos = 2208,672
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,607.14
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.50,0.00
+angle = 270
+
+[ship10]
+shipid = 11
+name = Grandiosity of delusional proportions
+design = _tribe unity frigate
+pos = 2591,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,835.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,864.29
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 12
+name = Empathic enthalpy
+design = _tribe unity frigate
+pos = 2591,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,835.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,864.29
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship12]
+shipid = 13
+name = Catatonic pick-me-up
+design = _tribe unity frigate
+pos = 2591,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,835.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,864.29
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship13]
+shipid = 14
+name = Authorized dreamcatcher
+design = _tribe unity frigate
+pos = 2496,1248
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,835.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,864.29
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship14]
+shipid = 15
+name = Mine the gap
+design = _tribe unity frigate
+pos = 2496,1440
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,835.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,864.29
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship15]
+shipid = 16
+name = Anxiety, attack, disorder
+design = _tribe unity frigate
+pos = 2496,1056
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,835.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,864.29
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+

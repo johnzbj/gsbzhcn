@@ -1,0 +1,417 @@
+[ship0]
+shipid = 30
+name = Azure squadron
+design = _imperial ballista fighter
+pos = 3840,2688
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.62,200.00
+angle = 270
+
+[ship1]
+shipid = 44
+name = Fabian
+design = _imperial ballista fighter
+pos = 3936,3744
+quantity = 10
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship2]
+shipid = 14
+name = Mercator
+design = _imperial centurion cruiser
+pos = 3456,3456
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,1.00,635.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.67,428.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 15
+name = Scato
+design = _imperial centurion cruiser
+pos = 3744,3168
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,1.00,635.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.67,428.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,14,0.00,0.00
+angle = 270
+
+[ship4]
+shipid = 17
+name = Severus
+design = _imperial cohort frigate
+pos = 3456,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,435.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.84,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.47,478.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,33,0.00,0.00
+angle = 270
+
+[ship5]
+shipid = 18
+name = Maximus
+design = _imperial cohort frigate
+pos = 3168,3648
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,435.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.84,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.47,478.57
+behaviour_3 = FORMATION,14,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 19
+name = Mercator
+design = _imperial cohort frigate
+pos = 3072,3456
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,435.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.84,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.47,478.57
+behaviour_3 = FORMATION,14,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship7]
+shipid = 20
+name = Tiberius
+design = _imperial cohort frigate
+pos = 3840,672
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,435.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.84,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.47,478.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,29,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 21
+name = Regillus
+design = _imperial cohort frigate
+pos = 3264,864
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,435.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.84,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.47,478.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,33,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 23
+name = Atronius
+design = _imperial cohort frigate
+pos = 3840,2880
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,435.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.84,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.47,478.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,15,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 24
+name = Novius
+design = _imperial cohort frigate
+pos = 3456,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,435.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.84,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.47,478.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,33,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 33
+name = Lucianus
+design = _imperial cohort frigate
+pos = 3264,1056
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,435.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.84,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.47,478.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship12]
+shipid = 26
+name = Plotius
+design = _imperial gladius frigate
+pos = 3552,2976
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,15,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship13]
+shipid = 27
+name = Leddicus
+design = _imperial gladius frigate
+pos = 3168,3264
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,14,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship14]
+shipid = 32
+name = Pastor
+design = _imperial gladius frigate
+pos = 3264,2976
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,41,0.00,0.00
+angle = 270
+
+[ship15]
+shipid = 36
+name = Velius
+design = _imperial gladius frigate
+pos = 3264,2688
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,41,0.00,0.00
+angle = 270
+
+[ship16]
+shipid = 29
+name = Plotius
+design = _imperial hasta frigate
+pos = 3744,480
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+angle = 270
+
+[ship17]
+shipid = 38
+name = Sentius
+design = _imperial hasta frigate
+pos = 3456,2496
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,41,0.00,0.00
+angle = 270
+
+[ship18]
+shipid = 39
+name = Tacitus
+design = _imperial hasta frigate
+pos = 3264,576
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+angle = 270
+
+[ship19]
+shipid = 40
+name = Ventor
+design = _imperial hasta frigate
+pos = 3360,384
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+angle = 270
+
+[ship20]
+shipid = 0
+name = Purple squadron
+design = _imperial javelin fighter
+pos = 3168,2880
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.48,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.77,100.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship21]
+shipid = 1
+name = Cobalt squadron
+design = _imperial javelin fighter
+pos = 3552,3168
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.48,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.77,100.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = ESCORT,15,222.18,0.00
+angle = 270
+
+[ship22]
+shipid = 2
+name = Blue squadron
+design = _imperial javelin fighter
+pos = 3648,2976
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.48,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.77,100.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = ESCORT,15,246.62,0.00
+angle = 270
+
+[ship23]
+shipid = 3
+name = White squadron
+design = _imperial javelin fighter
+pos = 3744,3744
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.73,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.77,100.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship24]
+shipid = 4
+name = Amber squadron
+design = _imperial javelin fighter
+pos = 3744,288
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.48,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.77,100.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = ESCORT,29,216.54,0.00
+angle = 270
+
+[ship25]
+shipid = 6
+name = Orange squadron
+design = _imperial javelin fighter
+pos = 3360,3744
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.73,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.77,100.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship26]
+shipid = 7
+name = Gold squadron
+design = _imperial javelin fighter
+pos = 3168,1248
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.48,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.77,100.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = ESCORT,33,220.30,0.00
+angle = 270
+
+[ship27]
+shipid = 45
+name = Crimson squadron
+design = _imperial javelin fighter
+pos = 3168,384
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,42,100.00,0.00
+angle = 270
+
+[ship28]
+shipid = 41
+name = Rusticus
+design = _imperial multari legion cruiser
+pos = 3456,2784
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship29]
+shipid = 42
+name = Procyon
+design = _imperial multari legion cruiser
+pos = 3456,576
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship30]
+shipid = 43
+name = Emerald squadron
+design = _imperial phalanx fighter
+pos = 3552,3744
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+

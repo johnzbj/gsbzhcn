@@ -1,0 +1,346 @@
+[ship0]
+shipid = 27
+name = Mallawi
+design = _swarm amun fighter
+pos = 2976,1344
+quantity = 7
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.24,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.01,200.00
+behaviour_3 = ESCORT,4,306.77,0.00
+angle = 270
+
+[ship1]
+shipid = 6
+name = NagHammadi
+design = _swarm hathor frigate
+pos = 2688,480
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,12,0.00,0.00
+angle = 270
+
+[ship2]
+shipid = 8
+name = Sedfa
+design = _swarm hathor frigate
+pos = 2688,672
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,12,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 9
+name = Samalut
+design = _swarm hathor frigate
+pos = 2880,1824
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship4]
+shipid = 10
+name = Idwa
+design = _swarm hathor frigate
+pos = 2976,1728
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,9,0.00,0.00
+angle = 270
+
+[ship5]
+shipid = 11
+name = Akhmim
+design = _swarm hathor frigate
+pos = 3071,1632
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,10,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 12
+name = Mahalla
+design = _swarm hathor frigate
+pos = 2591,576
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship7]
+shipid = 14
+name = Girga
+design = _swarm hathor frigate
+pos = 2976,1920
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,9,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 15
+name = Damanhur
+design = _swarm hathor frigate
+pos = 3071,2015
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,14,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 16
+name = Noubarya
+design = _swarm hathor frigate
+pos = 2496,2880
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 17
+name = Taba
+design = _swarm hathor frigate
+pos = 2591,2784
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,16,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 18
+name = Manzala
+design = _swarm hathor frigate
+pos = 2591,2976
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,16,0.00,0.00
+angle = 270
+
+[ship12]
+shipid = 19
+name = Hasan
+design = _swarm hathor frigate
+pos = 2687,3071
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,18,0.00,0.00
+angle = 270
+
+[ship13]
+shipid = 20
+name = Alamein
+design = _swarm hathor frigate
+pos = 2687,2688
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,828.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,842.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = FORMATION,17,0.00,0.00
+angle = 270
+
+[ship14]
+shipid = 21
+name = Qirqas
+design = _swarm horus frigate
+pos = 2976,2688
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,478.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.30,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,22,0.00,0.00
+angle = 270
+
+[ship15]
+shipid = 22
+name = Marsa
+design = _swarm horus frigate
+pos = 2880,2591
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,478.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.30,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,23,0.00,0.00
+angle = 270
+
+[ship16]
+shipid = 23
+name = Ismaïlia
+design = _swarm horus frigate
+pos = 2784,2496
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,478.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.30,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+angle = 270
+
+[ship17]
+shipid = 24
+name = Suez
+design = _swarm horus frigate
+pos = 2880,2400
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,478.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.30,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,23,0.00,0.00
+angle = 270
+
+[ship18]
+shipid = 25
+name = Dendera
+design = _swarm horus frigate
+pos = 2976,2304
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,478.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.30,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,24,0.00,0.00
+angle = 270
+
+[ship19]
+shipid = 1
+name = Disuq
+design = _swarm isis cruiser
+pos = 2496,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,650.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,657.14
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship20]
+shipid = 2
+name = Aswan
+design = _swarm isis cruiser
+pos = 2591,1535
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,650.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,657.14
+behaviour_2 = FORMATION,1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship21]
+shipid = 3
+name = Helwan
+design = _swarm isis cruiser
+pos = 2591,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,650.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,657.14
+behaviour_2 = FORMATION,1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship22]
+shipid = 28
+name = Red squadron
+design = _swarm osiris fighter
+pos = 2784,1824
+quantity = 2
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,9,100.00,0.00
+angle = 270
+
+[ship23]
+shipid = 4
+name = Crimson squadron
+design = _swarm ra cruiser
+pos = 2784,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,400.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.55,642.86
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,671.43
+behaviour_3 = FORMATION,1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship24]
+shipid = 26
+name = Shibin
+design = _swarm seth fighter
+pos = 2687,1344
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,1,158.27,0.00
+angle = 270
+

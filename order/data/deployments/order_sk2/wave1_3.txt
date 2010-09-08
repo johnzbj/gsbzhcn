@@ -1,0 +1,131 @@
+[ship0]
+shipid = 13
+name = Andromeda or Bust
+design = _order acolyte fighter
+pos = 3552,1344
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,360.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.61,360.00
+angle = 270
+
+[ship1]
+shipid = 14
+name = Celestial Warrior
+design = _order crusader cruiser
+pos = 384,2400
+quantity = 1
+angle = 45
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,314.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.23,442.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 45
+
+[ship2]
+shipid = 15
+name = Blessed Power
+design = _order crusader cruiser
+pos = 480,2592
+quantity = 1
+angle = 45
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,314.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.23,442.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 45
+
+[ship3]
+shipid = 16
+name = Divine Saint
+design = _order crusader cruiser
+pos = 480,192
+quantity = 1
+angle = 135
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,314.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.23,442.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 135
+
+[ship4]
+shipid = 17
+name = Holy Saint
+design = _order crusader cruiser
+pos = 288,384
+quantity = 1
+angle = 135
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,314.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.23,442.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 135
+
+[ship5]
+shipid = 18
+name = Angel Warrior
+design = _order crusader cruiser
+pos = 2591,192
+quantity = 1
+angle = 216
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,314.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.23,442.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 216
+
+[ship6]
+shipid = 19
+name = Celestial Defender
+design = _order crusader cruiser
+pos = 2688,384
+quantity = 1
+angle = 216
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,314.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.23,442.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 216
+
+[ship7]
+shipid = 20
+name = Sacrosanct Wisdom
+design = _order crusader cruiser
+pos = 2688,2592
+quantity = 1
+angle = 333
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,314.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.23,442.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 333
+
+[ship8]
+shipid = 21
+name = Spiritual Soldier
+design = _order crusader cruiser
+pos = 2496,2400
+quantity = 1
+angle = 333
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,314.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.23,442.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.01,0.00
+angle = 333
+

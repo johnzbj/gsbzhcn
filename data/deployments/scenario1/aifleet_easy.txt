@@ -1,0 +1,166 @@
+[ship0]
+shipid = 6
+name = Triumph
+design = _alliance alligator cruiser
+pos = 1440,672
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.20,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,421.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship1]
+shipid = 11
+name = Falcon
+design = _alliance alligator cruiser
+pos = 1440,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.20,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,421.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,435.71
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship2]
+shipid = 9
+name = Perseverance
+design = _alliance cobra frigate
+pos = 1728,672
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,342.86
+behaviour_1 = ATTACK_FRIGATES,-1,0.53,714.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,735.71
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 0
+name = Purple squadron
+design = _alliance hornet fighter
+pos = 1728,960
+quantity = 6
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.86,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.44,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.19,228.57
+behaviour_3 = ESCORT,8,100.00,0.00
+angle = 270
+
+[ship4]
+shipid = 16
+name = Emerald squadron
+design = _alliance hornet fighter
+pos = 1536,1824
+quantity = 6
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,13,207.14,0.00
+angle = 270
+
+[ship5]
+shipid = 17
+name = Emerald squadron
+design = _alliance hornet fighter
+pos = 1536,192
+quantity = 5
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,12,100.00,0.00
+angle = 270
+
+[ship6]
+shipid = 12
+name = Glorious
+design = _alliance dreadnought
+pos = 1728,192
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.08,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,564.29
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,600.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship7]
+shipid = 13
+name = Searcher
+design = _alliance dreadnought
+pos = 1728,1824
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.08,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,564.29
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,600.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 1
+name = Cobalt squadron
+design = _alliance scorpion fighter
+pos = 1440,960
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.86,300.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.24,300.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 8
+name = Fearless
+design = _alliance shark cruiser
+pos = 1920,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,535.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,500.00
+behaviour_3 = CAUTIOUS,-1,0.28,0.00
+angle = 270
+
+[ship10]
+shipid = 14
+name = Indefatigable
+design = _alliance swordfish frigate
+pos = 1536,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,400.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,385.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.27,407.14
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 15
+name = Behold My Tentacles
+design = _alliance wasp frigate
+pos = 1728,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
