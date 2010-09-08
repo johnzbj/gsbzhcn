@@ -1,0 +1,78 @@
+[ship0]
+shipid = 1
+name = Law of diminishing returns
+design = _alliance sur python
+pos = 2304,288
+quantity = 1
+angle = 225
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,528.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,535.71
+behaviour_2 = VULTURE,-1,0.00,0.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 225
+
+[ship1]
+shipid = 2
+name = Grandiosity of delusional proportions
+design = _alliance sur python
+pos = 1920,288
+quantity = 1
+angle = 225
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,528.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,535.71
+behaviour_2 = VULTURE,-1,0.00,0.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 225
+
+[ship2]
+shipid = 3
+name = Galactic Maniac
+design = _alliance sur python
+pos = 2400,576
+quantity = 1
+angle = 225
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,528.57
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,535.71
+behaviour_2 = VULTURE,-1,0.00,0.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 225
+
+[ship3]
+shipid = 4
+name = Voyeurism to outer space
+design = _alliance sur wasp
+pos = 95,768
+quantity = 1
+angle = 108
+behaviour_0 = ATTACK_FRIGATES,-1,0.31,700.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.88,778.57
+behaviour_2 = VULTURE,-1,0.00,0.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 108
+
+[ship4]
+shipid = 5
+name = Andromeda or Bust
+design = _alliance sur wasp
+pos = 191,672
+quantity = 1
+angle = 108
+behaviour_0 = ATTACK_FRIGATES,-1,0.31,700.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.88,778.57
+behaviour_2 = VULTURE,-1,0.00,0.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 108
+
+[ship5]
+shipid = 6
+name = Solar Ninja
+design = _alliance sur wasp
+pos = 191,864
+quantity = 1
+angle = 108
+behaviour_0 = ATTACK_FRIGATES,-1,0.31,700.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.88,778.57
+behaviour_2 = VULTURE,-1,0.00,0.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 108
+

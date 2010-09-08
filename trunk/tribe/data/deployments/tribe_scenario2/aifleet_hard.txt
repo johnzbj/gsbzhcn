@@ -1,0 +1,134 @@
+[ship0]
+shipid = 1
+name = Red squadron
+design = _tribe dove fighter
+pos = 1920,192
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship1]
+shipid = 2
+name = Purple squadron
+design = _tribe dove fighter
+pos = 1920,2304
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,10,391.35,0.00
+angle = 270
+
+[ship2]
+shipid = 10
+name = Warped Mind
+design = _tribe freedom cruiser
+pos = 2015,2112
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.03,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.98,435.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,371.43
+behaviour_3 = RETALIATE,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 4
+name = Mine the gap
+design = _tribe paradise cruiser
+pos = 2208,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,600.00
+behaviour_3 = CAUTIOUS,-1,0.25,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship4]
+shipid = 5
+name = Start an initiative initiative
+design = _tribe paradise cruiser
+pos = 2208,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,600.00
+behaviour_3 = CAUTIOUS,-1,0.25,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship5]
+shipid = 3
+name = Bronze squadron
+design = _tribe sunset fighter
+pos = 1920,1248
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship6]
+shipid = 6
+name = Coping mechanoid
+design = _tribe unity frigate
+pos = 2111,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,892.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,878.57
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship7]
+shipid = 7
+name = Monetarism makes the world go round
+design = _tribe unity frigate
+pos = 2015,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,892.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,878.57
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,5,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 8
+name = Free disassociation
+design = _tribe unity frigate
+pos = 2111,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,892.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,878.57
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 9
+name = Or Die Trying
+design = _tribe unity frigate
+pos = 2015,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,892.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,878.57
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,4,0.00,0.00
+angle = 270
+

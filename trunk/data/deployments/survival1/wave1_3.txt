@@ -1,0 +1,50 @@
+[ship0]
+shipid = 1
+name = Perperna
+design = _iw missile cruiser
+pos = 1728,1824
+quantity = 1
+angle = 315
+behaviour_0 = ATTACK_FRIGATES,-1,0.08,307.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,921.43
+behaviour_2 = ATTACK_FIGHTERS,-1,0.50,200.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 315
+
+[ship1]
+shipid = 2
+name = Martinus
+design = _iw maincruiser
+pos = 192,192
+quantity = 1
+angle = 135
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,592.86
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,621.43
+behaviour_2 = CAUTIOUS,-1,0.25,0.00
+angle = 135
+
+[ship2]
+shipid = 3
+name = Statlilius
+design = _iw ecm frigate
+pos = 192,1824
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,0.16,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,714.29
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+angle = 54
+
+[ship3]
+shipid = 4
+name = Licinius
+design = _iw ecm frigate
+pos = 1824,192
+quantity = 1
+angle = 225
+behaviour_0 = ATTACK_FRIGATES,-1,0.16,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,714.29
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+angle = 225
+

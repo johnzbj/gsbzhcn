@@ -1,0 +1,130 @@
+[ship0]
+shipid = 5
+name = It’s such a perfect day
+design = _tribe eternity frigate
+pos = 1920,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.05,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.92,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.63,528.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship1]
+shipid = 6
+name = Voyeurism to outer space
+design = _tribe eternity frigate
+pos = 1920,1728
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.05,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.92,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.63,528.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship2]
+shipid = 7
+name = Sampling error
+design = _tribe eternity frigate
+pos = 1920,864
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.05,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.92,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.63,528.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,5,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship3]
+shipid = 8
+name = Fight of fancy
+design = _tribe eternity frigate
+pos = 1920,1824
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.05,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.92,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.63,528.57
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = FORMATION,6,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship4]
+shipid = 4
+name = Emerald squadron
+design = _tribe heaven fighter
+pos = 2110,1440
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,1,333.08,0.00
+angle = 270
+
+[ship5]
+shipid = 10
+name = Gold squadron
+design = _tribe heaven fighter
+pos = 2110,1152
+quantity = 10
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,2,329.32,0.00
+angle = 270
+
+[ship6]
+shipid = 2
+name = Live outside the box
+design = _tribe paradise cruiser
+pos = 2304,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,335.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,328.57
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship7]
+shipid = 9
+name = Suicidal Tendencies
+design = _tribe unity frigate
+pos = 2110,1632
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,785.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.79,842.86
+behaviour_3 = ESCORT,1,404.51,0.00
+angle = 270
+
+[ship8]
+shipid = 1
+name = The first time ever I saw your race
+design = _tribe utopia cruiser
+pos = 2304,1440
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.93,428.57
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,407.14
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+behaviour_6 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+

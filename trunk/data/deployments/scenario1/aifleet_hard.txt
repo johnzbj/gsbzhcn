@@ -1,0 +1,211 @@
+[ship0]
+shipid = 19
+name = Magnificent
+design = _alliance alligator cruiser
+pos = 1824,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,800.00
+angle = 270
+
+[ship1]
+shipid = 13
+name = Black squadron
+design = _alliance hornet fighter
+pos = 1728,1344
+quantity = 10
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.79,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.01,100.00
+behaviour_3 = ESCORT,7,177.07,0.00
+angle = 270
+
+[ship2]
+shipid = 14
+name = Green squadron
+design = _alliance hornet fighter
+pos = 1728,768
+quantity = 10
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.15,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,100.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = ESCORT,6,162.03,0.00
+angle = 270
+
+[ship3]
+shipid = 22
+name = Grey squadron
+design = _alliance hornet fighter
+pos = 1440,576
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,8,293.61,0.00
+angle = 270
+
+[ship4]
+shipid = 23
+name = Crimson squadron
+design = _alliance hornet fighter
+pos = 1440,1536
+quantity = 8
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,3,293.61,0.00
+angle = 270
+
+[ship5]
+shipid = 3
+name = Triumph
+design = _alliance shark cruiser
+pos = 1632,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,100.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,600.00
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,635.71
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship6]
+shipid = 8
+name = Furious
+design = _alliance shark cruiser
+pos = 1632,576
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,100.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,600.00
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,635.71
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship7]
+shipid = 6
+name = Hunter
+design = _alliance stingray cruiser
+pos = 1920,768
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,621.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,600.00
+behaviour_3 = CAUTIOUS,-1,0.50,0.00
+behaviour_4 = FORMATION,7,0.00,0.00
+behaviour_5 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_6 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 7
+name = Scorpion
+design = _alliance stingray cruiser
+pos = 1920,1344
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.01,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,621.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,600.00
+behaviour_3 = CAUTIOUS,-1,0.50,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 20
+name = Natural de-selection
+design = _alliance stingray cruiser
+pos = 1536,1056
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,414.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.52,490.00
+behaviour_2 = ATTACK_CRUISERS,-1,1.00,800.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship10]
+shipid = 15
+name = Target Practice
+design = _alliance wasp frigate
+pos = 1440,480
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,378.57
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,371.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = PROTECTIVE,8,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 16
+name = Vengeance
+design = _alliance wasp frigate
+pos = 1440,1632
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,378.57
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,371.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = PROTECTIVE,3,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship12]
+shipid = 17
+name = Planet Pounder
+design = _alliance wasp frigate
+pos = 1440,672
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,378.57
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,371.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = PROTECTIVE,8,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship13]
+shipid = 18
+name = Warrior
+design = _alliance wasp frigate
+pos = 1440,1440
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,378.57
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,371.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = PROTECTIVE,3,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship14]
+shipid = 21
+name = Victory Or Death
+design = _alliance wasp frigate
+pos = 1824,1056
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,20,0.00,0.00
+angle = 270
+

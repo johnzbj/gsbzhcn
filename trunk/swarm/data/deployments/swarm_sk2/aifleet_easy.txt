@@ -1,0 +1,253 @@
+[ship0]
+shipid = 17
+name = Crimson squadron
+design = _swarm amun fighter
+pos = 2688,1056
+quantity = 13
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,16,227.82,0.00
+angle = 270
+
+[ship1]
+shipid = 18
+name = Orange squadron
+design = _swarm amun fighter
+pos = 2687,2304
+quantity = 13
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,15,229.70,0.00
+angle = 270
+
+[ship2]
+shipid = 1
+name = Said
+design = _swarm bastet cruiser
+pos = 2496,1632
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,671.43
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,628.57
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship3]
+shipid = 2
+name = Samalut
+design = _swarm hathor frigate
+pos = 2400,1440
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,842.86
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,857.14
+behaviour_2 = FORMATION,1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship4]
+shipid = 3
+name = Dendera
+design = _swarm hathor frigate
+pos = 2687,1632
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,842.86
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,857.14
+behaviour_2 = FORMATION,1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship5]
+shipid = 4
+name = Faiyum
+design = _swarm hathor frigate
+pos = 2399,1824
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,842.86
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,857.14
+behaviour_2 = FORMATION,1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 8
+name = Sharm
+design = _swarm hathor frigate
+pos = 2591,2784
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,842.86
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,857.14
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship7]
+shipid = 19
+name = Giza
+design = _swarm hathor frigate
+pos = 2687,2688
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,842.86
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,857.14
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 9
+name = Mansoura
+design = _swarm horus frigate
+pos = 2784,672
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,10,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 10
+name = Asyut
+design = _swarm horus frigate
+pos = 2687,767
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 11
+name = ShibinElKom
+design = _swarm horus frigate
+pos = 2784,864
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,10,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 12
+name = Safaga
+design = _swarm horus frigate
+pos = 2880,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,11,0.00,0.00
+angle = 270
+
+[ship12]
+shipid = 13
+name = Matareya
+design = _swarm horus frigate
+pos = 2880,576
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,9,0.00,0.00
+angle = 270
+
+[ship13]
+shipid = 7
+name = White squadron
+design = _swarm osiris fighter
+pos = 3071,1535
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = STICKTOGETHER,-1,14.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship14]
+shipid = 15
+name = Zagazig
+design = _swarm ra cruiser
+pos = 2496,2304
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,664.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,671.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship15]
+shipid = 16
+name = Sedfa
+design = _swarm ra cruiser
+pos = 2496,1056
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,664.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,671.43
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship16]
+shipid = 5
+name = White squadron
+design = _swarm seth fighter
+pos = 3071,1728
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = STICKTOGETHER,-1,14.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship17]
+shipid = 6
+name = Aqua squadron
+design = _swarm seth fighter
+pos = 3071,1344
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = STICKTOGETHER,-1,14.00,0.00
+behaviour_4 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_5 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+

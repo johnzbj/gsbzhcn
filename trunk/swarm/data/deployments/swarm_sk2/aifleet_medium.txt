@@ -1,0 +1,230 @@
+[ship0]
+shipid = 9
+name = Crimson squadron
+design = _swarm amun fighter
+pos = 2399,2688
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,2,100.00,0.00
+behaviour_4 = PROTECTIVE,2,0.00,0.00
+angle = 270
+
+[ship1]
+shipid = 10
+name = Noubarya
+design = _swarm bastet cruiser
+pos = 2976,2496
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,671.43
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,657.14
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship2]
+shipid = 11
+name = Kafr
+design = _swarm bastet cruiser
+pos = 2976,2880
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,671.43
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,657.14
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 12
+name = Ansena
+design = _swarm bastet cruiser
+pos = 2880,2688
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,671.43
+behaviour_1 = ATTACK_CRUISERS,-1,0.80,657.14
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship4]
+shipid = 13
+name = Safaga
+design = _swarm horus frigate
+pos = 2784,2400
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,3,0.00,0.00
+angle = 270
+
+[ship5]
+shipid = 14
+name = Dairut
+design = _swarm horus frigate
+pos = 2784,2880
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,12,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 15
+name = Amarna
+design = _swarm horus frigate
+pos = 2784,2591
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = ESCORT,2,199.62,0.00
+angle = 270
+
+[ship7]
+shipid = 16
+name = Alamein
+design = _swarm horus frigate
+pos = 2784,3071
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = ESCORT,1,210.90,0.00
+angle = 270
+
+[ship8]
+shipid = 1
+name = Matareya
+design = _swarm sekhmet cruiser
+pos = 2591,2976
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,421.43
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,450.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 2
+name = Luxor
+design = _swarm sekhmet cruiser
+pos = 2591,2688
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,421.43
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,450.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 3
+name = Faiyum
+design = _swarm sekhmet cruiser
+pos = 2591,2400
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,421.43
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,450.00
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 4
+name = Azure squadron
+design = _swarm seth fighter
+pos = 2496,864
+quantity = 12
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.05,200.00
+behaviour_3 = STICKTOGETHER,-1,14.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+behaviour_6 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship12]
+shipid = 5
+name = Grey squadron
+design = _swarm seth fighter
+pos = 2591,767
+quantity = 12
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.05,200.00
+behaviour_3 = STICKTOGETHER,-1,14.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+behaviour_6 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship13]
+shipid = 6
+name = Crimson squadron
+design = _swarm seth fighter
+pos = 2687,672
+quantity = 12
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.05,200.00
+behaviour_3 = STICKTOGETHER,-1,14.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+behaviour_6 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship14]
+shipid = 7
+name = Bronze squadron
+design = _swarm seth fighter
+pos = 2784,576
+quantity = 12
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.05,200.00
+behaviour_3 = STICKTOGETHER,-1,14.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+behaviour_6 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+
+[ship15]
+shipid = 8
+name = White squadron
+design = _swarm seth fighter
+pos = 2880,480
+quantity = 12
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.05,200.00
+behaviour_3 = STICKTOGETHER,-1,14.00,0.00
+behaviour_4 = RETALIATE,-1,0.00,0.00
+behaviour_5 = VULTURE,-1,0.00,0.00
+behaviour_6 = CAUTIOUS,-1,0.25,0.00
+angle = 270
+

@@ -1,0 +1,61 @@
+[ship0]
+shipid = 2
+name = Sticks and stones
+design = _anti-fighter cruiser
+pos = 1824,576
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,264.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,521.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,585.71
+angle = 270
+
+[ship1]
+shipid = 3
+name = Linkage disequilibrium
+design = _anti-fighter cruiser
+pos = 1824,1440
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,264.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,521.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,585.71
+angle = 270
+
+[ship2]
+shipid = 4
+name = Self delusional beginnings
+design = _alliance swordfish frigate
+pos = 1440,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,378.57
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,450.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,435.71
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 5
+name = Basic human riots
+design = _alliance cobra frigate
+pos = 1728,864
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,835.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,692.86
+angle = 270
+
+[ship4]
+shipid = 6
+name = Law of diminishing returns
+design = _alliance cobra frigate
+pos = 1728,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,835.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,692.86
+angle = 270
+

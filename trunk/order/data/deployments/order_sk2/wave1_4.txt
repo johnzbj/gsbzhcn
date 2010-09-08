@@ -1,0 +1,153 @@
+[ship0]
+shipid = 13
+name = Andromeda or Bust
+design = _order acolyte fighter
+pos = 3552,1344
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,360.00
+behaviour_1 = ATTACK_CRUISERS,-1,0.61,360.00
+behaviour_2 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship1]
+shipid = 15
+name = Solemn Warrior
+design = _order acolyte fighter
+pos = 288,1248
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,1.00,360.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.61,360.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship2]
+shipid = 16
+name = Blessed Saint
+design = _order acolyte fighter
+pos = 288,1440
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,1.00,360.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.61,360.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 18
+name = Angelic Saint
+design = _order acolyte fighter
+pos = 288,1632
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,1.00,360.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.61,360.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship4]
+shipid = 14
+name = Devout Energy
+design = _order disciple fighter
+pos = 192,1344
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,214.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,240.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,240.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship5]
+shipid = 17
+name = Worshipful Soldier
+design = _order disciple fighter
+pos = 192,1536
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,214.29
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,240.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,240.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 19
+name = Celestial Fury
+design = _order redemption frigate
+pos = 192,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,285.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,314.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,221.43
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship7]
+shipid = 20
+name = Worshipful Warrior
+design = _order redemption frigate
+pos = 192,1727
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,285.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,314.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,221.43
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 21
+name = Blessed Hero
+design = _order redemption frigate
+pos = 192,1920
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,285.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,314.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,221.43
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 22
+name = Devoted Warrior
+design = _order redemption frigate
+pos = 192,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,285.71
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,314.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,221.43
+behaviour_3 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 23
+name = Sacred Defender
+design = _order saviour frigate
+pos = 288,863
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,464.29
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,471.43
+behaviour_2 = VULTURE,-1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 24
+name = Devout Kingdom
+design = _order saviour frigate
+pos = 288,2016
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.70,464.29
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,471.43
+behaviour_2 = VULTURE,-1,0.00,0.00
+angle = 270
+

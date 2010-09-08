@@ -1,0 +1,221 @@
+[ship0]
+shipid = 1
+name = Bag Of Spanners
+design = _alliance sur wasp
+pos = 1152,288
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 180
+
+[ship1]
+shipid = 2
+name = Potted history
+design = _alliance sur wasp
+pos = 1056,384
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 180
+
+[ship2]
+shipid = 3
+name = Anxiety, attack, disorder
+design = _alliance sur wasp
+pos = 1152,480
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 180
+
+[ship3]
+shipid = 4
+name = Deaf, dumb and blasé
+design = _alliance sur wasp
+pos = 1056,576
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 180
+
+[ship4]
+shipid = 5
+name = Natural de-selection
+design = _alliance sur wasp
+pos = 1152,672
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 180
+
+[ship5]
+shipid = 6
+name = Look for the blind spot
+design = _alliance sur wasp
+pos = 1248,384
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 180
+
+[ship6]
+shipid = 7
+name = Voyeurism to the bottom of the sea
+design = _alliance sur wasp
+pos = 1248,576
+quantity = 1
+angle = 180
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 180
+
+[ship7]
+shipid = 8
+name = Die Puny Humans!
+design = _alliance sur wasp
+pos = 479,2208
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 54
+
+[ship8]
+shipid = 9
+name = Warped Mind
+design = _alliance sur wasp
+pos = 672,2208
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 54
+
+[ship9]
+shipid = 10
+name = Common ancestor
+design = _alliance sur wasp
+pos = 287,2208
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 54
+
+[ship10]
+shipid = 11
+name = Fight of fancy
+design = _alliance sur wasp
+pos = 384,2016
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 54
+
+[ship11]
+shipid = 12
+name = My proboscis sucks
+design = _alliance sur wasp
+pos = 576,2016
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 54
+
+[ship12]
+shipid = 13
+name = It’s only a dream
+design = _alliance sur wasp
+pos = 479,1824
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 54
+
+[ship13]
+shipid = 14
+name = Andromeda or Bust
+design = _alliance sur wasp
+pos = 192,2400
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 54
+
+[ship14]
+shipid = 15
+name = It’s such a perfect day
+design = _alliance sur wasp
+pos = 384,2400
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 54
+
+[ship15]
+shipid = 16
+name = Defense mechanoid
+design = _alliance sur wasp
+pos = 576,2400
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 54
+
+[ship16]
+shipid = 17
+name = Mine the gap
+design = _alliance sur wasp
+pos = 768,2400
+quantity = 1
+angle = 54
+behaviour_0 = ATTACK_FRIGATES,-1,1.00,757.14
+behaviour_1 = ATTACK_CRUISERS,-1,0.50,757.14
+behaviour_2 = KEEPMOVING,-1,0.00,0.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 54
+

@@ -1,0 +1,210 @@
+[ship0]
+shipid = 5
+name = Qirqas
+design = _swarm amun fighter
+pos = 2592,768
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = STICKTOGETHER,-1,14.00,0.00
+angle = 270
+
+[ship1]
+shipid = 6
+name = Rosetta
+design = _swarm amun fighter
+pos = 2592,2208
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,1.00,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = STICKTOGETHER,-1,14.00,0.00
+angle = 270
+
+[ship2]
+shipid = 2
+name = Faiyum
+design = _swarm bastet cruiser
+pos = 2592,2016
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,642.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 3
+name = Luxor
+design = _swarm bastet cruiser
+pos = 2592,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,642.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship4]
+shipid = 4
+name = Idwa
+design = _swarm bastet cruiser
+pos = 2592,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_1 = ATTACK_CRUISERS,-1,1.00,642.86
+behaviour_2 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_3 = VULTURE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship5]
+shipid = 13
+name = Mahalla
+design = _swarm hathor frigate
+pos = 2399,960
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,4,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 14
+name = Mansoura
+design = _swarm hathor frigate
+pos = 2399,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,3,0.00,0.00
+angle = 270
+
+[ship7]
+shipid = 15
+name = Cairo
+design = _swarm hathor frigate
+pos = 2399,2016
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = FORMATION,2,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 7
+name = Alexandria
+design = _swarm horus frigate
+pos = 2399,1056
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.83,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,500.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 8
+name = Bersha
+design = _swarm horus frigate
+pos = 2304,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.83,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,500.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 9
+name = Girga
+design = _swarm horus frigate
+pos = 2208,1248
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.83,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,500.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 10
+name = Amarna
+design = _swarm horus frigate
+pos = 2399,1920
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.83,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,500.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship12]
+shipid = 11
+name = Hermopolis
+design = _swarm horus frigate
+pos = 2304,1824
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.83,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,500.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship13]
+shipid = 12
+name = Said
+design = _swarm horus frigate
+pos = 2208,1728
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.83,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,500.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+behaviour_4 = VULTURE,-1,0.00,0.00
+behaviour_5 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship14]
+shipid = 16
+name = Giza
+design = _swarm osiris fighter
+pos = 2496,1344
+quantity = 6
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,3,100.00,0.00
+angle = 270
+

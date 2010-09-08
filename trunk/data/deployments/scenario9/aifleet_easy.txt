@@ -1,0 +1,336 @@
+[ship0]
+shipid = 47
+name = Lucianus
+design = _imperial centurion cruiser
+pos = 3744,2496
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,300.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,400.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,664.29
+angle = 270
+
+[ship1]
+shipid = 34
+name = Hiberus
+design = _imperial cohort frigate
+pos = 3168,1728
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,257.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,321.43
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,350.00
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship2]
+shipid = 39
+name = Evodius
+design = _imperial cohort frigate
+pos = 3456,3552
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,321.43
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,392.86
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,421.43
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship3]
+shipid = 38
+name = Sentius
+design = _imperial gladius frigate
+pos = 3360,3264
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = ESCORT,4,100.00,0.00
+angle = 270
+
+[ship4]
+shipid = 40
+name = Taras
+design = _imperial gladius frigate
+pos = 3456,3744
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,500.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,500.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,500.00
+behaviour_3 = ESCORT,5,100.00,0.00
+angle = 270
+
+[ship5]
+shipid = 41
+name = Flavian
+design = _imperial hasta frigate
+pos = 3360,1920
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.30,471.43
+behaviour_1 = ATTACK_FRIGATES,-1,0.70,835.71
+behaviour_2 = ATTACK_CRUISERS,-1,0.50,857.14
+behaviour_3 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship6]
+shipid = 0
+name = Scato
+design = _imperial imperator cruiser
+pos = 3648,1536
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,257.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,457.14
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,521.43
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,1,0.00,0.00
+behaviour_5 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship7]
+shipid = 1
+name = Octavian
+design = _imperial imperator cruiser
+pos = 3744,1824
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,257.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,457.14
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,521.43
+behaviour_3 = RETALIATE,-1,0.00,0.00
+angle = 270
+
+[ship8]
+shipid = 4
+name = Licinius
+design = _imperial imperator cruiser
+pos = 3744,3264
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,257.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,457.14
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,521.43
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = KEEPMOVING,-1,0.00,0.00
+angle = 270
+
+[ship9]
+shipid = 5
+name = Claudius
+design = _imperial imperator cruiser
+pos = 3744,3552
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,257.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,457.14
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,521.43
+behaviour_3 = RETALIATE,-1,0.00,0.00
+angle = 270
+
+[ship10]
+shipid = 6
+name = Augustus
+design = _imperial imperator cruiser
+pos = 3648,2112
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,257.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,457.14
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,521.43
+behaviour_3 = RETALIATE,-1,0.00,0.00
+behaviour_4 = FORMATION,1,0.00,0.00
+behaviour_5 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship11]
+shipid = 54
+name = Moderatus
+design = _imperial javelin fighter
+pos = 3648,384
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.31,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.73,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship12]
+shipid = 55
+name = Procyon
+design = _imperial javelin fighter
+pos = 3648,576
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.31,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.73,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship13]
+shipid = 56
+name = Aponius
+design = _imperial javelin fighter
+pos = 3936,2112
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.31,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.73,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,1,274.81,0.00
+angle = 270
+
+[ship14]
+shipid = 57
+name = Gracilis
+design = _imperial javelin fighter
+pos = 3072,3168
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.31,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.73,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship15]
+shipid = 58
+name = Severus
+design = _imperial javelin fighter
+pos = 3648,2784
+quantity = 5
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,47,100.00,0.00
+angle = 270
+
+[ship16]
+shipid = 9
+name = Atronius
+design = _imperial legion cruiser
+pos = 3744,864
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,307.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,314.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,550.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship17]
+shipid = 11
+name = Larcius
+design = _imperial legion cruiser
+pos = 3168,3648
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,307.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,314.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,550.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship18]
+shipid = 13
+name = Maximus
+design = _imperial legion cruiser
+pos = 3360,768
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,307.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,314.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,550.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship19]
+shipid = 15
+name = Novius
+design = _imperial legion cruiser
+pos = 3360,1152
+quantity = 1
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.10,307.14
+behaviour_1 = ATTACK_FRIGATES,-1,0.50,314.29
+behaviour_2 = ATTACK_CRUISERS,-1,0.80,550.00
+behaviour_3 = CO_OPERATIVE,-1,0.00,0.00
+angle = 270
+
+[ship20]
+shipid = 48
+name = Titus
+design = _imperial phalanx fighter
+pos = 3552,960
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,13,291.73,0.00
+angle = 270
+
+[ship21]
+shipid = 49
+name = Micianus
+design = _imperial phalanx fighter
+pos = 3168,1440
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,34,259.77,0.00
+angle = 270
+
+[ship22]
+shipid = 50
+name = Opilio
+design = _imperial phalanx fighter
+pos = 3648,192
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship23]
+shipid = 51
+name = Pastor
+design = _imperial phalanx fighter
+pos = 3360,1728
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+behaviour_3 = ESCORT,41,600.00,0.00
+angle = 270
+
+[ship24]
+shipid = 52
+name = Damasus
+design = _imperial phalanx fighter
+pos = 3072,3264
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
+[ship25]
+shipid = 53
+name = Rusticus
+design = _imperial phalanx fighter
+pos = 3072,3360
+quantity = 16
+angle = 270
+behaviour_0 = ATTACK_FIGHTERS,-1,0.80,200.00
+behaviour_1 = ATTACK_FRIGATES,-1,0.40,200.00
+behaviour_2 = ATTACK_CRUISERS,-1,0.20,200.00
+angle = 270
+
