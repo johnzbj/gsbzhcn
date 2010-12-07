@@ -10,6 +10,14 @@ DWORD ClearEntry = 0x0050130c;
 DWORD ClearBack = 0x00501311;
 #define ClearRestoreCode  __asm mov eax, 0x00402F90 __asm call eax
 
+DWORD ClearEntry1 = 0x0040518b;
+DWORD ClearBack1 = 0x00405190;
+#define ClearRestoreCode1  __asm mov eax, 0x004036f0 __asm call eax
+
+DWORD ResetEntry = 0x00405224;
+DWORD ResetBack = 0x00405229;
+#define ResetRestoreCode  __asm mov eax, 0x00504ce0 __asm call eax
+
 DWORD ChooseFontEntry = 0x004ff170;
 DWORD ChooseFontBack = 0x004ff179;
 #define ChooseFontRestoreCode __asm push ebx __asm mov ebx, eax __asm fld dword ptr [ebx+0x21390]
@@ -61,6 +69,26 @@ ClearHook ()
   __asm popad;
   ClearRestoreCode;
   __asm jmp ClearBack;
+}
+
+void __declspec(naked)
+ClearHook1 ()
+{
+  __asm pushad;
+  Font.ClearAll ();
+  __asm popad;
+  ClearRestoreCode1;
+  __asm jmp ClearBack1;
+}
+
+void __declspec(naked)
+ResetHook ()
+{
+    __asm pushad;
+    Font.Reset();
+    __asm popad;
+    ResetRestoreCode;
+    __asm jmp ResetBack;
 }
 
 void __declspec(naked)
@@ -125,7 +153,7 @@ GetTextWidthHook()
 {
     char *Text;
     __asm mov Text, ebx;
-    return Font.GetTextWidht(Text);
+    return Font.GetTextWidth(Text);
 }
 
 bool
@@ -133,6 +161,8 @@ ApplyPatch ()
 {
   JmpPatch ((void *) InitHook, InitEntry);
   JmpPatch ((void *) ClearHook, ClearEntry);
+  JmpPatch ((void *) ClearHook1, ClearEntry1);
+  JmpPatch ((void *) ResetHook, ResetEntry);
   JmpPatch ((void *) DrawTextHook, DrawTextEntry);
   JmpPatch ((void *) ChooseFontHook, ChooseFontEntry);
   JmpPatch ((void *) DrawTextBoxHook, DrawTextBoxEntry);

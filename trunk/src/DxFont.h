@@ -41,7 +41,8 @@ public:
   void ChooseFont (char *FontName);
   void DrawTextBox (char *Text, float X, float Y, float Width, D3DCOLOR Color, float *Size);
   void GetTextBoxSize(char *Text, int *Size);
-  int GetTextWidht(char *Text);
+  int GetTextWidth(char *Text);
+  void Reset ();
 };
 
 #endif
