@@ -47,7 +47,8 @@ DxFont::InitAll (IDirect3DDevice9 * pd3dDevice)
   ClearAll ();
   ReadIni ();
 
-  D3dDevice = pd3dDevice;
+  if (pd3dDevice != NULL)
+  {D3dDevice = pd3dDevice;}
 
   HDC hdc = GetDC (NULL);
   if (Font16.size > 0)
@@ -201,9 +202,14 @@ void DxFont::GetTextBoxSize(char *Text, int *Size)
 	Size[1] = rc.bottom;
 }
 
-int DxFont::GetTextWidht(char *Text)
+int DxFont::GetTextWidth(char *Text)
 {
 	RECT rc = {0, 0, 0, 0};
 	CurrentFont->handle->DrawText (NULL, Text, -1, &rc, DT_CALCRECT, 0);
 	return rc.right;
+}
+
+void DxFont::Reset ()
+{
+    InitAll(NULL);
 }
